@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-11-13 06:45:22'
+date: '2004-11-13 07:18:29'
 layout: post
 title: Power_Supplies
 ---
@@ -23,6 +23,12 @@ Parts
 Parts though hole
 
     L1    Jw Miller       100 uH, 0.13 ohm.  Mouser 542-2112-H
+    IC    National        LM2597N-ADJ        ADJ, Buck Regulator        Digikey?  Mouser?
+    Cin   Panasonic       EEV-FK1V100R       [NumCaps=1](NumCaps=1.html) 10.00000 uF,0.7000 Ohms
+    Cout  Panasonic       EEV-FK1E330P       [NumCaps=2](NumCaps=2.html) 33.00000 uF,0.3600 Ohms
+    Rfb   2260 Ohm
+    Rfb1  1000 Ohm
+
 
 Note parts selected via Nationals design workbench.<br>
 
