@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-10-05 20:59:24'
+date: '2004-10-05 21:01:46'
 layout: post
 title: KiteSurfing
 ---
@@ -9,7 +9,7 @@ title: KiteSurfing
 
 [http://sports.groups.yahoo.com/group/3rdave/message/60](http://sports.groups.yahoo.com/group/3rdave/message/60)
 
-3rd Avenue Kiteboarding Safety Guidelines
+### 3rd Avenue Kiteboarding Safety Guidelines
 
 In an effort to promote safety for kiteboarders and other
 recreational users of 3rd Avenue, a consortium of local kiteboarders
@@ -20,7 +20,7 @@ time on and off the water. We welcome you to our site and our
 community, and hope you will join us in our effort to promote kite
 safety. Happy kiting!
 
-General 3rd Avenue Guidelines:
+== General 3rd Avenue Guidelines: ===
 
 1. Kites must NEVER be flown over the bike path, windsurfing rig
 area, or in parking lots. This includes trainer and stunt kites.
@@ -61,7 +61,7 @@ community at 3rd Avenue is built on helpfulness; we welcome the
 opportunity to help other kiters stay safe and have fun.
 
 
-Launching Guidelines:
+### Launching Guidelines:
 
 Upper Launch Guidelines -
 1. Lines should be set up perpendicular to the wind at the upper
@@ -126,7 +126,7 @@ the kiter gives you the thumbs-up. Do not hold the kite back, throw
 it up, etc.
 
 
-Landing Guidelines:
+### Landing Guidelines:
 
 Upper Launch Guidelines -
 1. At the upper launch there are separate areas for launching
