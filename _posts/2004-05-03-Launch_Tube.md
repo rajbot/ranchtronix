@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 22:44:14'
+date: '2004-05-03 22:44:45'
 layout: post
 title: Launch_Tube
 ---
@@ -38,8 +38,8 @@ Item Qty Cost Description
   5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10
   6    1   11.48  1"       304 Stainless Steel T, Sch40
   7    1   15.34  1"       304 Stainless Steel Street, Sch40
---------------------------------------------------------------------------------
 Total Cost: 215.77 
+----
 
 Parts Design #3:
 
@@ -53,8 +53,8 @@ Item Qty Cost Description
   5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10
   6    1   11.48  1"       304 Stainless Steel T, Sch40
   7    1   15.34  1"       304 Stainless Steel Street, Sch40
---------------------------------------------------------------------------------
 Total Cost $234.69 
+----
 
 
 Parts Design #4:
@@ -67,8 +67,8 @@ Item Qty Cost Description
   5    1   16.51  1"X12    304L Threaded Stainless Steel Pipe, Sch 10
   6    2   11.48  1"       304 Stainless Steel T, Sch40
   7    3   15.34  1"       304 Stainless Steel Street, Sch40
---------------------------------------------------------------------------------
 Total Cost $ 181.75
+----
 
 Analsys.
 
