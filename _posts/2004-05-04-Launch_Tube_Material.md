@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-04 00:36:54'
+date: '2004-05-04 01:35:21'
 layout: post
 title: Launch_Tube_Material
 ---
@@ -32,8 +32,23 @@ The problems that we may have with this is that many of these materials are corr
 
 Materials to be considered.
 
+#Steel
 #Stainless Steel
+#Nickel
 #Hastalloy-C
 #Copper
-#Chrome Plated Bronze
+#Chrome Plated Brass
+
+<b>Steel:</b> The problem with steel is that the alkali matal salts will seriously corrode it.  Still this is unlikely to happen as a very fast rate.
+
+<b>Stainless Steel:</b> On the surface this seems to be the best.  However it can't handle Copper Chloride and one gets the suspicion that other salts may cause pin point corrosion.  Still it is a pretty good choice.
+
+<b>Nickel:</b> Nickel or nickel plated steel is possibly a good choice.  The launch tube could be constructed of butt welded steel fittings, then nickel plated to improve corrosion resistance.  A plus is that it'd look really cool.  It could then be laquered for extra corrosion resistance.
+
+<b>Hastalloy-C:</b> Same as above.  Hastelloy-C is a high nickel content steel.
+
+<b>Copper:</b> Just a throught, copper might actually be good for this application.  The copper tubing could be brazed and then nickel plated.
+
+<b>Chrome Plated Brass:</b> Might be good especially for small fittings.
+
 
