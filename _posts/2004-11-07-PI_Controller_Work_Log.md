@@ -1,11 +1,16 @@
 ---
 author: Dasfoo
-date: '2004-11-07 03:46:54'
+date: '2004-11-09 10:43:51'
 layout: post
 title: PI_Controller_Work_Log
 ---
 
 Work Log for the controller project
+
+* 11/08/04 001:
+* * Fixed annoying bug in median filter
+* * Added FIR filter for setpoint
+* * Cleaned up mess a bit
 
 * 11/06/04 001:
 * * Need Serial Ouput?
