@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-09-27 22:13:25'
+date: '2004-09-29 18:51:54'
 layout: post
 title: StarWheel
 ---
@@ -69,3 +69,4 @@ RF RX:
 
 
 ![starwheel.jpg]({{ site.baseurl }}/images/starwheel.jpg)
+<br><small>Picture by [CatWeasel</small>](CatWeasel</small>.html)
