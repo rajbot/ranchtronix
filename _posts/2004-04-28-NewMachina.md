@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 21:13:24'
+date: '2004-05-03 21:50:12'
 layout: post
 title: NewMachina
 ---
@@ -14,20 +14,34 @@ Increase the holding capcity to 1 gallon.  Make everything of stainless.
 The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch diameter nozzle, a 2" dia 6 foot luanch tube.  The back end of the launch tube would then be reduced to 1" through a coupling, then feed into a tight 1" dia u bend.  At the end of the u-bend a 1" diamet socket weld to 1" NTP coupling.
 
 Parts Design #1:<br>
+
 Item  Qty  Cost   Description
-  1    1   67.64  2" Stainless Steel Pipe 72 inches, Sch 10
-  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10
-  3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10
-  4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10
-  4    1   28.50  1"       304L Threaded Stainless Steel Pipe, Sch 40
+  1    1   52.98  2" Stainless Steel Pipe 72 inches, Sch 10
+  2    2    6.90  2-1"     Reducing Coupler, Ass-Weld, Sch 10
+  4    1   42.75  1"X36    304L Threaded Stainless Steel Pipe, Sch 40
   5    1   11.48  1"       304 Stainless Steel T, Sch40
   6    1   15.34  1"       304 Stainless Steel Street, Sch40
 -----------------------------------------------------------------
-Total Cost: $231.58
+Total Cost: $151.01
 
 Parts Design #2:<br>
+
 Item  Qty  Cost   Description
-  1    1   67.64  2" Stainless Steel Pipe 72 inches, Sch 10<br>
+  1    1   67.64  2.5"X72" Stainless Steel Pipe, Sch 10
+  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
+  3    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
+  4    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
+  5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10<br>
+  6    1   11.48  1"       304 Stainless Steel T, Sch40
+  7    1   15.34  1"       304 Stainless Steel Street, Sch40
+-----------------------------------------------------------------
+Total Cost $234.69
+
+Parts Design #3:<br>
+Item  Qty  Cost   Description
+  1    1   83.56  3" Stainless Steel Pipe 72 inches, Sch 10
+
+
   2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
   3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
   4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
