@@ -1,6 +1,6 @@
 ---
-author: Mang
-date: '2005-02-17 19:44:49'
+author: Raj
+date: '2005-02-22 04:02:05'
 layout: post
 title: OtherPeoplesProjects
 ---
@@ -59,6 +59,7 @@ Artists:
 * [Michel Waisvisz](http://www.crackle.org/index.php) - creator of the Crackle Box and synth weirdness
 * [Sarah Nuytemans](http://www.iua.upf.es/~snuytema/projects/projects.html) - augmented reality projects
 * [Joerg Obenaur](http://www.lichtobjekte.org/) - blinky lights!
+* [TehchingHsieh](TehchingHsieh.html) - performance artist
 
 Collectives and stuff:
 
