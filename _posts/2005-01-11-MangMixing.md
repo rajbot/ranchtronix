@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-11 08:16:57'
+date: '2005-01-11 08:25:26'
 layout: post
 title: MangMixing
 ---
@@ -8,7 +8,7 @@ title: MangMixing
 ![PB240242.jpg]({{ site.baseurl }}/images/PB240242.jpg)
 
 # Description:
-Performance at a private party in 2001.  visualJockey software was used to create various video textures in real-time.  These were also projected on snow-covered trees outside which provided an organic three-dimensional projection surface.  Photo by Jon Ross.
+Performance at a private party in 2001.  visualJockey software was used to create various video textures in real-time.  These were also projected inside to create an immersive environment and also on snow-covered trees outside which provided an organic three-dimensional projection surface.  Photo by Jon Ross.
 
 # Description:
 [QuickTime](QuickTime.html) clip created using visualJockey.
