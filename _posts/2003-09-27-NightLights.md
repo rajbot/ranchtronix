@@ -1,11 +1,15 @@
 ---
-author: Krazykringle
-date: '2003-10-06 06:33:01'
+author: McCabe
+date: '2004-03-23 07:16:00'
 layout: post
 title: NightLights
 ---
 
 Back to [Light](Light.html).
+
+3/22/4
+
+Hard to believe it's been just a few months.  Lots of progress on this project.  I put the original dimmer circuit in a light for Sasha (which promptly died; I was able to fix it much later by adding a missing capacitor and praying a little.)  I did a batch of 3 with a new dimmer circuit, using PCB and surface-mount tek.  Though I improved the circuit halfway through, so the final product involved some added wires and cut traces.  I still have one; the others are with my brother and niece in Portland and with my cousin Carlos and his wife Mayling in [Costa Rica](http://www.monkeyview.net/mike@meer.net/cr2003/latin_puck_use.jpg).
 
 10/5/3
 
