@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-23 20:26:12'
+date: '2004-12-23 20:29:22'
 layout: post
 title: MangCastingLog
 ---
@@ -51,7 +51,7 @@ Tried casting with:
 * * Epoxy Resin Type 7132
 * * Epoxy Hardener Type 2001
 * * 2:1 ratio
-* * epoxy is less toxic than the polys
+* * epoxy is less toxic during curing than the polys, but is a strong sensitizer
 * Polyurethane
 * * Smooth-On Crystal Clear (Part A)
 * * Smooth-On Clear Flex 95 (Part B)
