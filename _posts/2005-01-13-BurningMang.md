@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-14 02:08:28'
+date: '2005-01-14 02:08:50'
 layout: post
 title: BurningMang
 ---
@@ -19,7 +19,7 @@ Sequencer circuit board mounted in plastic enclosure.  The EL-wire driver output
 ![sign-night-simple.jpg]({{ site.baseurl }}/images/sign-night-simple.jpg)<br>
 The illuminated sign during testing.  Each oval and word can be individually controlled by the software allowing for animated patterns.
 
-![side-ggp.jpg]({{ site.baseurl }}/images/side-ggp.jpg)
+![side-ggp.jpg]({{ site.baseurl }}/images/side-ggp.jpg)<br>
 The sign during dress rehearsal in Golden Gate Park.
 
 ![sign-day.jpg]({{ site.baseurl }}/images/sign-day.jpg)<br>
