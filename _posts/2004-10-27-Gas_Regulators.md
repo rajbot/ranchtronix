@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-10-27 19:39:12'
+date: '2004-10-27 19:42:19'
 layout: post
 title: Gas_Regulators
 ---
@@ -17,7 +17,7 @@ title: Gas_Regulators
 || Argon, nitrogen, helium, noble gases|| 580|| 
 || Air (industrial grade) ||590 ||
 || Boron trichloride, chlorine, nitric oxide, nitrogen dioxide,<br>nitrogen trioxide, sulfur dioxide, phosphorous pentafluoride,<br>many halocarbons ||660 ||
-|| Anyhdrous ammonia ||705|| 
+||Anyhdrous ammonia ||705|| 
 
 
 Good Link:
