@@ -1,6 +1,6 @@
 ---
 author: Mccabe
-date: '2004-03-16 02:42:53'
+date: '2004-03-16 02:44:23'
 layout: post
 title: FireBreathingNotes
 ---
@@ -13,7 +13,7 @@ The [DorkBot](DorkBot.html) talk was almost totally successful.  Except for the 
 
 Some post mortem scribbles...
 
-* Copper chloride reacts!  I had a somewhat frightening suprise when I mixed up some dry powder for a finale... in the past I've done [CuCl](CuCl.html) + fine magnesium powder + other stuff, which worked well.  This time, the [CuCl](CuCl.html) had obviously become hydrated; it was a bright green powder instead of the usual military greenish brown.  When I shook up the powder to mix itl, it quickly became very hot and steamed; I think the Mg was pulling O off of the hydrated [CuCl...](CuCl....html) and probably liberating H<sub>2</sub> in the process.  Scary! <bold>Lesson:</bold> Don't use hydrated [CuCl,](CuCl,.html) or maybe <bold>Lesson:<bold/> Don't use Mg with anything that'll make it react!
+* Copper chloride reacts!  I had a somewhat frightening suprise when I mixed up some dry powder for a finale... in the past I've done [CuCl](CuCl.html) + fine magnesium powder + other stuff, which worked well.  This time, the [CuCl](CuCl.html) had obviously become hydrated; it was a bright green powder instead of the usual military greenish brown.  When I shook up the powder to mix itl, it quickly became very hot and steamed; I think the Mg was pulling O off of the hydrated [CuCl...](CuCl....html) and probably liberating H<sub>2</sub> in the process.  Scary! <b>Lesson:</b> Don't use hydrated [CuCl,](CuCl,.html) or maybe <b>Lesson:</b> Don't use Mg with anything that'll make it react!
 * I need to add a towel to my kit; one dedicated to fire.
 * The 300-mesh iron was a great success!
 * * Can I get steel this fine?
