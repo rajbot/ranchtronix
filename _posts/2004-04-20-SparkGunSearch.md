@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 07:05:00'
+date: '2004-05-07 00:45:07'
 layout: post
 title: SparkGunSearch
 ---
@@ -54,3 +54,18 @@ Second use a seperate blower for feed the snazzy fuel into the flame.  A potenti
 Used the lathe to make a fitting to turn a 1" diameter pipe into a nozzle.  Propane injected in the bottom, air + dust through the side of the 1" nozzle.  Worked much better than before.  Then I jammed a 2" diameter pipe over the whole thing. Wozza!  The flame stays inside the pipe at all times.
 
 Next to do.  Design a 2" diamter burner.  The idea is to have 6 propane injector holes around a central air hole.  Fitting should be made of steel and then welded to the inside of a 2" diameter pipe nipple.
+
+----
+05/06/04:
+
+Yesterday I put together the new manifold for the spark gun.  Has a 0.45 diameter hole for air and six 3/32 diameter holes for propane.
+
+Propane was fed using a torch valve and the air fed using the blower with speed control as usual.  The result was very good.  The flame was stable over the entire operating range.  You could run the blower full blast and the flame didn't go out.  Is good!
+
+![spark%20fountain.JPG]({{ site.baseurl }}/images/spark%20fountain.JPG)
+
+Tossing charcoal powder into the blower produced a nice tower of sparks.  Metals produced good sparks except for the spherical titanium.  The blower has a lot of trouble moving this stuff.  The last attempt was to dump a metric buttload into the fan which stalled it and blew titanium into the motor itself.  Blower is now in heaven.
+
+Next task is to buy a motor for the turbo charger fan and try it out.  Other thoughts are to try and 
+design and build my own blower, with an eye towards making a blower that can deal with heavy loads of powders.
+----
