@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-27 18:36:33'
+date: '2005-01-27 18:38:43'
 layout: post
 title: SoundSystem
 ---
@@ -11,7 +11,8 @@ trONix needs some thump thump.
 
 Tops:
 
-* Mackie SRM450 
+* Mackie SRM450
+* * 12"
 * * 450W RMS
 * * 127 dB peak SPL
 * * 26"x15.4"x14.8"
@@ -19,6 +20,7 @@ Tops:
 * * ~$650
 
 * Mackie SRM350
+* * 10"
 * * 195W RMS
 * * 121 db peak SPL
 * * 20.75"x13"x12.25"
