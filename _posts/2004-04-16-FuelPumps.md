@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-19 01:06:56'
+date: '2004-04-25 00:28:28'
 layout: post
 title: FuelPumps
 ---
@@ -51,11 +51,9 @@ Explanation of points.
 
 3) High Pressure.  High Pressure is good because it means that pump can force the fuel to flow through small fuel lines, check valves and such.  The previous pumps suffered because there flow rate dropped off quickly as the head pressure went up.  Diaphram pumps should be able to keep a high rate of flow reguardless.
 
-4) Good flow rate.  The current restriction on Betsys firing rate the the length of time it takes to fill the launch tube.  Curently it take 45 seconds to fill it.  At a real 5 gpm it sould only take six seconds to fill the tube.
+4) Good flow rate.  The current restriction on Betsys firing rate the the length of time it takes to fill the launch tube.  Curently it take 45 seconds to fill it.  At a real 5 gpm it should take six seconds to fill the tube.
 
-5) Cheap is best cause I'm not made of money.
-
-6) Pumps are made of PFDV or some such.  This is compatible with methonol, alcohol and gasoline.  And compatible with almost all colorants that I would want to use.
+5) Pumps are made of polypropylene with PTFE diaphrams.  This is compatible with methonol, alcohol and gasoline.  And compatible with almost all colorants that I would want to use.
 
 7) Low air consumption.  Units require 1-6 scfm or air.  This is low enough that I may be able to use the nitrogen tank operate the pump.  Power for the centrifical pumps has been a real problem.  The large pump I bough last summer won't run off the inverter I have.
 
