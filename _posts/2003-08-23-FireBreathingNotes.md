@@ -1,11 +1,15 @@
 ---
 author: Mccabe
-date: '2004-03-16 02:44:23'
+date: '2004-03-17 05:26:58'
 layout: post
 title: FireBreathingNotes
 ---
 
 Notes on breathing colored fire.
+
+3/16/4 Tuesday
+
+Composing a mail to a poi-style fire-performer.  Not sure how much of this stuff applies!  But it occurs to me: I should try [CuCl](CuCl.html) with lamp oil...
 
 3/15/4 Monday
 
