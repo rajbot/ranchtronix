@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-14 00:36:16'
+date: '2004-05-16 02:39:54'
 layout: post
 title: Colorator
 ---
@@ -32,7 +32,37 @@ Dah Source!
 I've read that adding 50grams of colorant per gallon (3785ml) of alcohol is a good rule of thumb.  In that case 
 the ratio of colorant to alchol is (0.013).
 
-Waving my hands.  Any colorant that has a solubility of more than 13.0g/100ml in water can be used in a aqueous
-solution injection system.  
+Waving my hands.  Any colorant that has a solubility of more than 13.0g/100ml in water can be used in a aqueous solution injection system.  
 
 That tends to rule out Boric Acid, which is very sad!
+
+## Possible way around
+
+However ethyl borate is a liquid that will disolve in methyl alcohol.  It's nominally formed by adding boric acid to ethyl alcohol.
+
+Ehyl borate decomposes in water to form ethyl alcohol and boric acid.  However it's probably stable in ethyl and methyl alcohol.
+
+Methyl Borate (CH3O)3B
+Boric Acid B(OH)3
+
+B(OH3) + (3)CH3-OH => (CH3O)3B + 3(H2O)
+
+Note the three H2O molecules.
+
+An asumption that I have based on experience is that boric acid disolves in methonol really well producing a really nice green flame not the yellow green you get in denatured alcohol.  It very well may be that one can use a solution of boric acid and methonol as a colorant.
+
+----
+Possible test case.
+
+Use Betsy as the test rig.  
+Use the yamada diapram pump with CO2 to pump methonol into Betsy.
+Add a manifold to betsy that allows one to inject a methonol+boric acid mixture into the alcohol line.  The Alcohol and colorant would be mixed after the check valves.
+
+The colorant can be stored in the stainless steel pressure dispencing vessel I bought off ebay.
+
+If this works the easy solution to the multicolor problem is to buy two or three more pressure dispencing vessels one each for [SrCl](SrCl.html) + Water, [CaCl](CaCl.html) + Water, and Methyl Borate + Methonol.  
+
+A plastic container plus pump could also be used to add [CuCl](CuCl.html) or Copper Acetate as well, producing a blue green flame.
+
+
+
