@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-27 18:38:43'
+date: '2005-01-27 19:08:37'
 layout: post
 title: SoundSystem
 ---
@@ -26,6 +26,8 @@ Tops:
 * * 20.75"x13"x12.25"
 * * 32 lbs
 * * ~$500
+* * early versions may have had noise problem
+* * has some kind of built in bass compensation (can be modded out)
 
 Bottom:
 
