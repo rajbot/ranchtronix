@@ -1,11 +1,17 @@
 ---
-author: Krazykringle
-date: '2003-09-18 09:15:41'
+author: DaRaNCH
+date: '2004-03-10 09:59:26'
 layout: post
 title: FireBreathingNotes
 ---
 
 Notes on breathing colored fire.
+
+3/9/4
+
+Dorkbot talk tomorrow!  I got this page updated, and pointed to by 'fire.ranchtronix.org.'
+
+I haven't been able to corraborate the lithium rumor... and skylighter just started carrying it!  I think I'm not going to worry.  Fresh health references on the main page.
 
 9/18/3
 
