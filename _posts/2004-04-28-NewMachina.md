@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-30 03:59:05'
+date: '2004-04-30 04:10:02'
 layout: post
 title: NewMachina
 ---
@@ -26,13 +26,30 @@ These parts will need to be carefully butt welded together to make the launch tu
 
 The 1" diamet pipe needs to be bent into a u-bend.
 
+Main Launch Valve<br>
+Qty(1)   1" pilot operated valve.<br>
+
+<big>Pressure Tank</big>
+
+Betsy uses a 3ft section of black pipe capped at both ends as the pressure tank.  The main requirement for the tank is that the capsity needs to be on the order of the size of the launch tube.  In this case 1 gallon.  A stainless steel tank with a 1" port would be prefered.  Possibly a small fire extenguisher tank.
+
+Qty(1)   ???
+
+<big>Safety System</big>
+
+The following parts are needed.
+
+Qty(1)   Pressure relief valve.  150 psig.
+Qty(1)   Pressure switch 100 psig
+Qty(1)   Pressure drain valve.
+
+<big>Fuel System<br>
+Qty(1)   Dual Diaphram Pump 6pgm<br>
+Qty(1)   20 feet 1" dia fuel hose?<br>
+Qty(1)   12 gallon fuel tank rated for Alcohol
+Qty(3)   Colorators (design unknown)
+
 Filler Hose and Check Valve<br>
 Qty(1)   1" Check vavle stainless with Buna N seals.<br>
 Qty(1)   1" coupler stainless.  (May Have)<br>
 
-Pump<br>
-Qty(1)   Dual Diaphram Pump 6pgm<br>
-Qty(1)   20 feet 1" dia fuel hose?<br>
-
-Main Launch Valve<br>
-Qty(1)   1" pilot operated valve.<br>
