@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-23 02:53:15'
+date: '2004-05-04 04:52:40'
 layout: post
 title: FlameIgnitors
 ---
@@ -10,7 +10,7 @@ title: FlameIgnitors
 There are several types of ignitors used for pyro machina.
 
 <big>Electric:</big><br>
-Unreliable and touchy
+General Impression: Unreliable and touchy
 
 There are lots of these.  Most furnaces, and many propane torches use these, either as  piezo electric or electronic sparkers.
 
@@ -19,6 +19,8 @@ For a lot of applications these don't seem to work too well.  In theory you only
 Mostly I think these have potential for relighting pilots after they've been blown out.
 
 I fthink if these are to work as primary ignitors then the spark needs to be very high voltage and powerful.  A large neon sign transformer or a microwave oven transformer with a ballast would be needed.  (The other thought is using a small 110V rat box welder as the power source.
+
+<big><big>Propane Ingnitors:</big></big><br>
 
 <big>Propane Torch:</big><br>
 Works, tends to blow out.
