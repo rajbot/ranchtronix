@@ -1,9 +1,13 @@
 ---
-author: Mang
-date: '2003-09-12 03:21:01'
+author: Raj
+date: '2004-09-28 20:06:14'
 layout: post
 title: FieldRecording
 ---
+
+* [http://www.edirol.com/products/info/r1.html](http://www.edirol.com/products/info/r1.html)
+
+----
 
 Public performance of some of Jesse's field recordings! Jesse sez:
 
