@@ -1,6 +1,6 @@
 ---
-author: Raj
-date: '2004-08-24 19:40:46'
+author: Test
+date: '2004-08-24 20:31:01'
 layout: post
 title: PackingList
 ---
@@ -9,7 +9,7 @@ title: PackingList
 
 * bolts: 5/8 shaft (1" socket)
 * nuts: 5/8, 7/16, 1/2, 9/16
-* propane canisters
+* <s>propane canisters</s>
 * gas can
 * deep cycle batteries
 * tool box
@@ -46,6 +46,8 @@ title: PackingList
 * battery chargers (2)
 * inverters (2)
 * u-bolts
+* socket set
+* wrenches
 * rope
 * gas + propane
 * propane hose/switch
