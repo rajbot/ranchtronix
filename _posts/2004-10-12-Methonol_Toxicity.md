@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-10-15 21:13:11'
+date: '2004-11-04 17:20:03'
 layout: post
 title: Methonol_Toxicity
 ---
@@ -24,7 +24,7 @@ All chemicals can harm you in large enough quanities.  People have and do die fr
 
 <b>Nasty Toxic</b> chemicals damage the human body in specific ways, typically by gumming up the works.  Formic acid is nasty toxic.  It destroys the optic nerve and attacks the pacreous (sp).
 
-Insidiously Toxic chemicals poison you over the long haul.  Typcially these chemicals either do cumelatage damage over time or slowly build up in your body until you have problems.  Lead and Mercury are insidiouly toxic.
+<b>Insidiously Toxic</b> chemicals poison you over the long haul.  Typcially these chemicals either do cumulative damage over time or slowly build up in your body until you have problems.  Lead and Mercury are insidiouly toxic.
 ----
 
 * <b>Things to say about methonol</b>
