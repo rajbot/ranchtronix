@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-23 22:48:37'
+date: '2004-12-23 22:51:35'
 layout: post
 title: MoldMaking
 ---
@@ -49,6 +49,16 @@ Uses:
 Uses:
 
 * condoms (Avanti)
+
+## Silicone resins
+
+* basically safe when cured (in general also might depend on any additives)
+
+Uses:
+
+* flexible molds
+* places where there is repetitive flexing
+* sex toys
 
 # Hot melt thermoplastics
 
