@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-13 23:43:20'
+date: '2005-01-13 23:44:53'
 layout: post
 title: MangMixing
 ---
@@ -16,7 +16,7 @@ I am primarily interested in creating real-time interactive systems which allow 
 
 # Description:
 ![vjo.jpg]({{ site.baseurl }}/images/vjo.jpg)<br>
-Screenshot of visualJockey composition for system above. This software is similar to Max/MSP/Jitter.  Its speed gives it a high frame rate, facilitating the immersive experience.
+Screenshot of visualJockey composition for system above. This software is similar to Max/MSP/Jitter.  Its speed gives a high frame-rate that facilitates the immersive experience.
 
 # Gear list:
 
