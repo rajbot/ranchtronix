@@ -1,9 +1,44 @@
 ---
-author: Raj
-date: '2003-08-06 20:51:02'
+author: Test
+date: '2004-08-24 16:36:40'
 layout: post
 title: PackingList
 ---
+
+### stuff to buy/do for tiki crawler
+
+* bolts: 5/8 shaft (1" socket)
+* nuts: 5/8, 7/16, 1/2, 9/16
+* propane canisters
+* gas can
+* deep cycle batteries
+* tool box
+* plastic bins
+* rope
+* tarps
+
+* figure out propane stuff
+* charge batteries
+* wash tiki pillow
+* find mangs battery charger
+* plan monday dinner
+
+### tiki packing
+
+* poles (8)
+* front end
+* motor
+* controller
+* charger
+* wood deck
+* bamboo poles + shade
+* flower lei
+* sound system
+* generator
+* battery chargers
+* u-bolts
+* rope
+* gas + propane
 
 ### Desert Camping, 4 days
 
