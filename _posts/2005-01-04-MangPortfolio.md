@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-04 08:52:15'
+date: '2005-01-04 08:54:29'
 layout: post
 title: MangPortfolio
 ---
@@ -17,3 +17,4 @@ Stuff for portfolio:
 * pic from [MoldMaking(?)](MoldMaking(?).html)
 * pic of [ParaLuna](ParaLuna.html)
 * sheet of nice pics I've taken
+* pic of sign/sequencers from [AmbienceAmbulance](AmbienceAmbulance.html)
