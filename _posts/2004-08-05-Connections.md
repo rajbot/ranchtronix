@@ -1,7 +1,7 @@
 ---
 author: Raj
 category: AvrButterfly
-date: '2004-08-06 00:13:21'
+date: '2004-08-06 00:27:17'
 layout: post
 title: Connections
 ---
@@ -54,3 +54,19 @@ Note that pins 4-6 are connected to the USI header and nothing else. If you aren
 || PE5 || DI/SDA/PCINT5 (USI Data Input or TWI Serial DAta or Pin Change Interrupt5) || USI Header (pin 2) ||
 || PE6 || DO/PCINT6 (USI Data Output or Pin Change Interrupt6) || USI Header (pin 3) ||
 || PE7 || PCINT7 (Pin Change Interrupt7),  CLKO (Divided System Clock) || Dataflash reset pin ||
+
+### PortF pin connections
+
+Connected to the temperature circuit, voltage reader circuit, light sensor circuit, and JTAG header.
+
+Note that if you aren't using the JTAG interface, pins 4-7 might be convenient to use for other purposes. 
+
+|| '''Pin''' || '''Alias''' || '''Connected to...''' ||
+|| PF0 || ADC0 (ADC input channel 0) || Temperature sensor circuit ||
+|| PF1 || ADC1 (ADC input channel 1) || Volatage reader circuit ||
+|| PF2 || ADC2 (ADC input channel 2) || Light sensor circuit ||
+|| PF3 || ADC3 (ADC input channel 3) || VCP ||
+|| PF4 || ADC4/TCK (ADC input channel 4 or JTAG Test ClocK) || JTAG header (pin 1) ||
+|| PF5 || ADC5/TMS (ADC input channel 5 or JTAG Test mode Select) || JTAG header (pin 5) ||
+|| PF6 || ADC6/TDO (ADC input channel 6 or JTAG Test Data Output) || JTAG header (pin 3) ||
+|| PF7 || ADC7/TDI (ADC input channel 7 or JTAG Test Data Input) || JTAG header (pin 9)
