@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-05-03 18:05:59'
+date: '2004-05-03 19:07:42'
 layout: post
 title: WoodWorking
 ---
@@ -34,3 +34,5 @@ Stuff to buy for dovetails project:
 * Wood rasp (currently using foo's, thankx!!!)
 * Does anyone make chisels smaller than 1/4"????
 * Wood gouge, to make groove for drop-in steel front panel.
+* Sandpaper
+* Polyurethane and stain
