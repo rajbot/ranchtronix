@@ -1,11 +1,18 @@
 ---
 author: Dasfoo
-date: '2004-11-09 10:43:51'
+date: '2004-11-11 04:07:51'
 layout: post
 title: PI_Controller_Work_Log
 ---
 
 Work Log for the controller project
+
+* 11/10/04
+* * Went to Dentist, no cavities
+* * Lunch with GF followed by a long nap
+* * [McCabe](McCabe.html) showed me how to check in code under source forge.
+* * Off to drink at the ranch
+* * May try to package the blower controller
 
 * 11/08/04 001:
 * * Fixed annoying bug in median filter
