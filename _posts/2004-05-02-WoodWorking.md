@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-05-03 19:19:16'
+date: '2004-05-09 03:36:06'
 layout: post
 title: WoodWorking
 ---
@@ -37,6 +37,7 @@ Stuff to buy for dovetails project:
 * Sandpaper
 * Polyurethane and stain
 * Whetstone and chisel sharpening wedge
+* [http://www.japanwoodworker.com](http://www.japanwoodworker.com) has a dovetail saw i want!
 
 Things I've learned so far from my practice cuts:
 
