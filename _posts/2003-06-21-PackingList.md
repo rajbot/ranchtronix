@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-08-24 23:35:53'
+date: '2004-08-24 23:59:41'
 layout: post
 title: PackingList
 ---
@@ -55,6 +55,7 @@ title: PackingList
 * extension cords
 * power strips
 * registration
+* iPod w/ tiki tunes
 
 ### Electronics Packing
 
