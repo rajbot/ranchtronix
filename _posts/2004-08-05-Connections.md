@@ -1,7 +1,7 @@
 ---
 author: Raj
 category: AvrButterfly
-date: '2004-08-06 00:05:27'
+date: '2004-08-06 00:11:33'
 layout: post
 title: Connections
 ---
@@ -41,14 +41,16 @@ Connected to the Port D header and the LCD panel.
 
 ### PortE pin connections
 
-Connected to the Joystick and UART circuitry.
+Connected to USI header, the Joystick and UART circuitry.
+
+Note that pins 4-6 are connected to the USI header and nothing else. If you aren't using USI, these pins might be convenient to use for other purposes.
 
 || '''Pin''' || '''Alias''' || '''Connected to...''' ||
-|| PE0 || RXD/PCINT0 (USART Receive Pin or Pin Change Interrupt0) || ||
-|| PE1 || TXD/PCINT1 (USART Transmit Pin or Pin Change Interrupt1) || ||
-|| PE2 || XCK/AIN0/ PCINT2 (USART External Clock or Analog Comparator Positive Input  or Pin Change Interrupt2) || ||
-|| PE3 || AIN1/PCINT3 (Analog Comparator Negative Input or Pin Change Interrupt3) || ||
-|| PE4 || USCK/SCL/PCINT4 (USART External Clock Input/Output or TWI Serial Clock or  Pin Change Interrupt4) || ||
-|| PE5 || DI/SDA/PCINT5 (USI Data Input or TWI Serial DAta or Pin Change Interrupt5) || ||
-|| PE6 || DO/PCINT6 (USI Data Output or Pin Change Interrupt6) || ||
+|| PE0 || RXD/PCINT0 (USART Receive Pin or Pin Change Interrupt0) || UART circuit ||
+|| PE1 || TXD/PCINT1 (USART Transmit Pin or Pin Change Interrupt1) || UART circuit ||
+|| PE2 || XCK/AIN0/ PCINT2 (USART External Clock or Analog Comparator Positive Input  or Pin Change Interrupt2) || Joystick left (C) ||
+|| PE3 || AIN1/PCINT3 (Analog Comparator Negative Input or Pin Change Interrupt3) || Joystick right (D) ||
+|| PE4 || USCK/SCL/PCINT4 (USART External Clock Input/Output or TWI Serial Clock or  Pin Change Interrupt4) || USI Header (pin 1) ||
+|| PE5 || DI/SDA/PCINT5 (USI Data Input or TWI Serial DAta or Pin Change Interrupt5) || USI Header (pin 2) ||
+|| PE6 || DO/PCINT6 (USI Data Output or Pin Change Interrupt6) || USI Header (pin 3) ||
 || PE7 || PCINT7 (Pin Change Interrupt7),  CLKO (Divided System Clock) || ||
