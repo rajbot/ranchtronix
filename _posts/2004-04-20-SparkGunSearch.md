@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-07 00:48:23'
+date: '2004-05-07 00:48:48'
 layout: post
 title: SparkGunSearch
 ---
@@ -61,7 +61,7 @@ Next to do.  Design a 2" diamter burner.  The idea is to have 6 propane injector
 Yesterday I put together the new manifold for the spark gun.  Has a 0.45 diameter hole for air and six 3/32 diameter holes for propane.
 
 Propane was fed using a torch valve and the air fed using the blower with speed control as usual.  The result was very good.  The flame was stable over the entire operating range.  You could run the blower full blast and the flame didn't go out.  Is good!
-
+<br>
 ![spark%20fountain.JPG]({{ site.baseurl }}/images/spark%20fountain.JPG)
 
 Tossing charcoal powder into the blower produced a nice tower of sparks.  Metals produced good sparks except for the spherical titanium.  The blower has a lot of trouble moving this stuff.  The last attempt was to dump a metric buttload into the fan which stalled it and blew titanium into the motor itself.  Blower is now in heaven.
