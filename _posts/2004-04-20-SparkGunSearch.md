@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-20 21:08:33'
+date: '2004-05-03 07:05:00'
 layout: post
 title: SparkGunSearch
 ---
@@ -49,4 +49,8 @@ to do is two fold.  First design a premix system that produces a solid alcohol f
 
 Second use a seperate blower for feed the snazzy fuel into the flame.  A potential test would be to use the neon burner setup to supply a good premix of air and fuel to a duel fuel torch, spray alcohol and air into the torch after the preburner.
 
+05/02/04
 
+Used the lathe to make a fitting to turn a 1" diameter pipe into a nozzle.  Propane injected in the bottom, air + dust through the side of the 1" nozzle.  Worked much better than before.  Then I jammed a 2" diameter pipe over the whole thing. Wozza!  The flame stays inside the pipe at all times.
+
+Next to do.  Design a 2" diamter burner.  The idea is to have 6 propane injector holes around a central air hole.  Fitting should be made of steel and then welded to the inside of a 2" diameter pipe nipple.
