@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-20 04:56:38'
+date: '2004-12-20 04:57:24'
 layout: post
 title: MangCastingLog
 ---
@@ -37,4 +37,4 @@ To do:
 * find something to use other than soft modelling clay -- it tends to smear over stuff and be hard to remove
 * investigate thermoplastic -- potentially less toxic than polyurethane/polyester
 * get some mineral oil -- use to dilute petrolatum jelly to reduce size of streaks
-
+* get some more dyes
