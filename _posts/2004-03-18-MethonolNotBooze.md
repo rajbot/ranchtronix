@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-03-18 03:24:45'
+date: '2004-04-19 00:56:15'
 layout: post
 title: MethonolNotBooze
 ---
@@ -8,6 +8,8 @@ title: MethonolNotBooze
 Methonol
 
 Even more like Ethonol, Methonol burns with a colorless flame making it suitible for producing colored flames.  It is also cheaper than Ethonol.
+
+<big>WARNING:</big> Methanol burns with an almost invisible flame making it excelent in colored fire applications. However it is toxic and can will cause blindness (by making the optic nerves swell). In particular it can be absorbed through the eyes! <big>Yikes</big>
 
 Typical Properties: [MethonolProperties](MethonolProperties.html)
 
