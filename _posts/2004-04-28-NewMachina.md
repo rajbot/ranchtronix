@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-04 19:43:12'
+date: '2004-05-04 19:45:16'
 layout: post
 title: NewMachina
 ---
@@ -42,8 +42,10 @@ Qty(1)   ???
 The following parts are needed.
 
 <b>Fuel System</b><br>
+
+Fuel System Research [BetsyFuelSystem]
+
 Qty(1)   Yammaha DP-10, Dual Diaphram Pump 6pgm<br>
-         [http://www.yamadapump.com/pages/products/dp-10.html](http://www.yamadapump.com/pages/products/dp-10.html) 
 
 
 Qty(1)   20 feet 1" dia fuel hose?<br>
