@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-06-17 22:15:19'
+date: '2004-06-17 23:32:21'
 layout: post
 title: LuxeonLights
 ---
@@ -14,3 +14,5 @@ Optics available through Future Electronics ([Suppliers](Suppliers.html)).
 Luxeon flashlight reference design: [http://www.lumileds.com/pdfs/DR02.PDF](http://www.lumileds.com/pdfs/DR02.PDF)
 
 Boost regulator datasheet from that reference design: [http://www.sipex.com/products/pdf/sp6641.pdf](http://www.sipex.com/products/pdf/sp6641.pdf)
+
+Drivers specifically for Luxeon: [http://www.leddynamics.com/LuxDrive/content/Page_Buck.html](http://www.leddynamics.com/LuxDrive/content/Page_Buck.html)
