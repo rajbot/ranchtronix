@@ -1,6 +1,6 @@
 ---
-author: Dasfoo
-date: '2004-05-10 21:07:58'
+author: Raj
+date: '2004-08-02 07:32:50'
 layout: post
 title: HeartOfPork
 ---
@@ -31,3 +31,6 @@ Sorted!  Deliverie is tomorrow morning!
 
 Call Ray in dah morning for delivery time. Ray
 ----
+
+a picture by mang!<br>
+![heartofpork.jpg]({{ site.baseurl }}/images/heartofpork.jpg)
