@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-14 22:48:16'
+date: '2004-12-14 22:49:01'
 layout: post
 title: RapidPrototyping
 ---
@@ -13,6 +13,7 @@ Service bureaus we've tried:
 
 Service bureaus:
 
+* [Meta-list of bureaus](http://home.att.net/~castleisland/sbcisel.htm)
 * [http://www.3-dprinting.com/](http://www.3-dprinting.com/) - $199 for 5 cu inch ABS
 
 Linky:
