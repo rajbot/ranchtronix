@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-04 00:26:06'
+date: '2004-05-04 00:29:12'
 layout: post
 title: NewMachina
 ---
@@ -10,7 +10,7 @@ Parts for a New Betsy
 The basic idea is to increase the holding capcity to 1 gallon.  And to make the launch tube and ascociated components out of a material than can handle alcohol and alkali metal salts.
 
 Launch Tube Material Notes: [Launch Tube Material](Launch_Tube_Material.html)<br>
-Launch Tube Design Notes: [Launch Tube](Launch_Tube.html)<br>
+
 Launch Tube Design Notes: [Launch Tube Configation](Launch_Tube_Configation.html)<br>
 
 Currently thinking about either using a long 2" diameter launch tube or a twin 1.5" diameter launch tube.
