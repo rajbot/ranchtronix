@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2003-11-04 05:50:40'
+date: '2003-11-04 18:21:21'
 layout: post
 title: ObTainium
 ---
@@ -18,5 +18,5 @@ see also [http://www.obtainium.net/top.php](http://www.obtainium.net/top.php)
 * Anti-glare/ELF/VLF radiation-reducing filter for 17" computer montior. Why the hell did I buy this?
 * External SCSI cd-burner. I took an internal Philips burner and put it in an external case. I forget if the internal burner was an IDE or SCSI device. I think it's 8x write. Whateverr.
 * Humidifier. I needed this for my dank Pittsburgh apartment. That apartment sucked so much. This thing might be good if your house gets dry in the winter.
-* [NetGear](NetGear.html) RT314 4-port router/gateway. If you have a cable modem, you might want one of these! It has a great firewall, NAT, and port forwarding.
+* <s>NetGear RT314 4-port router/gateway. If you have a cable modem, you might want one of these! It has a great firewall, NAT, and port forwarding.</s>
 * Stuff not claimed by Dec 1 will be donated to [BernalHeights](BernalHeights.html) senior center.
