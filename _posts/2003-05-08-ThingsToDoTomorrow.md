@@ -1,10 +1,12 @@
 ---
 author: Raj
-date: '2003-07-11 23:24:26'
+date: '2003-09-19 20:54:05'
 layout: post
 title: ThingsToDoTomorrow
 ---
 
-* find bob a place to stay
-* water plants
+* print itenerary
+* get haircut?
+* pay cc bill
+* charge camera
 * breathe more deeply
