@@ -1,12 +1,14 @@
 ---
 author: Dasfoo
-date: '2004-10-27 19:44:17'
+date: '2004-10-27 19:45:01'
 layout: post
 title: Gas_Regulators
 ---
 
 ## Gas Regulators and Fittings
 ----
+
+Below are some common CGA numbers. High pressure tanks or lecture bottles require different fittings:
 
 ||Gases  || CGA Connection ||
 ||Carbon dioxide || 320 ||
