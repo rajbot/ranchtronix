@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-23 20:16:25'
+date: '2004-12-23 20:26:12'
 layout: post
 title: MangCastingLog
 ---
@@ -15,7 +15,7 @@ My original polyurethane casting still has an oily residue on the front surface.
 
 To do:
 
-* get some [Clear Polymelt](http://www.artstuf.com/DStock.fm$RETRIEVE?SKU=MC-1195&html=display)?
+* get some [Clear Polymelt](http://www.artstuf.com/flexmold2.html#VINYLS)(?)
 
 # 2004-12-22
 
