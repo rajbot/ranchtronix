@@ -1,9 +1,19 @@
 ---
 author: Mang
-date: '2005-01-24 23:40:25'
+date: '2005-02-01 02:40:16'
 layout: post
 title: MangVJLog
 ---
+
+# 2005-01-31
+
+I ordered a Spaceball 4000 FLX off of eBay (brand new, even).  The trick now is to write a userspace driver for it in vvvv.
+
+Linky:
+    * [http://lxr.linux.no/source/drivers/char/joystick/spaceball.c?v=2.4.28](http://lxr.linux.no/source/drivers/char/joystick/spaceball.c?v=2.4.28)
+    * [https://www.talisman.org/~erlkonig/z/?wrapper=false&backgrounds=false](https://www.talisman.org/~erlkonig/z/?wrapper=false&backgrounds=false)
+    * [http://jedi.ks.uiuc.edu/~johns/projects/libsball/](http://jedi.ks.uiuc.edu/~johns/projects/libsball/)
+    * [http://freshmeat.net/projects/libsball/](http://freshmeat.net/projects/libsball/)
 
 # 2005-01-24
 
