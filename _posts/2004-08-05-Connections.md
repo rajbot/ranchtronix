@@ -1,7 +1,7 @@
 ---
 author: Raj
 category: AvrButterfly
-date: '2004-08-06 00:27:54'
+date: '2004-08-10 04:16:23'
 layout: post
 title: Connections
 ---
@@ -62,7 +62,7 @@ Note that if you aren't using the JTAG interface, pins 4-7 might be convenient t
 || PF0 || ADC0 (ADC input channel 0) || Temperature sensor circuit ||
 || PF1 || ADC1 (ADC input channel 1) || Volatage reader circuit ||
 || PF2 || ADC2 (ADC input channel 2) || Light sensor circuit ||
-|| PF3 || ADC3 (ADC input channel 3) || VCP ||
+|| PF3 || ADC3 (ADC input channel 3) || VCP - VC-peripheral output, connected to the light sensor and temp sensor ||
 || PF4 || ADC4/TCK (ADC input channel 4 or JTAG Test ClocK) || JTAG header (pin 1) ||
 || PF5 || ADC5/TMS (ADC input channel 5 or JTAG Test mode Select) || JTAG header (pin 5) ||
 || PF6 || ADC6/TDO (ADC input channel 6 or JTAG Test Data Output) || JTAG header (pin 3) ||
