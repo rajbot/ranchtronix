@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-13 21:21:21'
+date: '2004-08-13 21:22:23'
 layout: post
 title: TronixSourceRepository
 ---
@@ -47,17 +47,21 @@ a
 test
 
 << subversion doesn't know about it yet >>
+
 $ svn stat testfile.txt
+
 ?      testfile
 
 << tell subversion about it >>
+
 << note that this doesn't touch the repository yet >>
+
 $ svn add testfile.txt
+
 A         testfile.txt
 
-<< commit it to the repository >>
-<< NOTE I'm already logged in - at this point >>
-<< svn may ask you for a username/password >>
+<< commit it to the repository.  At this point svn may ask you for a username/password >>
+
 $ svn commit testfile.txt --message "Initial checkin"
 Adding         testfile.txt
 Authentication realm: <http://svnhosting.org:8000> Subversion Repository
