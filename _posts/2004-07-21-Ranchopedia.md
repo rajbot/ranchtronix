@@ -1,10 +1,9 @@
 ---
 author: Dasfoo
-date: '2004-11-04 09:07:09'
+date: '2004-11-04 09:13:01'
 layout: post
 title: Ranchopedia
 ---
-
 
 FUCKO IS: Here's the definition of "Fucko" from the Whovian unabridged Dictionary of Stuff and Things
 
@@ -15,3 +14,5 @@ while using the jetpack to never again be seen (hence the old ironic phrase "I *
 
 ------ Janky v?. (pl. 'fuckopodae')
 
+1. The epitome of dirt, grime, and disrepair.
+2. An action word that denotes bad taste with admiration.
