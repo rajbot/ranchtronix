@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-10-07 21:56:40'
+date: '2004-10-07 21:59:20'
 layout: post
 title: Crap_We_Don't_Need
 ---
@@ -40,3 +40,16 @@ This a page to list all the crap you don't want anymore, never wanted, or need t
 * * Defend the homeland
 * * Price: Got for nothing, give away for nothing.  
 * **Give good reason why you want it and it's yours.
+
+* Big ass Joiner
+* * 240 VAC single phase motor
+* * Has a bit of rust on one end of the table.
+* * $120 clams
+
+* Small Ass Joiner
+* * 120 VAC single phase motor
+* * $50 clams
+
+* Old Jigsaw
+* * $25 clams
+
