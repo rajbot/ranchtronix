@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-08-24 19:39:19'
+date: '2004-08-24 19:40:46'
 layout: post
 title: PackingList
 ---
@@ -51,6 +51,7 @@ title: PackingList
 * propane hose/switch
 * extension cords
 * power strips
+* registration
 
 ### Electronics Packing
 
