@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-29 06:27:44'
+date: '2004-04-29 06:28:02'
 layout: post
 title: NewMachina
 ---
@@ -13,7 +13,7 @@ Launch Tube + Nozzle<br>
 
 The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch diameter nozzle, a 2" dia 6 foot luanch tube.  The back end of the launch tube would then be reduced to 1" through a coupling, then feed into a tigh 1" dia u bend.  At the end of the u-bend a 1" diamet socket weld to 1" NTP coupling.
 
-Parts:
+Parts:<br>
 Item  Qty   Description
   1    1   2" Stainless Steel Pipe 72 inches, Sch 10<br>
   2    1   2-1.25" Reducing Coupler Butt-Weld, Sch 10<br>
