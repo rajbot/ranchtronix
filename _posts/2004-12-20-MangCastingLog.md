@@ -1,9 +1,15 @@
 ---
-author: DaRaNCH
-date: '2004-12-23 06:20:39'
+author: Mang
+date: '2004-12-23 18:59:08'
 layout: post
 title: MangCastingLog
 ---
+
+# 2004-12-23
+
+So last night I ended up smelling kind of like the smell given off when a match is lit.  Mostly on my neck (washed my face, not my neck) but also on my sweater and t-shirt.  Maybe heating the pieces to 90F is not so good.
+
+Probably a good idea to have a separate set of clothes for da rANch.  The problem with doing resin in the winter is that most warm indoor spaces aren't getting a lot of fresh outside air!
 
 # 2004-12-22
 
