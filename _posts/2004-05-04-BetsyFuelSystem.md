@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-05 00:55:40'
+date: '2004-05-07 00:47:48'
 layout: post
 title: BetsyFuelSystem
 ---
@@ -27,3 +27,7 @@ pump.  Definitely looks like one can buy replacement parts and stuff.
 [http://www.yamadapump.com/pages/products/manual/maintenance_manual_dp10.pdf](http://www.yamadapump.com/pages/products/manual/maintenance_manual_dp10.pdf)
 
 ----
+05/06/2004:<br>
+
+Disasembled the Yamada pump.  Turns out the the exit manifold is cracked.  The valves and other pump parts look okay.  Haven't pulled the air system appart yet.  Definitely need to replace the cracked manifold.
+
