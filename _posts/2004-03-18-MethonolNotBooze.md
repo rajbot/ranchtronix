@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-19 00:56:58'
+date: '2004-04-19 00:59:38'
 layout: post
 title: MethonolNotBooze
 ---
@@ -13,21 +13,31 @@ Even more like Ethonol, Methonol burns with a colorless flame making it suitible
 
 Typical Properties: [MethonolProperties](MethonolProperties.html)
 
-Material Compatibility
+Materials for Methonol + Metal Salts 
+
+Note many metals are compatible with methonol.  However methonol + alki salts
+is a different matter.  Material compatible with methonol are
 
 <big>Good</big>
 
-   Note many metals are compatible with methonol.  However methonol + alki salts
-   is a different matter.  Material compatible with methonol are
-
    440 Stainless (Important! Copper Chloride eats stainless for lunch)
+   Buna-N
+   Viton
+   Polyethylene
+   Polypropalene
    PVC  (Strange but true)
 
 <big>Bad</big>
 
+   Steel (Black Pipe etc)
+   Brass
+   Copper
+   Aluminum?
    
 Safety
    Methonol is poisonous and can make you blind.  Can be absorbed through the 
    skin and eyes.
 
 Aquisition
+
+Methonol is harder to get than Alcohol which can be bought at hardware stores.  I potential source of Methonol is Racing fuel stores.
