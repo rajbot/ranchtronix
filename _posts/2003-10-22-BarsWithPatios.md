@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2003-10-23 17:39:08'
+date: '2003-10-23 21:23:36'
 layout: post
 title: BarsWithPatios
 ---
@@ -36,7 +36,7 @@ title: BarsWithPatios
 * Lots of European beers
 * They have their own beer called Lucky 13!
 * Review: [Best Jukebox in a Bar](http://www.bestofthebay.com/2002/readerspoll4.html)
-
+* ([Ethan disagrees about Lucky 13's jukebox...)](http://www.coffeefog.com/blog/archives/000244.html)
 
 ### [Bottom of the Hill](http://bottomofthehill.com/)
 Ethan IM'ed me this review:
