@@ -1,6 +1,6 @@
 ---
-author: Dasfoo
-date: '2004-05-04 07:41:12'
+author: Raj
+date: '2004-05-04 17:58:22'
 layout: post
 title: BeamTheroy
 ---
@@ -38,7 +38,7 @@ This if I have Scott weighing in at 200 lbs hanging off a 4 foot bar, I have a m
 
 So if Kiki and Scott are hanging off two ends of a balanced 12ft bar, how stiff does it have to be to hold there weight?  We can't asnswer without knowing how strong the material is and how stiff it is.
 ----
-<b>Stress!<b>
+<b>Stress!</b>
 
 What the fuck is dat!
 
@@ -65,7 +65,6 @@ I = bh^3/12.
 Links
 ----
 [http://physics.uwstout.edu/StatStr/statics/Beams/beam41.htm](http://physics.uwstout.edu/StatStr/statics/Beams/beam41.htm)
-
 
 
 
