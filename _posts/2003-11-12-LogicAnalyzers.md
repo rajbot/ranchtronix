@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2003-11-12 04:25:20'
+date: '2003-11-12 04:26:00'
 layout: post
 title: LogicAnalyzers
 ---
@@ -11,6 +11,6 @@ HP Reference Manuals:
 
 Tutorials on HP Logic Analyzers:
 
-* [NSDU HP 1652B User Info](http://venus.ece.ndsu.nodak.edu/ece/academics/courses/ece375/notes/hpla/la-uinfo.htm)
+* [NSDU HP 1652B User Info](http://venus.ece.ndsu.nodak.edu/ece/academics/courses/ece375/notes/hpla/la-uinfo.htm) - ([local cache](http://ranchtronix.net/private/wiki.pl?LogicAnalyzers))
 * [Dartmouth Engs31 tutorial](http://engineering.dartmouth.edu/~engs031/hansen/demos/LogAnLab.pdf)
 * [MIT 6.111 tutorial](http://sunpal7.mit.edu/6.111/s2000/hpla/hplogic/hplogic.html)
