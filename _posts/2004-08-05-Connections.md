@@ -1,10 +1,12 @@
 ---
 author: Raj
 category: AvrButterfly
-date: '2004-08-05 23:51:14'
+date: '2004-08-05 23:56:46'
 layout: post
 title: Connections
 ---
+
+Information from the butterfly and mega169 datasheets... <br>Lookie! my first Eagle drawring:<br>
 
 ![butterfly-ports.png]({{ site.baseurl }}/images/butterfly-ports.png)
 
