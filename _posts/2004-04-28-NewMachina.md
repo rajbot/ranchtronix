@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 21:12:46'
+date: '2004-05-03 21:13:24'
 layout: post
 title: NewMachina
 ---
@@ -16,12 +16,12 @@ The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch 
 Parts Design #1:<br>
 Item  Qty  Cost   Description
   1    1   67.64  2" Stainless Steel Pipe 72 inches, Sch 10
-  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
-  3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
-  4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
-  4    1   28.50  1"       304L Threaded Stainless Steel Pipe, Sch 40<br>
-  5    1   11.48  1"       304 Stainless Steel T, Sch40<br>
-  6    1   15.34  1"       304 Stainless Steel Street, Sch40<br>
+  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10
+  3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10
+  4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10
+  4    1   28.50  1"       304L Threaded Stainless Steel Pipe, Sch 40
+  5    1   11.48  1"       304 Stainless Steel T, Sch40
+  6    1   15.34  1"       304 Stainless Steel Street, Sch40
 -----------------------------------------------------------------
 Total Cost: $231.58
 
