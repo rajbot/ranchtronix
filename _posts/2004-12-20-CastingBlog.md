@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-20 04:07:50'
+date: '2004-12-20 04:40:03'
 layout: post
 title: CastingBlog
 ---
@@ -30,3 +30,4 @@ To do:
 * figure out way to control temp
 * find something to use other than soft modelling clay -- it tends to smear over stuff and be hard to remove
 * investigate thermoplastic -- potentially less toxic than polyurethane/polyester
+* get some mineral oil -- use to dilute petrolatum jelly to reduce size of streaks
