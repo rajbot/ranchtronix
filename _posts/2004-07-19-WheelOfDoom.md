@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-07-19 22:55:09'
+date: '2004-08-15 22:06:43'
 layout: post
 title: WheelOfDoom
 ---
@@ -12,3 +12,24 @@ Ideas:
 * use some kind of Manchester encoding
 * * software? get some encoding modules?
 * * self-clocking protocol?
+
+RF TX:
+
+* AVR
+* ISP header
+* TX module
+* antenna
+* 16MHz xtal + caps
+* knobs
+* sliders
+* battery pack
+
+RF RX:
+
+* AVR
+* ISP header
+* RX module
+* antenna
+* 16MHz xtal + caps
+* DMX hardware
+* battery pack
