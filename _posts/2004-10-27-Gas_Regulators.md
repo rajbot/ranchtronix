@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-10-27 19:37:08'
+date: '2004-10-27 19:37:31'
 layout: post
 title: Gas_Regulators
 ---
@@ -10,7 +10,8 @@ title: Gas_Regulators
 
 ||Gases ||CGA Connection||
 ||Carbon dioxide ||320 ||
-||Boron trifluoride, hydrogen chloride, hydrogen bromide,<br>hydrogen iodide, hydrogen sulfide, silicon tetrafluoride||  330||
+||Boron trifluoride, hydrogen chloride, hydrogen bromide,<br>
+  hydrogen iodide, hydrogen sulfide, silicon tetrafluoride||  330||
 
 ||Carbon monoxide, ethylene, hydrogen, hydrogen selenide 350 
 ||Acetylene, allene, butadiene, butane, butenes, cyclopropane, dimethylether, methane, propane, propylene, vinyl methyl ether 510 
