@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-11-22 18:57:28'
+date: '2004-11-22 18:57:54'
 layout: post
 title: LuxeonLEDs
 ---
@@ -16,11 +16,13 @@ Luxeon flashlight reference design: [http://www.lumileds.com/pdfs/DR02.PDF](http
 Boost regulator datasheet from that reference design: [http://www.sipex.com/products/pdf/sp6641.pdf](http://www.sipex.com/products/pdf/sp6641.pdf)
 
 Drivers specifically for Luxeon:
-  * [http://www.leddynamics.com/LuxDrive/content/Page_Buck.html](http://www.leddynamics.com/LuxDrive/content/Page_Buck.html)
-  * [http://www.taskled.com/](http://www.taskled.com/)
-  * [http://www.siliconchip.com.au/cms/A_101528/article.html](http://www.siliconchip.com.au/cms/A_101528/article.html) - plans for high-efficiency step down from 12V
+
+* [http://www.leddynamics.com/LuxDrive/content/Page_Buck.html](http://www.leddynamics.com/LuxDrive/content/Page_Buck.html)
+* [http://www.taskled.com/](http://www.taskled.com/)
+* [http://www.siliconchip.com.au/cms/A_101528/article.html](http://www.siliconchip.com.au/cms/A_101528/article.html) - plans for high-efficiency step down from 12V
 
 Luxeon related parts:
-  * [Elektrolumens](http://www.king-cart.com/cgi-bin/cart.cgi?store=elektrolumens&product=Flashlight+Hobbyist+Parts) - some interesting drivers and PCBs
+
+* [Elektrolumens](http://www.king-cart.com/cgi-bin/cart.cgi?store=elektrolumens&product=Flashlight+Hobbyist+Parts) - some interesting drivers and PCBs
 
 Luxeons in action: [LuxeonLights](LuxeonLights.html)
