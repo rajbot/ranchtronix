@@ -1,26 +1,31 @@
 ---
 author: Dasfoo
-date: '2004-04-18 23:26:09'
+date: '2004-04-19 01:06:33'
 layout: post
 title: FuelPumps
 ---
 
 I've used two types of fuel pumps for Betsy.
 
-Holly Fuel Pump
+<big>Street Racing Fuel Pumps</big>
+
+I used a Holly Fuel Pump that was listed as being compatible with methonol.  The problems that I had with it is that it doesn't pump very fast given all the restrictions in the fuel lines.  It takes 60 seconds to fill the launch tube with 1/2 gallon of alcohol.  Also the pump is non self priming and it doesn't deal well at all with crap in the fuel.  I had to tear the pump down at BM2001 because a bit of plumbers tape got in the pump.
 
 Max Pressure: 14psig
-Flow Rate:    2 gpm max
+Flow Rate:    140 gph max
+
+<Magnetic Drive Chemical Pumps.
 
 Little Giant Magnettic drive pump
 Larger Little Giant Magnetic drive pump
 
-A problem with the first pump was not enough low rate and a sensitivity to crap.  
-A problem with all of these are that they need to be primed.  This is a problem.
+In 2002 I bought a magnetic drive chemical pump.  This worked but suffered from many of the same problems that the holly fuel pump had with the exception of crap.  Centrifical pumps don't care about dirt that much.
+
+In 2003 I bought a much bigger pump but did not use it because I didn't bring Besty to BM that year.  The idea was to improve the flow rate by using a bigger pump.  Problems with this pump is that it draws much more power than the smaller pumps and will not run off my 1200W inverter.
 
 <big>Double Diaphram Pumps</big>
 
-A potential solution would be to use a air operated diaphram pump.  These produce good flow rates on the order of 4-6 gpm max at decent pressure.
+A potential solution would be to use an air operated diaphram pump.  These produce good flow rates on the order of 4-6 gpm max at decent pressure.
 
 Interesting Deets:
 
