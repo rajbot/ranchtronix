@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 22:43:28'
+date: '2004-05-03 22:44:14'
 layout: post
 title: Launch_Tube
 ---
@@ -22,8 +22,8 @@ Item Qty Cost Description
   4    1   42.75  1"X36    304L Threaded Stainless Steel Pipe, Sch 40
   5    1   11.48  1"       304 Stainless Steel T, Sch40
   6    1   15.34  1"       304 Stainless Steel Street, Sch40
---------------------------------------------------------------------------------
 Total Cost: $151.01 
+----
 
 Parts Design #2:
 
