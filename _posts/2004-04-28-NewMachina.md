@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-30 04:19:50'
+date: '2004-04-30 06:46:52'
 layout: post
 title: NewMachina
 ---
@@ -35,6 +35,10 @@ Qty(1)   1" pilot operated valve.<br>
 Pressure Tank:<br>
 
 Betsy uses a 3ft section of black pipe capped at both ends as the pressure tank.  The main requirement for the tank is that the capsity needs to be on the order of the size of the launch tube.  In this case 1 gallon.  A stainless steel tank with a 1" port would be prefered.  Possibly a small fire extenguisher tank.
+
+These guys might be able to make a tank
+
+[http://www.solartanks.com/category_2.htm](http://www.solartanks.com/category_2.htm)
 
 Qty(1)   ???
 
