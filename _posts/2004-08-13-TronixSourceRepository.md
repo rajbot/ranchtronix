@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-13 21:22:23'
+date: '2004-08-13 21:23:37'
 layout: post
 title: TronixSourceRepository
 ---
@@ -31,6 +31,7 @@ Docs at [http://svnbook.red-bean.com/](http://svnbook.red-bean.com/) ...
 
 Mini-tutorial:
 
+<tt>
 $ svn checkout [http://svnhosting.org:8000/svn/ranchtronix](http://svnhosting.org:8000/svn/ranchtronix)
 $ cd ranchtronix
 $ ls
@@ -117,3 +118,4 @@ a big
 
 test
 
+</tt>
