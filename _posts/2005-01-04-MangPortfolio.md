@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-06 05:54:29'
+date: '2005-01-06 06:53:32'
 layout: post
 title: MangPortfolio
 ---
@@ -25,6 +25,7 @@ AVR projects:
 * weasel pic of [VideoMixing](VideoMixing.html) from nephology thanksgiving
 * pic from [VideoRiot(?)](VideoRiot(?).html)
 * pic of video mixing setup?
+* screenshot of patch from visualJockey
 
 Maybes:
 
