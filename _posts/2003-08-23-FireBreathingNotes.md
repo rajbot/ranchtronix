@@ -1,15 +1,46 @@
 ---
-author: DaRaNCH
-date: '2004-03-10 09:59:26'
+author: Mccabe
+date: '2004-03-16 02:41:37'
 layout: post
 title: FireBreathingNotes
 ---
 
 Notes on breathing colored fire.
 
-3/9/4
+3/15/4 Monday
 
-Dorkbot talk tomorrow!  I got this page updated, and pointed to by 'fire.ranchtronix.org.'
+The [DorkBot](DorkBot.html) talk was almost totally successful.  Except for the fact I was a little reluctant to give up the stage!  Great oohs and aahs from the audience, always wonderful to hear.  Great venue, great audience, great help from friends who prepared the space by draping a tarp over an offensive streetlight.  Thanks Nick, Sara, Jesse, Furry!
+
+Some post mortem scribbles...
+
+* Copper chloride reacts!  I had a somewhat frightening suprise when I mixed up some dry powder for a finale... in the past I've done [CuCl](CuCl.html) + fine magnesium powder + other stuff, which worked well.  This time, the [CuCl](CuCl.html) had obviously become hydrated; it was a bright green powder instead of the usual military greenish brown.  When I shook up the powder to mix itl, it quickly became very hot and steamed; I think the Mg was pulling O off of the hydrated [CuCl...](CuCl....html) and probably liberating H<sub>2</sub> in the process.  Scary! <b>Lesson:</b> Don't use hydrated [CuCl,](CuCl,.html) or maybe <b>Lesson:<b/> Don't use Mg with anything that'll make it react!
+* I need to add a towel to my kit; one dedicated to fire.
+* The 300-mesh iron was a great success!
+* * Can I get steel this fine?
+* * 100-mesh iron to add to the mix?
+* It'd be good to dial in some size mixes - try several until I come up with good-looking mixtures.
+* I need toothbrush + paste + floss in-kit!
+* Pack a better table with me?
+* More water.
+* * Dromedary-bag style suck?
+* My shot-bottles need labels.
+* Try color mixes?
+* Plan color + powder mixes.
+* Plan the whole performance!  This will help with wrapping things up cleanly afterwards... making on-the-spot performance decisions while growing drunker is a mistake!
+* Call out for questions explicitly; repeat them before answering.
+* Praise/name/involve assistants.
+* Bring mic. stand!  Even if I can do w/o it, it'll help with mouthwashing sooner.
+* I need a better copper container!
+* Also better container for dispensing copper/powder mixes - plastic and plastic-lidded transparent airline liquor bottle would be good... I currently use one of my shotbottles for this, which is NO GOOD as I end up drinking (copper) from it later on.
+* I need a bottlebrush for cleaning... or some other kind of shotbottle that's easier to clean, or easier to come by.
+* I need to get fireworks-grade boric acid; this is more likely not to be sodium-contaminated.
+* Some science to try: comparison blows with warm + cold boric-acid solutions.
+* ?? potassium nitrate?
+
+
+3/9/4 Tuesday
+
+[DorkBot](DorkBot.html) talk tomorrow!  I got this page updated, and pointed to by 'fire.ranchtronix.org.'
 
 I haven't been able to corraborate the lithium rumor... and skylighter just started carrying it!  I think I'm not going to worry.  Fresh health references on the main page.
 
