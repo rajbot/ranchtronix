@@ -1,9 +1,13 @@
 ---
 author: Raj
-date: '2003-11-12 03:41:15'
+date: '2003-11-12 03:44:45'
 layout: post
 title: LogicAnalyzers
 ---
+
+HP Reference Manuals:
+
+* [Inverse Assembler Manual for 1650 Logic Analyzers](http://www.ele.uri.edu/iced/protosys/test_equipment/hp_1662_doc/HP_10391B_Inverse_Assembler_Manual_10391903.pdf)
 
 Tutorials on HP Logic Analyzers:
 
