@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-13 07:37:23'
+date: '2004-08-13 07:37:51'
 layout: post
 title: TronixSourceRepository
 ---
@@ -27,4 +27,4 @@ To check it out, you'll need a subversion client.
 
 Docs at [http://svnbook.red-bean.com/](http://svnbook.red-bean.com/) ...
 
-Mini-tutorial or pointers thereto coming soon.
+Mini-tutorial or pointers thereto coming soon.  Checkin info too.
