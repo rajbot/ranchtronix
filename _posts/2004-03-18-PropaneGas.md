@@ -1,33 +1,33 @@
 ---
 author: Dasfoo
-date: '2004-03-18 03:18:21'
+date: '2004-03-19 00:22:02'
 layout: post
 title: PropaneGas
 ---
 
-<big>Typical Properties of Propane</big> 
+<big>Propane Info</big>
 
-   Formula                               C3H8
+Typical Properies: [PropaneProperties](PropaneProperties.html)
 
-   Range of inflammability (air)         2.15% to 9.60%
-   Perfect combustion (air)              4.34%
-   Ignition temperature                  940F
+Materials: 
+   Good: Machined Brass Fitting
+         Welded steel pipe.
+         Buna-N
 
-   Vapor pressure, psig at 60F           92  
-   Vapor pressure, psig at 100F          172  
 
-   BTU/gal                               91,500  
-   BTU/cu. ft. of gas @ 60F,             2,520  
-   BTU/lb. of gas                        21,560  
+    Bad: Cast red brass (pinholes)
+         EDPM (Synthetic Rubber used in cheap air hoses)
+         Natural Rubber (Commonly used for seals in sprinkler valves, faucets,
+         etc)
 
-   Lbs. per gal                          4.23  
-   Specific gravity                      0.51  
+Fittings 
 
-   Boiling point of liquid at 
-   atmospheric pressure                  -44F  
+    Machined Brass fittings and schedule 80 steel fittings and pipe are good.
+    Cast red brass and schedule 40 steel fittings are marginal.
 
-   Cu. ft. of gas per pound of liquid    8.59  
-   Cu. ft. of gas per gallon of liquid   36.5  
-   Specific gravity of gas (air = 1)     1.53  
+Quick Connects and Hoses 
 
-Note properties or gas and liquid are at 60F. 
+    Order from [http://www.propaneproducts.com](http://www.propaneproducts.com)
+
+
+
