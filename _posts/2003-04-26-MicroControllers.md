@@ -1,6 +1,6 @@
 ---
-author: Raj
-date: '2004-08-09 21:03:40'
+author: Mang
+date: '2004-12-14 21:52:57'
 layout: post
 title: MicroControllers
 ---
@@ -26,6 +26,7 @@ One way to get increased inputs and outputs is to use external chips that do ser
 
 
 * Serial-input parallel-output latch: 74LS595, 74HC595
+* [Mini SSC II](http://www.seetron.com/ssc.htm) - 12 channel serial servo controller for $44
 
 ----
 
