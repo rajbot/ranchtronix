@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-13 21:28:01'
+date: '2004-08-13 21:28:38'
 layout: post
 title: TronixSourceRepository
 ---
@@ -29,7 +29,7 @@ To check it out, you'll need a subversion client:
 
 Docs at [http://svnbook.red-bean.com/](http://svnbook.red-bean.com/) ...
 
-Mini-tutorial:
+Here's a [MiniTutorial.](MiniTutorial..html)
 
     $ svn checkout [http://svnhosting.org:8000/svn/ranchtronix](http://svnhosting.org:8000/svn/ranchtronix)
     $ cd ranchtronix
