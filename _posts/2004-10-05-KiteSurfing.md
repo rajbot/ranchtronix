@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-10-05 21:01:46'
+date: '2004-10-05 21:02:18'
 layout: post
 title: KiteSurfing
 ---
@@ -9,7 +9,7 @@ title: KiteSurfing
 
 [http://sports.groups.yahoo.com/group/3rdave/message/60](http://sports.groups.yahoo.com/group/3rdave/message/60)
 
-### 3rd Avenue Kiteboarding Safety Guidelines
+## 3rd Avenue Kiteboarding Safety Guidelines
 
 In an effort to promote safety for kiteboarders and other
 recreational users of 3rd Avenue, a consortium of local kiteboarders
@@ -129,12 +129,14 @@ it up, etc.
 ### Landing Guidelines:
 
 Upper Launch Guidelines -
+
 1. At the upper launch there are separate areas for launching
 and landing. Observe them whenever possible. (The landing area is in
 the cove, which is upwind and inland from the launching point area.
 Come in between the two poles).
 
 Beach Launch Guidelines:
+
 1. After landing your kite at the lower beach, quickly roll up
 your lines and move the kite to the back of the beach (upwind, next
 to the rocks) to clear the beach for others. If you are landing a
@@ -144,6 +146,7 @@ where you landed it. Make sure the kite is secure or wait until the
 owner gets to the kite.
 
 General Landing Guidelines:
+
 1. Land at one of the designated landing sites (the upper
 launch, the beach, or one of the lower beaches.) If there is not a
 kiter available to land your kite at one of the designated sites,
@@ -177,7 +180,7 @@ without asking for assistance.
 secure.
 
 
-Other Safety Guidelines:
+### Other Safety Guidelines:
 
 1. Observe right-of-way rules. Starboard tack (right hand
 forward) has right-of-way. Riders must yield to others when jumping,
