@@ -1,6 +1,6 @@
 ---
-author: Dasfoo
-date: '2004-04-18 02:51:58'
+author: Raj
+date: '2005-03-29 19:22:47'
 layout: post
 title: GetOuttaTown
 ---
@@ -26,3 +26,11 @@ title: GetOuttaTown
 <big>Fernley</big>
 
 * Silverado Casino & Restaurant 1380 Newlands Dr W Fernley, NV (775) 575-2222 Has good BBQ till 10pm.
+
+### random!
+
+* [Travel the world on a container ship!](http://www.geocities.com/freighterman.geo/mainmenu.html)
+* [A Weird and Wonderful Guide to Barcelona](http://www.lecool.com/book/index.htm)
+* [Tablet Hotels: Unique hotels for global nomads](http://www.tablethotels.com)
+* [Casa Camper, in barcelona...?](http://www.camper.com/web/en/casacamper.asp)
+* [SF zip code map](http://www.healthysf.org/bdi/outcomes/zip-neighborhood.html)
