@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-19 00:21:59'
+date: '2004-08-19 00:22:12'
 layout: post
 title: TronixSourceRepository
 ---
@@ -31,4 +31,4 @@ Here's a [MiniTutorial.](MiniTutorial..html)
 
 ... A [quick reference](http://www.cs.utexas.edu/users/field/svn_qref.html)
 
-... and a purty quick reference [card](http://www.cs.put.poznan.pl/csobaniec/Papers/svn-refcard.pdf).
+... And a purty quick reference [card](http://www.cs.put.poznan.pl/csobaniec/Papers/svn-refcard.pdf).
