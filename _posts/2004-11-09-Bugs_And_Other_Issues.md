@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-11-13 04:05:14'
+date: '2004-11-13 04:07:23'
 layout: post
 title: Bugs_And_Other_Issues
 ---
@@ -12,6 +12,8 @@ title: Bugs_And_Other_Issues
 * * FIRFilter is not a working and stuff.  Probably a pointer issue.  Hacked it to work cause I want to keep going and stuff.
 * * Mounted the controller in it's little enclosure.  Maybe I'll get [McCabe](McCabe.html) to take picture and stuff
 * * Found possible supplier for Brushless dc motor.  Call them Monday and see if they sell me a motor and stuff.
+* * Thinking of nasty ass issue, the idea that the motorolla pressure sensor may not be okay to use with propane and air.  It's plastic and stuff.  Probably need one that has stainless steel diaphram and stuff.
+* * PS: The lack of a proper debugging tool shows and stuff.
 
 * 11/10/04:
 * * Did not real software work other than checking in the code
