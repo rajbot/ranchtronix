@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-09-29 01:16:28'
+date: '2004-09-30 23:29:40'
 layout: post
 title: RadioFr3quency
 ---
@@ -16,4 +16,5 @@ People Linky:
 
 * [http://www.liberationradio.net/](http://www.liberationradio.net/)
 * [http://www.piratecatradio.com/](http://www.piratecatradio.com/)
-* [http://kcsb.org/](http://kcsb.org/) - Q has a radio show there Wednesday morning, 6-8 PST
+* [http://kcsb.org/](http://kcsb.org/) - Q has a radio show there Wednesday morning, 6-8am PST
+* [http://kvrx.org/](http://kvrx.org/) - Will V. has a show there Monday evening, 7-9pm PST
