@@ -1,9 +1,17 @@
 ---
-author: Mang
-date: '2004-12-20 05:15:13'
+author: Dasfoo
+date: '2004-12-22 08:43:01'
 layout: post
 title: MangCastingLog
 ---
+
+# 2004-12-22
+
+Mixed using the 0.1oz scale.  Can still be hard to get the proportions right.
+
+Tried casting my thickest piece yet (1/2" thick).  Had in toaster oven on low.  Noticed some vapours coming out.  Took piece out and it was hot to touch.  Obvious that the chemical reaction was happening at a *much* higher rate.  Self-heating was probably passing some critical threshold leading the surrounding resin to react.  Not sure if this is the way it's supposed to happen.  More research necessary.
+
+Added some dye to the thick casting, but it was mostly set and the dye stayed mostly on the surface.
 
 # 2004-12-17
 
