@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-13 21:27:36'
+date: '2004-08-13 21:28:01'
 layout: post
 title: TronixSourceRepository
 ---
@@ -37,7 +37,7 @@ Mini-tutorial:
     README  avr  index.html
  
     << create a test file >>
-    $cat > testfile.txt
+    $ cat > testfile.txt
     this
    
     is
