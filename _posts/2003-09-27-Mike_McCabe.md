@@ -1,10 +1,10 @@
 ---
-author: Krazykringle
-date: '2003-09-27 09:13:42'
+author: McCabe
+date: '2004-03-16 08:57:01'
 layout: post
 title: Mike_McCabe
 ---
 
-Mail me! - mike [at] mcca dot be.
+See [McCabe.](McCabe..html)
 
 I work on [light](light.html) and [fire](fire.html).
