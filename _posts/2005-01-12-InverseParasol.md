@@ -1,11 +1,13 @@
 ---
 author: Mang
-date: '2005-01-12 08:49:47'
+date: '2005-01-12 08:52:16'
 layout: post
 title: InverseParasol
 ---
 
 Casts light instead of blocking it.  A nice place to talk on a moonless night.
+
+Super-bright LEDs with 4xAA NiMH battery pack.  Wiring harness is flexible so parasol can still be closed when needed (this also points LEDs forward making a serviceable flashlight).
 
 ![img_6274_std.jpg]({{ site.baseurl }}/images/img_6274_std.jpg)
 
