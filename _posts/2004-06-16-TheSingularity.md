@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-06-16 18:13:31'
+date: '2004-06-16 18:15:46'
 layout: post
 title: TheSingularity
 ---
@@ -12,3 +12,5 @@ title: TheSingularity
     the human era will be ended.
 
    - Vernor Vinge
+
+[Discussion](http://hanson.gmu.edu/vi.html)
