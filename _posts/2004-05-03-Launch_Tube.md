@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 22:29:04'
+date: '2004-05-03 22:35:50'
 layout: post
 title: Launch_Tube
 ---
@@ -73,4 +73,16 @@ Item Qty Cost Description
   7    3   15.34  1"       304 Stainless Steel Street, Sch40
 --------------------------------------------------------------------------------
 Total Cost $ 181.75
+
+Analsys.
+
+The increasing the length of the launch tube is the lowest cost solution.  The length of the launch tube plus ingnitor is likely to be eight feet though.
+
+Using a dual tube design is interesting.  The cost is only slightly more but the length is likely to be only six feet.  Notably it is cheaper than option #3 by almost 2/3.  Though the number of welds is increased quite a bit.
+
+Option #3 is odd, the 2.5 inch pipe is an odd size and therefor the fittings cost a great deal more.
+
+Option #2 is viable being intermediate between #2 and #4.
+
+Other considereation are the valve sizing.  Going with a larger tube diameter may require either higher propelent pressures or may require a larger diameter valve.  Suggest that doubling the propelant is the cheapest but more testie way to go.  (testie see balls, see yikes)
 
