@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-14 00:20:12'
+date: '2004-05-14 00:36:16'
 layout: post
 title: Colorator
 ---
@@ -26,16 +26,13 @@ Dah Source!
     Sodium Chloride    209g/100ml    (2.09) 
     Strontium Chloride 106g/100ml    (1.06)
 
-    Boric Acid          4.8 g/100ml  (0.05) <--- This is not so good!
-    Copper Chloride     .62 g/100ml  (0.01)
     Copper Acetate      7.2 g/100ml  (0.07)
+    Boric Acid          4.8 g/100ml  (0.05)(0.2 hot)
 
 I've read that adding 50grams of colorant per gallon (3785ml) of alcohol is a good rule of thumb.  In that case 
 the ratio of colorant to alchol is (0.013).
 
 Waving my hands.  Any colorant that has a solubility of more than 13.0g/100ml in water can be used in a aqueous
-solution injection system.  That tends to rule out Boric Acid, which is very sad!
+solution injection system.  
 
-
-
-
+That tends to rule out Boric Acid, which is very sad!
