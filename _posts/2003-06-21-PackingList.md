@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-08-24 19:36:37'
+date: '2004-08-24 19:39:19'
 layout: post
 title: PackingList
 ---
@@ -16,6 +16,7 @@ title: PackingList
 * plastic bins
 * rope
 * tarps
+* bungies
 
 * figure out propane stuff
 * charge batteries
