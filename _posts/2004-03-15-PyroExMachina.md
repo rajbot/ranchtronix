@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-05 00:58:40'
+date: '2004-05-05 00:58:50'
 layout: post
 title: PyroExMachina
 ---
@@ -8,7 +8,7 @@ title: PyroExMachina
 <big>Pryo Ex Machina Resourses</big>
 ----
 
-Fuels:: [PyroFuels](PyroFuels.html)
+Fuels: [PyroFuels](PyroFuels.html)
 
 Propane Hoses and Fittings: [PropaneHosesAndFittings](PropaneHosesAndFittings.html)
 
