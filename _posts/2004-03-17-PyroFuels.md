@@ -1,6 +1,6 @@
 ---
-author: Dasfoo
-date: '2004-03-18 03:19:11'
+author: Mang
+date: '2004-03-26 00:55:59'
 layout: post
 title: PyroFuels
 ---
@@ -16,3 +16,5 @@ title: PyroFuels
 <big>Gasolina:</big> [GasolinaBaracho](GasolinaBaracho.html)
 
 <big>Karosina!:</big> [KarosinaBaracho](KarosinaBaracho.html)
+
+<big>Lamp Oil:</big> [LampOil](LampOil.html)
