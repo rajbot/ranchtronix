@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-05 00:57:07'
+date: '2004-05-05 00:57:24'
 layout: post
 title: PyroExMachina
 ---
@@ -25,4 +25,4 @@ Projects
 
 <big>Spark Gun</big> [SparkGun](SparkGun.html)
 
-<big>Colorator</big> [Colorator]
+<big>Colorator</big> [Colorator](Colorator.html)
