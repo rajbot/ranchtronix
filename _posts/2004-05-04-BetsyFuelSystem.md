@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-05 00:07:55'
+date: '2004-05-05 00:39:16'
 layout: post
 title: BetsyFuelSystem
 ---
@@ -23,5 +23,7 @@ Pump has been tested.  As typical with things bought off ebay nothing is certain
 
 Next step is to check the ultimate pressure.  Most likely I can buy a rebuild kit for this 
 pump.
+
+[http://www.yamadapump.com/pages/products/manual/maintenance_manual_dp10.pdf](http://www.yamadapump.com/pages/products/manual/maintenance_manual_dp10.pdf)
 
 ----
