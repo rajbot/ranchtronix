@@ -1,9 +1,11 @@
 ---
 author: Raj
-date: '2003-08-11 20:53:53'
+date: '2003-10-06 02:36:10'
 layout: post
 title: DecouplingCapacitor
 ---
+
+#REDIRECT [DecouplingCapacitors](DecouplingCapacitors.html)
 
 ## Moved to [DecouplingCapacitors](DecouplingCapacitors.html)
 
