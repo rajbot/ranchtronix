@@ -1,6 +1,6 @@
 ---
-author: Mang
-date: '2004-08-26 23:41:11'
+author: Raj
+date: '2004-09-21 22:51:28'
 layout: post
 title: TransFormers
 ---
@@ -10,3 +10,4 @@ title: TransFormers
 * [Transformers breakdancing](http://triadfrog.home.comcast.net/)
 * [Transformers adult fanfic (*shudder*)](http://razormoon.fateback.com/consort/)
 * [Transforming paper pixelart Transformers!](http://www.protoformproject.com/Paperformers/Paperformers.html)
+* [Absurdly-detailed Transformers history](http://www.angelfire.com/tx3/scorpionsnest/tfhistory2003.html)
