@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-23 22:51:35'
+date: '2004-12-23 22:54:25'
 layout: post
 title: MoldMaking
 ---
@@ -66,7 +66,9 @@ The usually come as sheets or pellets.  You heat them to about 350F (177C), depe
 
 When doing the SMT toaster oven reflow thing, you typically take your board to about 450F (232C), but that's only for 60-90 seconds.  Trying to encase an AVR board in hot melt might be problematic...  ATTiny26 max storage temperature is 150C (302F) Might be worth experimenting with though.  SMT tantalum caps might be alright but I could see electrolytic being an issue.
 
-Seems like the major danger here is from burning yourself (ouch).  Or overheating the liquid and creating noxious gas (e.g. hydrogen chloride). 
+Seems like the major danger here is from burning yourself (ouch).  Or overheating the liquid and creating noxious gas (e.g. hydrogen chloride).
+
+One potential advantage is that the plastic can be reused simply by remelting.  There are some types that when heated undergo a reaction that is not reversible (these are used e.g. for the plastic coating on tool handles).
 
 Linky:
 
