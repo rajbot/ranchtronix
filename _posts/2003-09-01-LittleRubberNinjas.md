@@ -1,13 +1,13 @@
 ---
 author: Raj
-date: '2003-09-01 00:57:06'
+date: '2003-09-01 01:16:06'
 layout: post
 title: LittleRubberNinjas
 ---
 
-* The original [LittleRubberNinjas](LittleRubberNinjas.html) page!!! [http://www.unsuave.com/ninja/](http://www.unsuave.com/ninja/)
+* [The original [LittleRubberNinjas](LittleRubberNinjas.html) page!!!](http://www.unsuave.com/ninja/)
 * The new, translucent iNinjas are available from the vending machine at Pay Little, on Cortland in [BernalHeights](BernalHeights.html)
-* The Tiny Ninja Theater Company performs classic theater in NYC with [LittleRubberNinjas!](LittleRubberNinjas!.html) [http://www.tinyninjatheater.com](http://www.tinyninjatheater.com)
+* The [Tiny Ninja Theater Company](http://www.tinyninjatheater.com) performs classic theater in NYC with [LittleRubberNinjas!](LittleRubberNinjas!.html)
 
 Places to get [LittleRubberNinjas](LittleRubberNinjas.html) online:
 
