@@ -1,6 +1,6 @@
 ---
-author: Raj
-date: '2004-08-05 19:58:15'
+author: McCabe
+date: '2004-08-20 10:12:11'
 layout: post
 title: AvrButterfly
 ---
@@ -8,6 +8,7 @@ title: AvrButterfly
 ### AVR Butterfly!
 
 * [/Connections]
+* [...just a few free pins](http://www.robotgames.net/atmel/avr_butterfly.htm)
 
 * $20 ATmega169-based dev board
 * Lots of good stuff, and cheap!
