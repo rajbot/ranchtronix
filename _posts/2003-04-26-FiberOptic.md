@@ -1,6 +1,6 @@
 ---
-author: Nix
-date: '2003-04-27 01:38:06'
+author: Raj
+date: '2003-08-20 19:50:14'
 layout: post
 title: FiberOptic
 ---
@@ -14,3 +14,17 @@ nix sez:
     my pal beverly has done projects with it - she says you need a *very* bright
    light source to make it work.  she buys units that use a halogen bulb and
    a color wheel.  leds are not bright enough.
+
+
+These people are weaving fiber optic cable into fabric: [http://www.luminex.it/](http://www.luminex.it/)
+
+----
+
+<blockquote>
+Scientists say they have identified an ocean sponge living in the darkness of the deep sea that grows thin glass fibers capable of transmitting light better than industrial fiber optic cables used for telecommunication. 
+
+The natural glass fibers also are much more flexible than manufactured fiber optic cable that can crack if bent too far. 
+
+"You can actually tie a knot in these natural biological fibers and they will not break -- it's really quite amazing," said Joanna Aizenberg, who led the research at Bell Laboratories. 
+</blockquote>
+[http://www.salon.com/tech/wire/2003/08/20/sponge/](http://www.salon.com/tech/wire/2003/08/20/sponge/)
