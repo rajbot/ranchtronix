@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-13 21:29:28'
+date: '2004-08-13 21:30:19'
 layout: post
 title: MiniTutorial
 ---
@@ -55,7 +55,7 @@ title: MiniTutorial
     test
 
     << Ask subversion what's different >>
-    << NOTE this still doesn't touch the repository >>
+    << NOTE this doesn't touch the repository >>
     $ svn diff testfile.txt
     Index: testfile.txt
     ===================================================================
