@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2003-10-22 22:22:21'
+date: '2003-10-23 17:34:03'
 layout: post
 title: BarsWithPatios
 ---
@@ -32,7 +32,7 @@ title: BarsWithPatios
 
 ### Lucky 13
 
-* OK patio for the smokers...
+* OK patio for the smokers... patio closes at 11.
 * Lots of European beers
 * They have their own beer called Lucky 13!
 * Review: [Best Jukebox in a Bar](http://www.bestofthebay.com/2002/readerspoll4.html)
