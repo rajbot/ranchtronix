@@ -1,10 +1,9 @@
 ---
 author: McCabe
-date: '2004-08-19 00:16:47'
+date: '2004-08-19 00:21:59'
 layout: post
 title: TronixSourceRepository
 ---
-
 
 We have a [Subversion](http://subversion.tigris.org) source repository.
 
@@ -29,3 +28,7 @@ To check it out, you'll need a subversion client:
 Docs at [http://svnbook.red-bean.com/](http://svnbook.red-bean.com/) ...
 
 Here's a [MiniTutorial.](MiniTutorial..html)
+
+... A [quick reference](http://www.cs.utexas.edu/users/field/svn_qref.html)
+
+... and a purty quick reference [card](http://www.cs.put.poznan.pl/csobaniec/Papers/svn-refcard.pdf).
