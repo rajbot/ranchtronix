@@ -1,6 +1,6 @@
 ---
 author: Sazz
-date: '2004-08-18 23:05:39'
+date: '2004-09-11 17:48:35'
 layout: post
 title: MiniDisco
 ---
@@ -15,3 +15,7 @@ The Mini disco is a back-packable mechanical disco ball, with lights, contained 
 [http://bostoncoop.net/~mike/fossil/poweryourdisko.jpg](http://bostoncoop.net/~mike/fossil/poweryourdisko.jpg) 
 
 * *Problems with the AVR heating and not all of the lights lighting up.  Raj suggests: "Yup, sound like your LEDs were connected directly to the micro! Gerneral practice is to use something like the ULN2003 darlington drivers, cause the AVR can't source that much juice!"
+
+* *Using the Darlinton worked!  Calculating a votage drop of 1 for the driver, I placed them in a circuit with approprite resitors for each LED.  The circuit allowed us to connect the LED's to the AVR without blue smoke! Mike improved the butterfly's programming to automatically start up in throby mode each time the mini disco was turned on. The effect is very good!
+
+* 9/8 The mini disco was filmed by a group making a documentary "In Search of the Valley" I wonder if it'll make the cut!
