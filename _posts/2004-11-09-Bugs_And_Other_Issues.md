@@ -1,12 +1,17 @@
 ---
 author: Dasfoo
-date: '2004-11-13 04:07:23'
+date: '2004-11-13 07:22:02'
 layout: post
 title: Bugs_And_Other_Issues
 ---
 
 ## Bugs and Stuff
 ----
+
+* 11/11/04:
+* * Did preliminary testing and stuff.
+* * Somethings very screwy with the scaling of the input and setpoint.
+* * Must take back to 199 banks for more software work.  FKT!
 
 * 11/11/04:
 * * FIRFilter is not a working and stuff.  Probably a pointer issue.  Hacked it to work cause I want to keep going and stuff.
