@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-12 08:43:43'
+date: '2005-01-12 08:45:06'
 layout: post
 title: InverseParasol
 ---
@@ -8,8 +8,8 @@ title: InverseParasol
 Casts light instead of blocking it.  Still protects you from the elements.
 
 
-![IMG_6273.JPG]({{ site.baseurl }}/images/IMG_6273.JPG)
+![img_6273_std.jpg]({{ site.baseurl }}/images/img_6273_std.jpg)
 
-![IMG_6278.JPG]({{ site.baseurl }}/images/IMG_6278.JPG)
+![img_6278_std.jpg]({{ site.baseurl }}/images/img_6278_std.jpg)
 
-![IMG_6285.JPG]({{ site.baseurl }}/images/IMG_6285.JPG)
+![img_6285_std.jpg]({{ site.baseurl }}/images/img_6285_std.jpg)
