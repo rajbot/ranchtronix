@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-29 06:28:02'
+date: '2004-04-30 03:58:25'
 layout: post
 title: NewMachina
 ---
@@ -9,7 +9,7 @@ Parts for a New Betsy
 
 Increase the holding capcity to 1 gallon.  Make everything of stainless.
 
-Launch Tube + Nozzle<br>
+<b>Launch Tube + Nozzle<b><br>
 
 The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch diameter nozzle, a 2" dia 6 foot luanch tube.  The back end of the launch tube would then be reduced to 1" through a coupling, then feed into a tigh 1" dia u bend.  At the end of the u-bend a 1" diamet socket weld to 1" NTP coupling.
 
