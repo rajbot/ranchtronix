@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-30 06:46:52'
+date: '2004-04-30 07:52:08'
 layout: post
 title: NewMachina
 ---
@@ -59,13 +59,13 @@ Qty(1)   1" Check vavle stainless with Buna N seals.<br>
 Qty(1)   1" coupler stainless.  (May Have)<br>
 
 <b>Pressure System</b><br>
-Qty(1)   80 cuft nitrogen tank.  (Note CO2 might work fine in this app because "carbonization of the fuel" isn't a problem with this design.
-Qty(1)   High flow regulator.  Remains to be seen if the regulator that I have can be used.
-Qty(1)   Pressure relief valve.  150 psig.
-Qty(1)   Pressure switch 100 psig
-Qty(1)   Pressure drain valve.
+Qty(1)   80 cuft nitrogen tank.  (Note CO2 might work fine in this app because "carbonization of the fuel" isn't a problem with this design.<br>
+Qty(1)   High flow regulator.  Remains to be seen if the regulator that I have can be used.<br>
+Qty(1)   Pressure relief valve.  150 psig.<br>
+Qty(1)   Pressure switch 100 psig<br>
+Qty(1)   Pressure drain valve.<br>
 
 <b>Ignition System</b><br>
-Qty(1)   Propane Fueled Ring Ignitor.
-Qty(1)   Propane Torch
-Qty(1)   Electric Ignitor.
+Qty(1)   Propane Fueled Ring Ignitor.<br>
+Qty(1)   Propane Torch<br>
+Qty(1)   Electric Ignitor.<br>
