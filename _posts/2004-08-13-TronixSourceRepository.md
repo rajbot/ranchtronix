@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-19 21:02:32'
+date: '2004-08-19 21:09:35'
 layout: post
 title: TronixSourceRepository
 ---
@@ -8,6 +8,8 @@ title: TronixSourceRepository
 We have a [Subversion](http://subversion.tigris.org) source repository.
 
 It can be viewed on the web at [http://svnhosting.org:8000/websvn/listing.php?repname=ranchtronix](http://svnhosting.org:8000/websvn/listing.php?repname=ranchtronix).
+
+Here's an [overview](http://svnhosting.org:8000/svn/ranchtronix/index.html) of what's in the repository.
 
 To check it out, you'll need a subversion client:
 
