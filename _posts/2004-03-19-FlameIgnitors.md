@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-04 04:52:40'
+date: '2004-05-04 06:19:34'
 layout: post
 title: FlameIgnitors
 ---
@@ -20,30 +20,29 @@ Mostly I think these have potential for relighting pilots after they've been blo
 
 I fthink if these are to work as primary ignitors then the spark needs to be very high voltage and powerful.  A large neon sign transformer or a microwave oven transformer with a ballast would be needed.  (The other thought is using a small 110V rat box welder as the power source.
 
-<big><big>Propane Ingnitors:</big></big><br>
+<big>Propane Ingnitors:</big><br>
+
+Propane Ignitors use a flame to ignite the fuel.  The upside of these designes is that the flame produces a large zone of ignition.  The downside is that they continuously consume gas.  Rates can be as high as 10-50,000 btu/hr.  The other downside (or upside) is that the flame produces light which may or may not be a good thing.
 
 <big>Propane Torch:</big><br>
-Works, tends to blow out.
+General Impression: Works, tends to blow out.
 
 Propane torches use a high pressure jet of propane to draw in and mix air in a venturi.  The problem is that any distrubance will tend to change the ratio of propane to air and can cause the flame to blow out.
 
-
 <big>Propane Wick:</big><br>
-Works hands down.   
+General Impression: Works hands down.   
 
 These are the simplest, cheapest and most reliable ignitors.
 
 Better than a torch, this design uses a stainless steel wick to hold a propane flame.  Unlike a propane torch the wool does a very good job holding the flame during firing.  Quote "The flame hides inside the steel wool"  What happens is as the big rush of unstable air blows past the ignitor the flame retreats inside the steel wool and continues burning.  Afterwards that flame pops back out.  These are very hard to put out.
 
-The simplest form is simply a 1/4 inch copper tube with the end caped off and drilled through with a 1/16
-drill.  Iron bailing wire is then threaded through the hole to keep the cap on and to wrap around the
-stainless steel wool.
+The simplest form is simply a 1/4 inch copper tube with the end caped off and drilled through with a 1/16 drill.  Iron bailing wire is then threaded through the hole to keep the cap on and to wrap around the stainless steel wool.
 
 More complicated ones are the Ring Design used on Betsy and the ICP's.  In the ring design there is a ring of copper tubing with holes pointing towards the center.  The ring is wrapped in stainless steel wool.  The advantage of these is when you need a big ass ignitor.
 
-Downside is that like a torch it continuously consumes propane.  Unlike a torch the flame is yellow which may or may not be a problem.
-
-Downside2: These may be hard to light reliably with an electric ignitor.
+Downside: Continuously consumes propane.  
+Downside2: Unlike a torch the flame is yellow which may or may not be a problem.
+Downside3: These are hard to light reliably with an electric ignitor.
 
 <big>Alcohol Wick:</big><br>
 Same as a propane torch but fed with alcohol.
@@ -61,7 +60,7 @@ Hidden advantage, if the flame goes out, relighting it is very safe since as the
 May work for some things and not others.  Not a lot of experince with these.  Disadvantage is that they are hard to put out and thus are a safety issue.
 
 <big>Premix Torches</big><br>
-No experience with these.
+General Impression: May work, may required futzing to make work.
 
 The idea would be to use a premix of fuel and air for a propane torch.  The air being supplied by a blower or compressor.  
 
