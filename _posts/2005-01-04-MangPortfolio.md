@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-11 07:29:36'
+date: '2005-01-11 07:56:33'
 layout: post
 title: MangPortfolio
 ---
@@ -20,7 +20,7 @@ Stuff for portfolio:
 * pic of [ParaLuna](ParaLuna.html)
 * quicktime of [WaterLight](WaterLight.html) patterns
 
-[VideoMixing:](VideoMixing:.html)
+[MangMixing:](MangMixing:.html)
 
 * weasel pic of [VideoMixing](VideoMixing.html) from nephology thanksgiving
 * pic from [VideoRiot(?)](VideoRiot(?).html)
