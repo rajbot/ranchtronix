@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-05-03 19:07:42'
+date: '2004-05-03 19:19:16'
 layout: post
 title: WoodWorking
 ---
@@ -36,3 +36,9 @@ Stuff to buy for dovetails project:
 * Wood gouge, to make groove for drop-in steel front panel.
 * Sandpaper
 * Polyurethane and stain
+* Whetstone and chisel sharpening wedge
+
+Things I've learned so far from my practice cuts:
+
+* Saw blades have thickness. I suppose the fact that I'm just now figuring this out indicates how often I work with wood!
+* It is easer to make straight accurate cuts in hardwood...
