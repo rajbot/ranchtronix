@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-04 00:29:12'
+date: '2004-05-04 02:42:36'
 layout: post
 title: NewMachina
 ---
@@ -12,6 +12,8 @@ The basic idea is to increase the holding capcity to 1 gallon.  And to make the 
 Launch Tube Material Notes: [Launch Tube Material](Launch_Tube_Material.html)<br>
 
 Launch Tube Design Notes: [Launch Tube Configation](Launch_Tube_Configation.html)<br>
+
+Nickel Plated Launch Tube [Nickel Plate](Nickel_Plate.html)
 
 Currently thinking about either using a long 2" diameter launch tube or a twin 1.5" diameter launch tube.
 
