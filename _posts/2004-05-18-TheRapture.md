@@ -1,10 +1,11 @@
 ---
 author: Raj
-date: '2004-06-06 17:27:54'
+date: '2004-06-06 17:30:01'
 layout: post
 title: TheRapture
 ---
 
+* [http://www.wordiq.com/definition/End_times](http://www.wordiq.com/definition/End_times)
 * [http://en.wikipedia.org/wiki/Dispensationalism](http://en.wikipedia.org/wiki/Dispensationalism)
 * [http://www.pbs.org/wgbh/pages/frontline/shows/apocalypse/](http://www.pbs.org/wgbh/pages/frontline/shows/apocalypse/)
 * [http://www.villagevoice.com/issues/0420/perlstein.php](http://www.villagevoice.com/issues/0420/perlstein.php)
