@@ -1,6 +1,6 @@
 ---
-author: Mang
-date: '2004-08-30 07:05:42'
+author: Raj
+date: '2004-09-27 22:13:25'
 layout: post
 title: StarWheel
 ---
@@ -66,3 +66,6 @@ RF RX:
 
     We'll want to add:
     6 - Mode/Pattern
+
+
+![starwheel.jpg]({{ site.baseurl }}/images/starwheel.jpg)
