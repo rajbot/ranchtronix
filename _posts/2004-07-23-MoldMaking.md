@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-23 22:41:28'
+date: '2004-12-23 22:48:37'
 layout: post
 title: MoldMaking
 ---
@@ -54,8 +54,13 @@ Uses:
 
 The usually come as sheets or pellets.  You heat them to about 350F (177C), depending on the plastic, and they turn liquid.  You then pour them into your mold and as they cool they solidify.  PVC is one of these.  One advantage seems to be that you can get it very soft (e.g. Shore A 5).  I believe this is what is typically used in fishing lures and in some sex toys.
 
+When doing the SMT toaster oven reflow thing, you typically take your board to about 450F (232C), but that's only for 60-90 seconds.  Trying to encase an AVR board in hot melt might be problematic...  ATTiny26 max storage temperature is 150C (302F) Might be worth experimenting with though.  SMT tantalum caps might be alright but I could see electrolytic being an issue.
+
+Seems like the major danger here is from burning yourself (ouch).  Or overheating the liquid and creating noxious gas (e.g. hydrogen chloride). 
+
 Linky:
 
+* [Vinyls at D&S](http://www.artstuf.com/flexmold2.html#VINYLS)
 * [Brief on hot melt plastisols (pdf)](http://www.polyone.com/downloads/pdfs/tsr/TAB-PL003%20Hot%20Melt%20Plastisols.pdf)
 
 # General Links
