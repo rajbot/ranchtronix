@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-10-27 19:45:01'
+date: '2004-10-29 02:50:47'
 layout: post
 title: Gas_Regulators
 ---
@@ -20,8 +20,7 @@ Below are some common CGA numbers. High pressure tanks or lecture bottles requir
 ||Air (industrial grade) || 590 ||
 ||Boron trichloride, chlorine, nitric oxide, nitrogen dioxide,<br>nitrogen trioxide, sulfur dioxide, phosphorous pentafluoride,<br>many halocarbons || 660 ||
 ||Anyhdrous ammonia || 705 || 
-
-
+||Lecture Bottles || 170 ||
 Good Link:
 
 [http://www.ilpi.com/inorganic/glassware/regulators.html](http://www.ilpi.com/inorganic/glassware/regulators.html)
