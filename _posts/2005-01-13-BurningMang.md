@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-14 00:40:53'
+date: '2005-01-14 00:42:31'
 layout: post
 title: BurningMang
 ---
@@ -8,7 +8,7 @@ title: BurningMang
 # Ambience Ambulance
 
 ![ambamb.jpg]({{ site.baseurl }}/images/ambamb.jpg)<br>
-The Ambience Ambulance creates a sanctuary from the often challenging environment of Burning Man by providing a temporary space for relaxation and chill.  It moves to a different location each night and can be found by its distinctive exterior lighting.  For 2002 and 2003 I designed, built and programmed two sequencers to animate the lightbar and large "Ambience Ambulance" sign.
+The Ambience Ambulance provides a sanctuary from the often challenging environment of Burning Man by creating a space of relaxation and chill.  It moves to a different location each night and can be found by its distinctive exterior lighting.  For 2002 and 2003 I designed, built and programmed two sequencers to animate the lightbar and large "Ambience Ambulance" sign.
 
 ![seq-plywood.jpg]({{ site.baseurl }}/images/seq-plywood.jpg)<br>
 Sequencer circuit board during final assembly.  The AVR microcontroller uses a darlington transistor array to control 8 separate drivers for the strands of electroluminescent wire (EL-wire).  I was responsible for all design, construction and programming of the sequencers.  The software was written in Basic using BASCOM-AVR.
