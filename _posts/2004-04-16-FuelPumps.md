@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-19 01:06:33'
+date: '2004-04-19 01:06:56'
 layout: post
 title: FuelPumps
 ---
@@ -14,7 +14,7 @@ I used a Holly Fuel Pump that was listed as being compatible with methonol.  The
 Max Pressure: 14psig
 Flow Rate:    140 gph max
 
-<Magnetic Drive Chemical Pumps.
+<big>Magnetic Drive Chemical Pumps</big>
 
 Little Giant Magnettic drive pump
 Larger Little Giant Magnetic drive pump
