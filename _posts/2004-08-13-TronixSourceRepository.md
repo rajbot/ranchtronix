@@ -1,11 +1,10 @@
 ---
 author: McCabe
-date: '2004-08-13 21:30:41'
+date: '2004-08-19 00:16:47'
 layout: post
 title: TronixSourceRepository
 ---
 
-## Tronix source repository
 
 We have a [Subversion](http://subversion.tigris.org) source repository.
 
