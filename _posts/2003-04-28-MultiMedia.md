@@ -1,6 +1,6 @@
 ---
-author: Raj
-date: '2003-04-28 22:38:40'
+author: Mang
+date: '2003-06-04 20:00:10'
 layout: post
 title: MultiMedia
 ---
@@ -20,3 +20,7 @@ title: MultiMedia
 * [ArKaos VJ](http://www.midiman.net/products/software/arkaos/vj.php)
 * [MAX/MSP](http://www.cycling74.com)
 * [http://www.virtualvtr.com/](http://www.virtualvtr.com/)
+
+## VJing software
+
+* [visualJockey -- hacker powered modular vj softy](http://www.visualjockey.com)
