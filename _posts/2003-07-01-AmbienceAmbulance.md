@@ -1,9 +1,12 @@
 ---
-author: Mang
-date: '2003-08-22 22:35:10'
+author: Raj
+date: '2004-08-02 07:19:40'
 layout: post
 title: AmbienceAmbulance
 ---
+
+![ambamb.jpg]({{ site.baseurl }}/images/ambamb.jpg)
+<br><small>picture taken from the [AmbAmb](AmbAmb.html) Tribe</small>
 
 [Ambience Ambulance home page](http://www.ambienceambulance.org/)
 
@@ -82,5 +85,3 @@ available here:
 #############################
 
 </pre>
-
-
