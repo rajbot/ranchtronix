@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-13 23:42:56'
+date: '2005-01-13 23:43:20'
 layout: post
 title: MangMixing
 ---
@@ -10,7 +10,7 @@ title: MangMixing
 Performance at a private party in 2001.  visualJockey software was used to create various video textures in real-time.  These were projected inside to create an immersive environment and also on snow-covered pine trees outside which provided an organic three-dimensional projection surface.  Photo by Jon Ross.
 
 # Description:
-[QuickTime](QuickTime.html) movie (4.6MB) of interactive video system created using visualJockey and live camera input.  Designed to encourage interactive experimentation to find the rhythmic patterns in the delayed video.
+[QuickTime](QuickTime.html) movie (4.6MB, please allow time to load) of interactive video system created using visualJockey and live camera input.  Designed to encourage interactive experimentation to find the rhythmic patterns in the delayed video.
 
 I am primarily interested in creating real-time interactive systems which allow for improvisation and play rather than prepared content.  The video and its system of processing, control and projection should be felt as extending the physical space, and provide the same rewarding exploration that we have when first learning the rules that govern our interaction with the physical world.  This is best achieved by having a system with simple deterministic rules that exhibit emergent complex behaviour, similar to how a thrown ball shows complex behaviour from the dependable interaction of mass, gravity and elasticity.
 
