@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-11-04 17:21:16'
+date: '2004-11-04 17:25:04'
 layout: post
 title: Methonol_Toxicity
 ---
@@ -13,16 +13,16 @@ Things to say about Toxicity.
 All chemicals can harm you in large enough quanities.  People have and do die from drinking too much water for instance.  Safety is relative.  One can put things into some perspective.
 
 * Chemicals can be
-* * Generally safe.
+* * Generally Safe
 * * Acutely Toxic
 * * Nasty Toxic
 * * Insidiously Toxic
 
-<b>Generally Safe</b>: The hallmark of a non-toxic chemical is that it's harmless in small doeses and you are unlikely to consume a large enough dose to be harmful.  (I think the FDA allows a toxicity limit in foodstuffs of 1 to 137.  That is you can put 1/137th of the amount of an ingredient required to make someone sick)
+<b>Generally Safe</b>: The hallmark of a non-toxic chemical is that it's harmless in small ammounts and you are unlikely to consume a enough to be harmful.  Salt is Generally safe.
 
 <b>Acutely Toxic</b>: chemicals differ from generally safe materials in that it's quite possible to ingest enough to cause harm.  However, unless you consume a toxic dose, you're fine.  Booze is a acutely toxic.<br>
 
-<b>Nasty Toxic</b> chemicals damage the human body in specific ways, typically by gumming up the works.  Formic acid is nasty toxic.  It destroys the optic nerve and attacks the  pancreas (sp).
+<b>Nasty Toxic</b> chemicals damage the human body in specific ways, typically by gumming up the works.  Formic acid is nasty toxic.  It destroys the optic nerve and attacks the pancreas.
 
 <b>Insidiously Toxic</b> chemicals poison you over the long haul.  Typcially these chemicals either do cumulative damage over time or slowly build up in your body until you have problems.  Lead and Mercury are insidiouly toxic.
 ----
