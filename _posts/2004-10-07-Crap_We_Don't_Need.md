@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-10-07 21:59:20'
+date: '2004-10-07 23:54:39'
 layout: post
 title: Crap_We_Don't_Need
 ---
@@ -10,6 +10,8 @@ title: Crap_We_Don't_Need
 This a page to list all the crap you don't want anymore, never wanted, or need to get rid of so you can have more crap.
 
 ----
+[Mr Foo's World of Crap](Mr_Foo's_World_of_Crap.html)
+
 <b>Mr Foo's World of Usleess Crap</b>
 
 * 1/3 HP Magenettic Drive Pump.
