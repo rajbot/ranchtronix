@@ -1,6 +1,6 @@
 ---
-author: Nix
-date: '2003-09-06 19:46:09'
+author: Dasfoo
+date: '2004-05-04 07:01:56'
 layout: post
 title: EngineeringForFuckos
 ---
@@ -10,6 +10,8 @@ first draft of a curriculum:
 
 engineering for fuckos curriculum
 ---------------------------------
+
+    Beam Theroy [ [BeamTheroy](_BeamTheroy.html)](BeamTheroy](_BeamTheroy.html).html)
 
 strength of structures
     tensile / compressive loads
