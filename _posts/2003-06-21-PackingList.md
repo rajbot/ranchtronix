@@ -1,6 +1,6 @@
 ---
-author: Test
-date: '2004-08-24 16:36:40'
+author: Raj
+date: '2004-08-24 17:38:25'
 layout: post
 title: PackingList
 ---
@@ -22,6 +22,8 @@ title: PackingList
 * wash tiki pillow
 * find mangs battery charger
 * plan monday dinner
+* pack ranch stereo
+* print tiki registration
 
 ### tiki packing
 
@@ -33,12 +35,14 @@ title: PackingList
 * wood deck
 * bamboo poles + shade
 * flower lei
-* sound system
+* sound system (2)
 * generator
-* battery chargers
+* battery chargers (2)
+* inverters (2)
 * u-bolts
 * rope
 * gas + propane
+* propane hose/switch
 
 ### Desert Camping, 4 days
 
