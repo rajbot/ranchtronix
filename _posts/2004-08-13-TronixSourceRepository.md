@@ -1,6 +1,6 @@
 ---
 author: McCabe
-date: '2004-08-19 01:41:00'
+date: '2004-08-19 21:02:32'
 layout: post
 title: TronixSourceRepository
 ---
@@ -34,3 +34,6 @@ The [Guided Tour](http://svnbook.red-bean.com/svnbook/ch03.html)....
 ... A [quick reference](http://www.cs.utexas.edu/users/field/svn_qref.html)
 
 ... And a purty quick reference [card](http://www.cs.put.poznan.pl/csobaniec/Papers/svn-refcard.pdf).
+(It's formatted for A4 paper, make sure you scale it down a bit - 94% should do it.)
+
+There's a few of these printed out at the ranch.
