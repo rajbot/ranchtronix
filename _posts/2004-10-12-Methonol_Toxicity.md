@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-11-04 17:20:03'
+date: '2004-11-04 17:21:16'
 layout: post
 title: Methonol_Toxicity
 ---
@@ -22,7 +22,7 @@ All chemicals can harm you in large enough quanities.  People have and do die fr
 
 <b>Acutely Toxic</b>: chemicals differ from generally safe materials in that it's quite possible to ingest enough to cause harm.  However, unless you consume a toxic dose, you're fine.  Booze is a acutely toxic.<br>
 
-<b>Nasty Toxic</b> chemicals damage the human body in specific ways, typically by gumming up the works.  Formic acid is nasty toxic.  It destroys the optic nerve and attacks the pacreous (sp).
+<b>Nasty Toxic</b> chemicals damage the human body in specific ways, typically by gumming up the works.  Formic acid is nasty toxic.  It destroys the optic nerve and attacks the  pancreas (sp).
 
 <b>Insidiously Toxic</b> chemicals poison you over the long haul.  Typcially these chemicals either do cumulative damage over time or slowly build up in your body until you have problems.  Lead and Mercury are insidiouly toxic.
 ----
