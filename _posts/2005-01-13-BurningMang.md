@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-14 00:34:19'
+date: '2005-01-14 00:35:09'
 layout: post
 title: BurningMang
 ---
@@ -15,7 +15,7 @@ Sequencer circuit board during final assembly.  The AVR microcontroller uses a d
 Sequencer circuit board mounted in plastic enclosure.  EL-wire driver outputs are connected to the EL-wire mounted on the plywood using computer CAT-5 cables.  The exposed terminals make debugging much easier.  Laptop is used to re-program the sequencer to display different animations.
 
 ![sign-day.jpg]({{ site.baseurl }}/images/sign-day.jpg)<br>
-Completed sign mounted on the Ambulance.  The sequencer is mounted in lightbar on top.  At night the rough edges are invisible.
+Completed sign mounted on the Ambulance.  The sequencer is mounted in lightbar on top.  At night the transparent plastic overlay is invisible.
 
 ![sign-night-simple.jpg]({{ site.baseurl }}/images/sign-night-simple.jpg)<br>
 The illuminated sign during testing.  Each oval and word can be individually controlled by the software allowing for animated patterns.
