@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-11 09:35:42'
+date: '2005-01-13 20:06:29'
 layout: post
 title: MangMixing
 ---
@@ -20,7 +20,7 @@ Screenshot of visualJockey composition for system above.
 
 * Laptop PC running [visualJockey](http://www.visualjockey.com)
 * Canon MiniDV camera for content creation and live input to laptop
-* Dazzle DVC 90 to digitize live video input
+* Dazzle DVC 90 to digitize live video input at 640x480
 * Panasonic WJ-MX10 video mixer
-* Cyberhome CH300 DVD player
+* 2 x Cyberhome CH300 DVD player
 * Projectors begged and borrowed
