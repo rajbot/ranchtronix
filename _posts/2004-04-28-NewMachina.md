@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-30 07:52:08'
+date: '2004-05-03 20:13:56'
 layout: post
 title: NewMachina
 ---
@@ -14,13 +14,14 @@ Increase the holding capcity to 1 gallon.  Make everything of stainless.
 The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch diameter nozzle, a 2" dia 6 foot luanch tube.  The back end of the launch tube would then be reduced to 1" through a coupling, then feed into a tigh 1" dia u bend.  At the end of the u-bend a 1" diamet socket weld to 1" NTP coupling.
 
 Parts:<br>
-Item  Qty   Description
-  1    1   2" Stainless Steel Pipe 72 inches, Sch 10<br>
-  2    1   2-1.25" Reducing Coupler Butt-Weld, Sch 10<br>
-  3    1   2-1"  Reducing Coupler, Sch 10<br>
-  4    1   1" 304L Threaded Stainless Steel Pipe, Sch 40<br>
-  5    1   1.25 inch nipple 6 inches long, Sch 10<br>
-  6    3   1/2" Threaded 304L Stainless Steel Pipe Nipple, Sch40?
+Item  Qty  Cost   Description
+  1    1   67.64  2" Stainless Steel Pipe 72 inches, Sch 10<br>
+  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
+  3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
+  4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
+  4    1   31.63  1"       304L Stainless Steel Pipe, Sch 10<br>
+  5    1          1.25 inch nipple 6 inches long, Sch 10<br>
+  6    3          1/2" Threaded 304L Stainless Steel Pipe Nipple, Sch40?
 
 These parts will need to be carefully butt welded together to make the launch tube.  This may require a skilled welder.  Pay for with mucho beer.  
 
