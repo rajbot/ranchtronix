@@ -1,7 +1,7 @@
 ---
 author: Raj
 category: AvrButterfly
-date: '2004-08-05 22:47:19'
+date: '2004-08-05 22:48:03'
 layout: post
 title: Connections
 ---
@@ -10,7 +10,7 @@ title: Connections
 
 ### PortB pin connections
 
-Connected to ISP header, Dataflash, and Joystick. Note that for joystick buttons, "The common line of all directions is GND. This means that internal pull-up must be enabled on the ATmega169 to detect the input from the joystick."
+Connected to the Port B header, ISP header, Dataflash, and Joystick. Note that for joystick buttons, "The common line of all directions is GND. This means that internal pull-up must be enabled on the ATmega169 to detect the input from the joystick."
 
 || '''Pin''' || '''Alias''' || '''Connected to...''' ||
 || PB0 || !SS/PCINT8 (SPI Slave Select input or Pin Change Interrupt8) || Dataflash CS pin  ||
