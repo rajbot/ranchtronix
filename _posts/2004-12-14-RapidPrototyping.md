@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-14 22:52:39'
+date: '2004-12-14 22:56:22'
 layout: post
 title: RapidPrototyping
 ---
@@ -15,7 +15,7 @@ Service bureaus:
 
 * [Bathesba Grossman's links](http://www.bathsheba.com/misc/links.html#3dprint)
 * [Meta-list of bureaus](http://home.att.net/~castleisland/sbcisel.htm)
-* [3D Art to Part](http://www.3darttopart.com/product%20info.php) - looks cheap-ish!
+* [3D Art to Part](http://www.3darttopart.com/product%20info.php) - cheap-ish plaster based models
 * [http://www.3-dprinting.com/](http://www.3-dprinting.com/) - $199 for 5 cu inch ABS
 
 Linky:
