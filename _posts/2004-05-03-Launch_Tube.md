@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 22:44:45'
+date: '2004-05-03 22:45:57'
 layout: post
 title: Launch_Tube
 ---
@@ -16,7 +16,7 @@ Parts Design #1 Longer pipe:
 
 Launch tube size is increased from 36 inches to 70 inches.
 
-Item Qty Cost Description 
+    Item Qty Cost Description 
   1    1   52.98  2" Stainless Steel Pipe 72 inches, Sch 10
   2    2    6.90  2-1"     Reducing Coupler, Ass-Weld, Sch 10
   4    1   42.75  1"X36    304L Threaded Stainless Steel Pipe, Sch 40
