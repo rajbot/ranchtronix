@@ -1,11 +1,13 @@
 ---
 author: Mang
-date: '2004-10-05 21:02:18'
+date: '2004-10-06 20:44:36'
 layout: post
 title: KiteSurfing
 ---
 
 # 3rd Avenue
+
+[http://www.sfba.org/3rdavekite.html](http://www.sfba.org/3rdavekite.html)
 
 [http://sports.groups.yahoo.com/group/3rdave/message/60](http://sports.groups.yahoo.com/group/3rdave/message/60)
 
