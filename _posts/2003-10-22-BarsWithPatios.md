@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2003-10-23 17:34:03'
+date: '2003-10-23 17:39:08'
 layout: post
 title: BarsWithPatios
 ---
@@ -36,3 +36,16 @@ title: BarsWithPatios
 * Lots of European beers
 * They have their own beer called Lucky 13!
 * Review: [Best Jukebox in a Bar](http://www.bestofthebay.com/2002/readerspoll4.html)
+
+
+### [Bottom of the Hill](http://bottomofthehill.com/)
+Ethan IM'ed me this review:
+    Raj:   then i realized that bottom of the hill has a patio..
+    Ethan: oh, that's ture.
+    Ethan: but it's rarely pleasant.
+    Ethan: it's frequently packed thick out there
+    Ethan: at least during crowded shows.
+    Ethan: like the barbecue shows. mmmm....
+    Ethan: have you been to an all-you-can-eat bbq show there?
+    Ethan: nothing better in this world.
+    Ethan: the problem with the bbq show i went to (american analog set was headlining) was that the bbq line was so long, every time they brought burgers out they were gone by the time i noticed, got in line, and got to the front of the line.
