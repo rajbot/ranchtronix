@@ -1,13 +1,13 @@
 ---
 author: Mang
-date: '2005-01-11 07:28:41'
+date: '2005-01-11 07:29:24'
 layout: post
 title: MangPortfolio
 ---
 
 Stuff for portfolio:
 
-AVR projects:
+Burning Man projects:
 
 * schematic for AVR board
 * image of AVR board
