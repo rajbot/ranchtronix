@@ -1,11 +1,11 @@
 ---
 author: Mang
-date: '2005-01-12 08:49:25'
+date: '2005-01-12 08:49:47'
 layout: post
 title: InverseParasol
 ---
 
-Casts light instead of blocking it.
+Casts light instead of blocking it.  A nice place to talk on a moonless night.
 
 ![img_6274_std.jpg]({{ site.baseurl }}/images/img_6274_std.jpg)
 
