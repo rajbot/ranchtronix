@@ -1,6 +1,6 @@
 ---
-author: McCabe
-date: '2004-03-24 06:45:29'
+author: Mccabe
+date: '2004-09-13 19:21:27'
 layout: post
 title: Powering_LED_Widgets
 ---
@@ -24,6 +24,8 @@ Batteries by themselves are a little hard to work with, especially alkalines.  T
 I've been using 6V/500mA (2.1mm/5.5mm dc connector) adapters from Mouser.  They're pretty small and inoffensive as wall warts go.  Part #106054.  They're not regulated, so they still require some kind of current/voltage regulation.  I did my first design barrel-positive, but the rest of the world (and the warts I got) are barrel-negative, so that's how it will be.
 
 Mouser has nice power jacks: ME163-4303.
+
+A page on wall warts: [http://www.powerstream.com/Wall-mount-FAQ.htm](http://www.powerstream.com/Wall-mount-FAQ.htm)
 
 ## [Voltage regulators](http://www.national.com/appinfo/power/files/f4.pdf)
 
