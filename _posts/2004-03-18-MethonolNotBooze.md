@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-19 00:56:15'
+date: '2004-04-19 00:56:58'
 layout: post
 title: MethonolNotBooze
 ---
@@ -14,11 +14,17 @@ Even more like Ethonol, Methonol burns with a colorless flame making it suitible
 Typical Properties: [MethonolProperties](MethonolProperties.html)
 
 Material Compatibility
+
+<big>Good</big>
+
    Note many metals are compatible with methonol.  However methonol + alki salts
    is a different matter.  Material compatible with methonol are
 
    440 Stainless (Important! Copper Chloride eats stainless for lunch)
    PVC  (Strange but true)
+
+<big>Bad</big>
+
    
 Safety
    Methonol is poisonous and can make you blind.  Can be absorbed through the 
