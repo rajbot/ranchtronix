@@ -1,7 +1,7 @@
 ---
 author: Raj
 category: AvrButterfly
-date: '2004-08-06 00:11:33'
+date: '2004-08-06 00:13:21'
 layout: post
 title: Connections
 ---
@@ -41,7 +41,7 @@ Connected to the Port D header and the LCD panel.
 
 ### PortE pin connections
 
-Connected to USI header, the Joystick and UART circuitry.
+Connected to USI header, the Joystick, the Dataflash, and UART circuitry.
 
 Note that pins 4-6 are connected to the USI header and nothing else. If you aren't using USI, these pins might be convenient to use for other purposes.
 
@@ -53,4 +53,4 @@ Note that pins 4-6 are connected to the USI header and nothing else. If you aren
 || PE4 || USCK/SCL/PCINT4 (USART External Clock Input/Output or TWI Serial Clock or  Pin Change Interrupt4) || USI Header (pin 1) ||
 || PE5 || DI/SDA/PCINT5 (USI Data Input or TWI Serial DAta or Pin Change Interrupt5) || USI Header (pin 2) ||
 || PE6 || DO/PCINT6 (USI Data Output or Pin Change Interrupt6) || USI Header (pin 3) ||
-|| PE7 || PCINT7 (Pin Change Interrupt7),  CLKO (Divided System Clock) || ||
+|| PE7 || PCINT7 (Pin Change Interrupt7),  CLKO (Divided System Clock) || Dataflash reset pin ||
