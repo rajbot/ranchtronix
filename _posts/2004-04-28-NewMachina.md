@@ -1,66 +1,27 @@
 ---
 author: Dasfoo
-date: '2004-05-03 22:14:44'
+date: '2004-05-04 00:16:20'
 layout: post
 title: NewMachina
 ---
 
 Parts for a New Betsy
 
-Increase the holding capcity to 1 gallon.  Make everything of stainless.
+The basic idea is to increase the holding capcity to 1 gallon.  Make everything of stainless so that it can handle alcohol and alkali metal salts.
 
 Launch Tube Design Notes: [Launch Tube](Launch_Tube.html)
 
-<big>Launch Tube + Nozzle</big><br>
-
-The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch diameter nozzle, a 2" dia 6 foot luanch tube.  The back end of the launch tube would then be reduced to 1" through a coupling, then feed into a tight 1" dia u bend.  At the end of the u-bend a 1" diamet socket weld to 1" NTP coupling.
-
-Parts Design #1:<br>
-
-Item  Qty  Cost   Description
-  1    1   52.98  2" Stainless Steel Pipe 72 inches, Sch 10
-  2    2    6.90  2-1"     Reducing Coupler, Ass-Weld, Sch 10
-  4    1   42.75  1"X36    304L Threaded Stainless Steel Pipe, Sch 40
-  5    1   11.48  1"       304 Stainless Steel T, Sch40
-  6    1   15.34  1"       304 Stainless Steel Street, Sch40
------------------------------------------------------------------
-Total Cost: $151.01
-
-Parts Design #2:<br>
-
-Item  Qty  Cost   Description
-  1    1   67.64  2.5"X72" Stainless Steel Pipe, Sch 10
-  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10
-  3    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10
-  4    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10
-  5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10
-  6    1   11.48  1"       304 Stainless Steel T, Sch40
-  7    1   15.34  1"       304 Stainless Steel Street, Sch40
------------------------------------------------------------------
-Total Cost $234.69
-
-Parts Design #3:<br>
-Item  Qty  Cost   Description
-  1    1   83.56  3" Stainless Steel Pipe 72 inches, Sch 10
-  2    2    9.38  3-2"     Reducing Coupler, Ass-Weld, Sch 10<br>
-  3    1    6.90  2-1"     Reducing Coupler, Ass-Weld, Sch 10
-  3    1    6.62  2-1.5"   Reducing Coupler, Ass-Weld, Sch 10
-  4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
-  5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10
-  6    1   11.48  1"       304 Stainless Steel T, Sch40
-  7    1   15.34  1"       304 Stainless Steel Street, Sch40
-------------------------------------------------------------------
-Total Cost: 215.77
+Currently thinking about either using a long 2" diameter launch tube or a twin 1.5" diameter launch tube.
 
 These parts will need to be carefully butt welded together to make the launch tube.  This may require a skilled welder.  Pay for with mucho beer.  
 
-The 1" diamet pipe needs to be bent into a u-bend.
+If a 2" diameter design is used then a 1" diameter pipe will need to be bent into a 5 inch u-bend.
 
 Main Launch Valve:<br>
 
-valve need a high CV and the ability to withstand alcohol and metal salts.  A valve with Buna N seals and a stainless steel body would be best.
+Valve needs a high CV and the ability to withstand alcohol and metal salts.  A valve with Buna N seals and a stainless steel body would be best.  Failing that a chrome plated brass valve might work ok.  A 3/4 inch valve seems to be okay for the current design.  If the diameter of the launch tune is increased then the valve size needs to be increased.
 
-Qty(1)   1" pilot operated valve.<br>
+    1   3/4" 12V Solenoid operated pilot valve.<br>
 
 Pressure Tank:<br>
 
