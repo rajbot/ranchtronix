@@ -1,14 +1,21 @@
 ---
-author: Mang
-date: '2004-03-26 00:51:12'
+author: Raj
+date: '2004-08-17 09:31:49'
 layout: post
 title: IndianFood
 ---
 
+nepali recipes: 
+
+* [http://www.nepalhomepage.com/society/recipes/recipes.html](http://www.nepalhomepage.com/society/recipes/recipes.html)
+* [http://nepalicooking.tripod.com/index.htm](http://nepalicooking.tripod.com/index.htm)
+
+----
 Zante's (415) 821-3949
 
 Spicy Bite - corner of Cortland and Mission.  A little pricey and the service is weird, but yum yum yum.
 
+Just found out that Star India also has Indian pizza, and they deliver!
 ----
 
 ## Aloo Palak
