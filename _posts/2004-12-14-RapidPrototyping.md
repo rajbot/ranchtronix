@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-14 22:39:30'
+date: '2004-12-14 22:40:35'
 layout: post
 title: RapidPrototyping
 ---
@@ -13,4 +13,5 @@ Service bureaus:
 
 Linky:
 
+* [Bethesda Grossman](http://www.bathsheba.com/sculpture/process/prototype.html) - does 3D sculpture in metal and interesting 3D designs in crystal
 * [Digital Sculpture: Ars Ex Machina](http://www.sculpture.org/documents/scmag04/sept04/rapidproto/sept04_rapidproto.htm)
