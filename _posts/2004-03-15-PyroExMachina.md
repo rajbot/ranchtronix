@@ -1,11 +1,12 @@
 ---
 author: Dasfoo
-date: '2004-03-27 07:40:04'
+date: '2004-05-05 00:57:07'
 layout: post
 title: PyroExMachina
 ---
 
 Pryo Ex Machina Resourses
+----
 
 <big>Fuels:</big> [PyroFuels](PyroFuels.html)
 
@@ -15,12 +16,13 @@ Pryo Ex Machina Resourses
 
 <big>Propane Canons</big> [PropaneCanons](PropaneCanons.html)
 
+<big>Pre Mix Systems</big> [PreMix](PreMix.html)
+
+----
+Projects
+----
 <big>Betsy</big> [BetSy](BetSy.html)
 
 <big>Spark Gun</big> [SparkGun](SparkGun.html)
 
-<big>Pre Mix Systems</big> [PreMix](PreMix.html)
-
-
-
-
+<big>Colorator</big> [Colorator]
