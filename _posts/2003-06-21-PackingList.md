@@ -1,6 +1,6 @@
 ---
-author: Test
-date: '2004-08-24 20:31:01'
+author: Raj
+date: '2004-08-24 23:35:53'
 layout: post
 title: PackingList
 ---
@@ -25,6 +25,7 @@ title: PackingList
 * plan monday dinner
 * pack ranch stereo
 * print tiki registration
+* cushions for driver
 
 ### tiki packing
 
