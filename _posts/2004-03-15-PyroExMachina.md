@@ -1,11 +1,11 @@
 ---
 author: Dasfoo
-date: '2004-05-05 00:57:24'
+date: '2004-05-05 00:57:50'
 layout: post
 title: PyroExMachina
 ---
 
-Pryo Ex Machina Resourses
+<big>Pryo Ex Machina Resourses</big>
 ----
 
 <big>Fuels:</big> [PyroFuels](PyroFuels.html)
@@ -19,7 +19,7 @@ Pryo Ex Machina Resourses
 <big>Pre Mix Systems</big> [PreMix](PreMix.html)
 
 ----
-Projects
+<big>Projects</big>
 ----
 <big>Betsy</big> [BetSy](BetSy.html)
 
