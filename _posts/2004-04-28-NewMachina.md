@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 21:50:12'
+date: '2004-05-03 21:57:18'
 layout: post
 title: NewMachina
 ---
@@ -28,10 +28,10 @@ Parts Design #2:<br>
 
 Item  Qty  Cost   Description
   1    1   67.64  2.5"X72" Stainless Steel Pipe, Sch 10
-  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
-  3    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
-  4    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
-  5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10<br>
+  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10
+  3    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10
+  4    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10
+  5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10
   6    1   11.48  1"       304 Stainless Steel T, Sch40
   7    1   15.34  1"       304 Stainless Steel Street, Sch40
 -----------------------------------------------------------------
@@ -40,15 +40,15 @@ Total Cost $234.69
 Parts Design #3:<br>
 Item  Qty  Cost   Description
   1    1   83.56  3" Stainless Steel Pipe 72 inches, Sch 10
-
-
-  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
-  3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
+  2    2    9.38  3-2"     Reducing Coupler, Ass-Weld, Sch 10<br>
+  3    1    6.90  2-1"     Reducing Coupler, Ass-Weld, Sch 10
+  3    1    6.62  2-1.5"   Reducing Coupler, Ass-Weld, Sch 10
   4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
-  4    1   31.63  1"       304L Stainless Steel Pipe, Sch 10<br>
-  4    1   28.50  1"       304L Threaded Stainless Steel Pipe, Sch 40<br>
-  5    1          1.25 inch nipple 6 inches long, Sch 10<br>
-  6    3          1/2" Threaded 304L Stainless Steel Pipe Nipple, Sch40?
+  5    1   31.63  1"X24    304L Threaded Stainless Steel Pipe, Sch 10
+  6    1   11.48  1"       304 Stainless Steel T, Sch40
+  7    1   15.34  1"       304 Stainless Steel Street, Sch40
+------------------------------------------------------------------
+Total Cost: 215.77
 
 These parts will need to be carefully butt welded together to make the launch tube.  This may require a skilled welder.  Pay for with mucho beer.  
 
