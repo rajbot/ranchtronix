@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-08-01 07:51:30'
+date: '2004-08-01 08:01:15'
 layout: post
 title: Brushless_DC_Motors
 ---
@@ -16,5 +16,6 @@ An App note that explains how to do this using a PIC
 
 The motor that used was a Pittman N2311A001
 
+[http://www.pennmotion.com/pdf/est_bulletin.pdf](http://www.pennmotion.com/pdf/est_bulletin.pdf)
 
 
