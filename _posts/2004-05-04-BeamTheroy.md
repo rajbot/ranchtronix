@@ -1,6 +1,6 @@
 ---
-author: Raj
-date: '2004-05-04 17:58:22'
+author: Dasfoo
+date: '2004-05-04 18:18:18'
 layout: post
 title: BeamTheroy
 ---
@@ -58,14 +58,27 @@ M is the moment.  Kiki and Scott balancing is 800 ft-lbs.
 y is the distance from the nutral axis.
 I is the section modulus.
 
-For a Square beam we have dis!
+For a various cross sections:
 
-I = bh^3/12.
+Square:    I = d^4/12.
+Rectangle: I = bh^3/12.
+Circle: 
+
+Note the evil fourth power terms.  This is what is important!  It means the following.
+
+#Double the size and you increase stiffness 16 times.
+#Double the thickness and you increase stiffness 8 times.
+#Using hollow sections is vastly more effecient than solid sections.
+
+Lastly!  There is a simple formula that one can use to find the section modulus when a section is offset from the central axis.
+
+I = Ix + Ay^2.
+
+Where Ix is the section mudulus of a section.  A is area and y is again the distance from the neutral axis.  This is useful when the section you are using is made up of several primitives.
 
 Links
 ----
+[http://www.efunda.com](http://www.efunda.com)
 [http://physics.uwstout.edu/StatStr/statics/Beams/beam41.htm](http://physics.uwstout.edu/StatStr/statics/Beams/beam41.htm)
-
-
 
 
