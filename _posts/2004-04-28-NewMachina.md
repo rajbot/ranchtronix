@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-04 02:42:36'
+date: '2004-05-04 19:43:12'
 layout: post
 title: NewMachina
 ---
@@ -42,7 +42,10 @@ Qty(1)   ???
 The following parts are needed.
 
 <b>Fuel System</b><br>
-Qty(1)   Dual Diaphram Pump 6pgm<br>
+Qty(1)   Yammaha DP-10, Dual Diaphram Pump 6pgm<br>
+         [http://www.yamadapump.com/pages/products/dp-10.html](http://www.yamadapump.com/pages/products/dp-10.html) 
+
+
 Qty(1)   20 feet 1" dia fuel hose?<br>
 Qty(1)   12 gallon fuel tank rated for Alcohol
 Qty(1)   12 psig pressure relief valve.
