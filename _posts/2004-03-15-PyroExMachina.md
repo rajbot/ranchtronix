@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-05 00:57:50'
+date: '2004-05-05 00:58:40'
 layout: post
 title: PyroExMachina
 ---
@@ -8,15 +8,15 @@ title: PyroExMachina
 <big>Pryo Ex Machina Resourses</big>
 ----
 
-<big>Fuels:</big> [PyroFuels](PyroFuels.html)
+Fuels:: [PyroFuels](PyroFuels.html)
 
-<big>Propane Hoses and Fittings</big> [PropaneHosesAndFittings](PropaneHosesAndFittings.html)
+Propane Hoses and Fittings: [PropaneHosesAndFittings](PropaneHosesAndFittings.html)
 
-<big>Ingnitors</big> [FlameIgnitors](FlameIgnitors.html)
+Ingnitors: [FlameIgnitors](FlameIgnitors.html)
 
-<big>Propane Canons</big> [PropaneCanons](PropaneCanons.html)
+Propane Canons: [PropaneCanons](PropaneCanons.html)
 
-<big>Pre Mix Systems</big> [PreMix](PreMix.html)
+Pre Mix Systems: [PreMix](PreMix.html)
 
 ----
 <big>Projects</big>
