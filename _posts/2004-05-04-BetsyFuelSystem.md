@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-04 19:47:32'
+date: '2004-05-04 19:48:00'
 layout: post
 title: BetsyFuelSystem
 ---
@@ -8,6 +8,8 @@ title: BetsyFuelSystem
 05:04:04:
 
 I have aquired a yammah dual diaphram pump.
+
+upload:yammah.bmp
 
 [http://www.yamadapump.com/pages/products/dp-10.html](http://www.yamadapump.com/pages/products/dp-10.html) 
 
