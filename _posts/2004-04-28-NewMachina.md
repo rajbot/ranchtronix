@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-30 04:15:38'
+date: '2004-04-30 04:19:09'
 layout: post
 title: NewMachina
 ---
@@ -54,7 +54,7 @@ Filler Hose and Check Valve<br>
 Qty(1)   1" Check vavle stainless with Buna N seals.<br>
 Qty(1)   1" coupler stainless.  (May Have)<br>
 
-<big>Pressure System<br>
+<b>Pressure System</b><br>
 
 Qty(1)   80 cuft nitrogen tank.  (Note CO2 might work fine in this app because "carbonization of the fuel" isn't a problem with this design.
 Qty(1)   High flow regulator.  Remains to be seen if the regulator that I have can be used.
