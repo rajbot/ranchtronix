@@ -1,0 +1,24 @@
+---
+author: McCabe
+date: '2004-03-24 06:41:27'
+layout: post
+title: BatteryBooster
+---
+
+# AAA Battery Booster
+
+This idea (and Mike's interest in voltage boosting) is due to Ted Hullar.
+
+Ted has some LED headlamps that take 3 alkaline AAAs apiece.  A few problems with this:
+
+* Alkaline batteries are expensive, he'd rather use NiMH, but:
+* NiMH batteries have enough juice over time, but the voltage is two low to keep white LEDs happy
+* Batteries are bought and charged in pairs!
+
+His suggestion: A voltage booster IC and attendant passives in the shape of an AAA battery.  This replaces one of the three batteries.  The remaining two NiMH batteries add up to 2.4V, much lower than 3 alkalines' initial voltage of 4.8V.  But NiMH batteries can deliver more current, which the boost IC can turn to higher voltage.
+
+I prototyped it.  It worked.  It busted the same night.  I promised I'd design an IC.  Many weeks later...
+
+Here's the pre-draft:
+
+upload:AAA%20booster.zip 
