@@ -1,9 +1,13 @@
 ---
 author: Mang
-date: '2005-02-01 02:41:55'
+date: '2005-02-09 08:26:25'
 layout: post
 title: MangVJLog
 ---
+
+# 2005-02-09
+
+Sweet!  I can initialize my Spaceball from vvvv!  [spaceball is alive and well](http://vvvv.meso.net/tiki-browse_image.php?imageId=707)
 
 # 2005-01-31
 
