@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 20:13:56'
+date: '2004-05-03 21:12:31'
 layout: post
 title: NewMachina
 ---
@@ -11,15 +11,28 @@ Increase the holding capcity to 1 gallon.  Make everything of stainless.
 
 <big>Launch Tube + Nozzle</big><br>
 
-The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch diameter nozzle, a 2" dia 6 foot luanch tube.  The back end of the launch tube would then be reduced to 1" through a coupling, then feed into a tigh 1" dia u bend.  At the end of the u-bend a 1" diamet socket weld to 1" NTP coupling.
+The launch tube can be made of 304L stainless.  I would consist of a 1-1/2 inch diameter nozzle, a 2" dia 6 foot luanch tube.  The back end of the launch tube would then be reduced to 1" through a coupling, then feed into a tight 1" dia u bend.  At the end of the u-bend a 1" diamet socket weld to 1" NTP coupling.
 
-Parts:<br>
+Parts Design #1:<br>
+Item  Qty  Cost   Description
+  1    1   67.64  2" Stainless Steel Pipe 72 inches, Sch 10<br>
+  2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
+  3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
+  4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
+  4    1   28.50  1"       304L Threaded Stainless Steel Pipe, Sch 40<br>
+  5    1   11.48  1"       304 Stainless Steel T, Sch40<br>
+  6    1   15.34  1"       304 Stainless Steel Street, Sch40<br>
+-----------------------------------------------------------------
+Total Cost: $231.58
+
+Parts Design #2:<br>
 Item  Qty  Cost   Description
   1    1   67.64  2" Stainless Steel Pipe 72 inches, Sch 10<br>
   2    2   30.67  2.5-1.5" Reducing Coupler, Ass-Weld, Sch 10<br>
   3    1   5.80   1.5-1"   Reducing Coupler, Ass-Weld, Sch 10<br>
   4    1   41.48  1.5"     304L Stainless Steel Pipe, Sch 10<br>
   4    1   31.63  1"       304L Stainless Steel Pipe, Sch 10<br>
+  4    1   28.50  1"       304L Threaded Stainless Steel Pipe, Sch 40<br>
   5    1          1.25 inch nipple 6 inches long, Sch 10<br>
   6    3          1/2" Threaded 304L Stainless Steel Pipe Nipple, Sch40?
 
