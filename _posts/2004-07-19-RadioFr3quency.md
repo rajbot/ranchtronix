@@ -1,6 +1,6 @@
 ---
-author: Mang
-date: '2004-07-22 23:04:43'
+author: Raj
+date: '2004-09-29 01:16:28'
 layout: post
 title: RadioFr3quency
 ---
@@ -16,3 +16,4 @@ People Linky:
 
 * [http://www.liberationradio.net/](http://www.liberationradio.net/)
 * [http://www.piratecatradio.com/](http://www.piratecatradio.com/)
+* [http://kcsb.org/](http://kcsb.org/) - Q has a radio show there Wednesday morning, 6-8 PST
