@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2003-11-04 05:19:34'
+date: '2003-11-04 05:25:44'
 layout: post
 title: ObTainium
 ---
@@ -8,7 +8,7 @@ title: ObTainium
 see also [http://www.obtainum.net](http://www.obtainum.net)
 
 ## The Rules:
-# Please don't bring your [ObTanium](ObTanium.html) to [RanchTronix!](RanchTronix!.html) We don't want your crap! List it here instead!
+# Please don't bring your [ObTainium](ObTainium.html) to [RanchTronix!](RanchTronix!.html) We don't want your crap! List it here instead!
 # [No one wants your crappy CRT monitor!](http://search.ebay.com/search/search.dll?MfcISAPICommand=GetResult&ht=1&SortProperty=MetaEndSort&from=R3&siteid=0&query=monitor&category2=27179) Ignore Rule #1 and bring it to the ranch; raj will take it in for recycling for you!
 # We have too many crappy TVs at [RaNChtronIx!](RaNChtronIx!.html) [Just put it out on the street in SF and it will be gone in minutes.](http://www.craigslist.org/zip/)
 
