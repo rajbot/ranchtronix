@@ -1,10 +1,14 @@
 ---
 author: Raj
-date: '2003-08-20 19:50:14'
+date: '2004-03-25 18:08:13'
 layout: post
 title: FiberOptic
 ---
 
+Crazy pictures of Furry's fiber strands lit with Mike's autothrobby LEDs:
+[http://www.monkeyview.net/id/545/trails/index.vhtml](http://www.monkeyview.net/id/545/trails/index.vhtml)
+
+----
 We need to order side-emitting fiber.
 
 The only place we've looked so far is [http://www.del-lighting.com/fiber_optic_cable.html](http://www.del-lighting.com/fiber_optic_cable.html)
