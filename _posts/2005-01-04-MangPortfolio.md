@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-06 06:53:32'
+date: '2005-01-11 07:28:41'
 layout: post
 title: MangPortfolio
 ---
@@ -14,7 +14,7 @@ AVR projects:
 * pictures of AVR tap light
 * picture of [StarWheel(?)](StarWheel(?).html)
 
-[WaterLight](WaterLight.html) and [ParaLuna:](ParaLuna:.html)
+[WaterLight](WaterLight.html) and [InverseParasol:](InverseParasol:.html)
 
 * picture of [WaterLight](WaterLight.html)
 * pic of [ParaLuna](ParaLuna.html)
