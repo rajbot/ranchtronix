@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-05 00:39:16'
+date: '2004-05-05 00:55:40'
 layout: post
 title: BetsyFuelSystem
 ---
@@ -22,7 +22,7 @@ The hope to is that the large head that this pump can handle also means that the
 Pump has been tested.  As typical with things bought off ebay nothing is certain.  Running the pump at 100 psi results in a flow rate of 3gpm which is exactly half the expected flow rate.  Plus the pump has trouble priming.  I suspect the one of the diaphrams is not pumping correctly.
 
 Next step is to check the ultimate pressure.  Most likely I can buy a rebuild kit for this 
-pump.
+pump.  Definitely looks like one can buy replacement parts and stuff.
 
 [http://www.yamadapump.com/pages/products/manual/maintenance_manual_dp10.pdf](http://www.yamadapump.com/pages/products/manual/maintenance_manual_dp10.pdf)
 
