@@ -1,13 +1,13 @@
 ---
 author: Sasha
-date: '2003-06-10 22:54:52'
+date: '2003-06-10 22:55:06'
 layout: post
 title: DistanceSensing
 ---
 
 <b>Technologies</b><br>
 Ultrasonic <br>
-<&nbsp><&nbsp>Acroname<br>
+&nbsp&nbspAcroname<br>
 IR <br>
 Laser<p>
 
