@@ -1,11 +1,11 @@
 ---
 author: Dasfoo
-date: '2004-03-17 07:47:21'
+date: '2004-03-18 03:19:11'
 layout: post
 title: PyroFuels
 ---
 
-Fuels for Fire Art
+<big>Fuels for Fire Art</big>
 
 <big>Propane:</big> [PropaneGas](PropaneGas.html)
 
