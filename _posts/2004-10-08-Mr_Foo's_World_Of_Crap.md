@@ -1,6 +1,6 @@
 ---
-author: Dasfoo
-date: '2004-11-17 02:38:27'
+author: DaRaNCH
+date: '2005-01-21 01:46:40'
 layout: post
 title: Mr_Foo's_World_Of_Crap
 ---
@@ -26,7 +26,7 @@ Important: This stuff is crap because I don't need it.  Everything works just fi
 
 ----
 
-* Big ass Joiner
+* Big ass Jointer
 * * 240 VAC single phase motor
 * * Has a light rust on one end of the table.
 * * $120 clams
@@ -35,7 +35,7 @@ Important: This stuff is crap because I don't need it.  Everything works just fi
 
 ----
 
-* Small Ass Joiner
+* Small Ass Jointer
 * * 120 VAC single phase motor
 * * $50 clams
 
