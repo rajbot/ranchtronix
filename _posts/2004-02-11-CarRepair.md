@@ -1,10 +1,12 @@
 ---
 author: Raj
-date: '2004-07-28 18:31:35'
+date: '2004-10-04 20:32:31'
 layout: post
 title: CarRepair
 ---
 
+[http://www3.bc.sympatico.ca/Volvo_Books/archive.html](http://www3.bc.sympatico.ca/Volvo_Books/archive.html)
+----
 Walter from Tribe writes this recommendation:
 
 '''Date''' 
