@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-08-17 09:31:49'
+date: '2005-02-02 03:24:51'
 layout: post
 title: IndianFood
 ---
@@ -10,6 +10,7 @@ nepali recipes:
 * [http://www.nepalhomepage.com/society/recipes/recipes.html](http://www.nepalhomepage.com/society/recipes/recipes.html)
 * [http://nepalicooking.tripod.com/index.htm](http://nepalicooking.tripod.com/index.htm)
 
+* [How To Cut...](http://www.hertzmann.com/articles/2005/fables/)
 ----
 Zante's (415) 821-3949
 
