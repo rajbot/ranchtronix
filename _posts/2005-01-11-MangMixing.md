@@ -1,20 +1,20 @@
 ---
 author: Mang
-date: '2005-01-11 08:25:26'
+date: '2005-01-11 09:35:42'
 layout: post
 title: MangMixing
 ---
 
-![PB240242.jpg]({{ site.baseurl }}/images/PB240242.jpg)
-
 # Description:
+![PB240242.jpg]({{ site.baseurl }}/images/PB240242.jpg)
 Performance at a private party in 2001.  visualJockey software was used to create various video textures in real-time.  These were also projected inside to create an immersive environment and also on snow-covered trees outside which provided an organic three-dimensional projection surface.  Photo by Jon Ross.
 
 # Description:
-[QuickTime](QuickTime.html) clip created using visualJockey.
+[QuickTime](QuickTime.html) movie of interactive video system created using visualJockey and live camera input.  Designed to encourage interactive experimentation to find the rhythmic patterns in the delayed video.
 
 # Description:
-Simple example composition created in visualJockey showing use of live video input and internal feedback.
+![vjo.jpg]({{ site.baseurl }}/images/vjo.jpg)
+Screenshot of visualJockey composition for system above. 
 
 # Gear list:
 
