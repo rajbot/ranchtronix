@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-03 21:57:18'
+date: '2004-05-03 22:14:44'
 layout: post
 title: NewMachina
 ---
@@ -8,6 +8,8 @@ title: NewMachina
 Parts for a New Betsy
 
 Increase the holding capcity to 1 gallon.  Make everything of stainless.
+
+Launch Tube Design Notes: [Launch Tube](Launch_Tube.html)
 
 <big>Launch Tube + Nozzle</big><br>
 
