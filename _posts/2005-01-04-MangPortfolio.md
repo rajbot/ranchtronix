@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-01-06 05:53:59'
+date: '2005-01-06 05:54:29'
 layout: post
 title: MangPortfolio
 ---
@@ -18,6 +18,7 @@ AVR projects:
 
 * picture of [WaterLight](WaterLight.html)
 * pic of [ParaLuna](ParaLuna.html)
+* quicktime of [WaterLight](WaterLight.html) patterns
 
 [VideoMixing:](VideoMixing:.html)
 
