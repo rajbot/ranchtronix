@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-14 00:15:02'
+date: '2004-05-14 00:20:12'
 layout: post
 title: Colorator
 ---
@@ -20,15 +20,15 @@ Another though is to use a small tank of water and Strontium Chloride and pump i
 Dah Source!
 [http://wwwchem.csustan.edu/chem1112/1112unk.pdf](http://wwwchem.csustan.edu/chem1112/1112unk.pdf)
 
-Calcium Chloride    60g/100ml    (0.6)  
-Lithium Chloride    64g/100ml    (0.64)
-Potasium Chloride   35g/100ml    (0.35) 
-Sodium Chloride    209g/100ml    (2.09) 
-Strontium Chloride 106g/100ml    (1.06)
+    Calcium Chloride    60g/100ml    (0.6)  
+    Lithium Chloride    64g/100ml    (0.64)
+    Potasium Chloride   35g/100ml    (0.35) 
+    Sodium Chloride    209g/100ml    (2.09) 
+    Strontium Chloride 106g/100ml    (1.06)
 
-Boric Acid          4.8 g/100ml  (0.05) <--- This is not so good!
-Copper Chloride     .62 g/100ml  (0.01)
-Copper Acetate      7.2 g/100ml  (0.07)
+    Boric Acid          4.8 g/100ml  (0.05) <--- This is not so good!
+    Copper Chloride     .62 g/100ml  (0.01)
+    Copper Acetate      7.2 g/100ml  (0.07)
 
 I've read that adding 50grams of colorant per gallon (3785ml) of alcohol is a good rule of thumb.  In that case 
 the ratio of colorant to alchol is (0.013).
