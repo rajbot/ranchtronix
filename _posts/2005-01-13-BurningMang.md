@@ -1,9 +1,11 @@
 ---
 author: Mang
-date: '2005-01-14 00:40:07'
+date: '2005-01-14 00:40:53'
 layout: post
 title: BurningMang
 ---
+
+# Ambience Ambulance
 
 ![ambamb.jpg]({{ site.baseurl }}/images/ambamb.jpg)<br>
 The Ambience Ambulance creates a sanctuary from the often challenging environment of Burning Man by providing a temporary space for relaxation and chill.  It moves to a different location each night and can be found by its distinctive exterior lighting.  For 2002 and 2003 I designed, built and programmed two sequencers to animate the lightbar and large "Ambience Ambulance" sign.
