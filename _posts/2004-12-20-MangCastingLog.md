@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-23 20:29:22'
+date: '2004-12-23 23:00:51'
 layout: post
 title: MangCastingLog
 ---
@@ -11,7 +11,7 @@ So last night I ended up smelling kind of like the smell given off when a match 
 
 Probably a good idea to have a separate set of clothes for da rANch.  The problem with doing resin in the winter is that most warm indoor spaces aren't getting a lot of fresh outside air!
 
-My original polyurethane casting still has an oily residue on the front surface.  However, it seems that with the correct polyurethane, human contact should be okay.  E.g. some of [those](http://www.newart.com/mold-your-penis/) kits use polyurethane, and it's also used in medical devices and condoms.  I would think that proper curing to remove all the isocyanates would be essential.  So maybe polyurethane deserves some more experimentation.
+My original polyurethane casting still has an oily residue on the front surface.  However, it seems that with the correct polyurethane and curing process, human contact should be okay.  E.g. some of [those](http://www.newart.com/mold-your-penis/) kits use polyurethane, and it's also used in medical devices and condoms.  I would think that proper curing to remove all the isocyanates would be essential.  So maybe polyurethane deserves some more experimentation.
 
 To do:
 
