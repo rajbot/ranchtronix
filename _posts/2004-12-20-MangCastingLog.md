@@ -1,11 +1,29 @@
 ---
-author: Dasfoo
-date: '2004-12-22 08:43:01'
+author: DaRaNCH
+date: '2004-12-23 06:20:39'
 layout: post
 title: MangCastingLog
 ---
 
 # 2004-12-22
+
+Both the large piece and one of the small pieces adhered to the paper cup.  Definitely need more mold release (vaseline).  The thicker thin piece was soft (almost gooey) near the top edges.  I'm guessing that these were the coldest areas.  One or two bubbles, mostly at the bottom where the paper cup joint was.  For the most part clear with no visible bubbles -- maybe due to the more accurate mixing ratio?
+
+The green piece with wire is a bit soft at the edges.  Hopefully this will cure enough to be useful.
+
+Definitely seems like temperature is a key factor.  Forget which resin type, but read online that for that resin, after curing at room temp, a 16 hour cure at 150F is recommended.
+
+To do:
+
+* find out if epoxy is supposed to "kick off" with exotherm in a cascading reaction or do a slower cure.
+* try the medium sulphur free clay
+* try Dragon Skin with embedded LEDs
+* think more seriously about temperature controlled ventilated box for multi-hour curing 
+* get big box of vinyl gloves
+* get some acetone or appropriate fluid for cleaning uncured resin
+* bring polyester resin from house to ranch
+
+# 2004-12-21
 
 Mixed using the 0.1oz scale.  Can still be hard to get the proportions right.
 
@@ -39,9 +57,9 @@ Starting to think that a toaster oven setup with an exhaust fan might be an inte
 
 To do:
 
-* get a scale and actually mix things with accuracy
-* figure out way to control temp
+* <s>get a scale and actually mix things with accuracy</s>
+* <s>figure out way to control temp</s>
 * find something to use other than soft modelling clay -- it tends to smear over stuff and be hard to remove
 * investigate thermoplastic -- potentially less toxic than polyurethane/polyester
 * get some mineral oil -- use to dilute petrolatum jelly to reduce size of streaks
-* get some more dyes
+* <s>get some more dyes</s>
