@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-10-27 19:42:41'
+date: '2004-10-27 19:43:01'
 layout: post
 title: Gas_Regulators
 ---
@@ -8,7 +8,7 @@ title: Gas_Regulators
 ## Gas Regulators and Fittings
 ----
 
-||Gases ||CGA Connection||
+||Gases  || CGA Connection||
 || Carbon dioxide ||320||
 || Boron trifluoride, hydrogen chloride, hydrogen bromide,<br>hydrogen iodide, hydrogen sulfide, silicon tetrafluoride||330||
 || Carbon monoxide, ethylene, hydrogen, hydrogen selenide ||350 ||
