@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-23 22:27:43'
+date: '2004-12-23 22:41:28'
 layout: post
 title: MoldMaking
 ---
@@ -11,6 +11,44 @@ Anybody know of a good translucent slightly flexible plastic to use?  Anyone tri
 
 From a medical-oriented [site](http://www.devicelink.com/mddi/archive/96/04/011.html):<br>
 In general, each type of resin has its own distinct advantages. Epoxies are ideal for high temperatures (up to 450°F), or for highly corrosive applications. For example, formulations of epoxy are used when steam sterilization is essential. Polyurethanes are an excellent general-purpose material for both soft-rubber and hard-plastic applications where exceptional toughness and wear resistance are important. They are used routinely in devices where blood and patient contact is expected. Silicones are best for product applications that require rubber that is soft or of medium hardness over a broad temperature range.
+
+## Epoxy resins
+
+* strong sensitizer
+* moderately toxic when curing
+* once cured (properly), basically safe
+* usually in ratios like 1:1 or 2:1
+* think this is the same stuff as epoxy glue
+* not aware of any rubbery epoxies
+
+Uses:
+
+* clear domes over LEDs
+* medical implants (but they have very long and controlled curing)
+* cast figurines
+
+## Polyester resins
+
+* gives off that classic "fiberglass" smell
+* highly toxic when curing
+* you use polyester resin and a few drops of MEKP catalyst
+* MEKP is bad news -- a few drops in your eye and you will go blind
+* not 100% sure on toxicity when cured
+
+Uses:
+
+* fiberglass
+
+## Polyurethane resins
+
+* highly toxic when curing
+* when cured, basically safe
+* available in variety of rubberiness
+* goes off quickly when stored in presence of air
+
+Uses:
+
+* condoms (Avanti)
 
 # Hot melt thermoplastics
 
