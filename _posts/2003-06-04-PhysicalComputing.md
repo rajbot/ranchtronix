@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-07 22:32:13'
+date: '2005-02-16 22:26:56'
 layout: post
 title: PhysicalComputing
 ---
@@ -15,3 +15,4 @@ We've already accepted the idea that if no one makes the software you need, you 
 Linky:
 
 * [Physical computing page at ITP](http://fargo.itp.tsoa.nyu.edu/~tigoe/pcomp/index.shtml)
+* [Survey of commercial physical interaction toolkits](http://regexp.bjoern.org/archives/000124.html)
