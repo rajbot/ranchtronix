@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-12-20 04:57:24'
+date: '2004-12-20 05:15:13'
 layout: post
 title: MangCastingLog
 ---
@@ -13,7 +13,6 @@ Tried casting with:
 * * Epoxy Resin Type 7132
 * * Epoxy Hardener Type 2001
 * * 2:1 ratio
-* * this stuff is supposed to cure within the range 1:1 to 3:1
 * * epoxy is less toxic than the polys
 * Polyurethane
 * * Smooth-On Crystal Clear (Part A)
