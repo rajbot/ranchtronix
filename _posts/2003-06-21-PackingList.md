@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-08-24 19:34:57'
+date: '2004-08-24 19:36:37'
 layout: post
 title: PackingList
 ---
@@ -30,6 +30,11 @@ title: PackingList
 * poles (8)
 * front end
 * motor
+* linear actuator
+* steering crossbar
+* battery holder
+* metal crossbar for back
+* George
 * controller
 * charger
 * wood deck
