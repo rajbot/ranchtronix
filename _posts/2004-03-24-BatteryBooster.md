@@ -1,6 +1,6 @@
 ---
-author: McCabe
-date: '2004-03-24 06:48:21'
+author: DaRaNCH
+date: '2004-03-24 18:57:19'
 layout: post
 title: BatteryBooster
 ---
@@ -12,7 +12,7 @@ This idea (and Mike's interest in voltage boosting) is due to Ted Hullar.
 Ted has some LED headlamps that take 3 alkaline AAAs apiece.  A few problems with this:
 
 * Alkaline batteries are expensive, he'd rather use NiMH, but:
-* NiMH batteries have enough juice over time, but the voltage is two low to keep white LEDs happy
+* NiMH batteries have enough juice over time, but the voltage is too low to keep white LEDs happy, and
 * Batteries are bought and charged in pairs!
 
 I have stuff like this too.
