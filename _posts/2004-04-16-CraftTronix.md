@@ -1,11 +1,11 @@
 ---
-author: Raj
-date: '2004-05-10 18:03:17'
+author: Mang
+date: '2004-05-11 20:00:49'
 layout: post
 title: CraftTronix
 ---
 
-We've been thinking about starting a [CraftTronix](CraftTronix.html) night on Mondays, and a [GetShitDoneTronix](GetShitDoneTronix.html) night on Sundays.
+We've been thinking about starting a [CraftTronix](CraftTronix.html) night on Mondays, and a [GetShitDoneTronix](GetShitDoneTronix.html) night on Sundays.  But mang thinks maybe make [CraftTronix](CraftTronix.html) a monthly or wheneverly on Wednesdays, and keep Monday for werky werk.  It would be hard to make a weekly interesting each week.
 
 Some ideas for [CraftTronix:](CraftTronix:.html)
 
