@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-09-29 18:49:56'
+date: '2004-11-18 20:49:28'
 layout: post
 title: YouAreHere
 ---
@@ -9,4 +9,4 @@ title: YouAreHere
 <br>
 <small>picture by [Spot](Spot.html)</small>
 
-This is a place holder page for [Nix](Nix.html) [YouAreHere](YouAreHere.html) project!! More info to come..
+[http://nixfiles.com/youarehere/](http://nixfiles.com/youarehere/)
