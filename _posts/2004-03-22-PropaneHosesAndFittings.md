@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-03-22 08:13:20'
+date: '2004-03-22 08:13:53'
 layout: post
 title: PropaneHosesAndFittings
 ---
@@ -17,7 +17,7 @@ All of the following items can be ordered from mcmaster.com or propane products
  
 [http://www.propaneproducts.com](http://www.propaneproducts.com)
 
-HANSEN-QCC Hansen Gas Mate Quick Connect Fittings 1/4 Plug & Socket                $24.95
+HANSEN-QCC     Hansen Gas Mate Quick Connect Fittings 1/4 Plug & Socket            $24.95
 
 PART-350WPHOSE 350# 1/4" ID High Pressure LPG Hose (10' length)                    $24.95
 
