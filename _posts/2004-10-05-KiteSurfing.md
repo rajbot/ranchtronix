@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-10-05 20:58:17'
+date: '2004-10-05 20:59:24'
 layout: post
 title: KiteSurfing
 ---
@@ -237,6 +237,7 @@ problematic current, etc).
     > cove 'must' come in directly between the poles, as centered as possible.
     >
     > JR set the poles and marked them with green and red tap. He also put the
+
     > yellow whiffle balls on them to make them easier to see from the bay side 
     > (still difficult). When the rider cannot see any color on the poles, it is
     > safe to ride right into the cove. When the rider can see green on the poles,
@@ -248,3 +249,35 @@ problematic current, etc).
     >
     > The bottom of the north cove is mostly hard-packed something, but up where
     > it becomes dry there is some exposed clay that is slippery.
+
+## South landing
+
+    I am not a 100 lbs person but I think that one of the
+    issues that Jack has rightfully brought up is that the
+    traffic that you get at the Parking lot area is truely
+    uncertain and at times frightful.Making it worth not
+    landing there.
+
+    I've been kiting at 3rd for a couple of seasons now
+    and have experienced a lot of close calls when landing
+    and launching, mainly due to the in out traffic.
+    If it is a busy day you may want to think twice in
+    landing there.
+
+    Some of the key elements when coming in at the parking
+    lot beach, and I hope that it is not a repetition of
+    what others have written:
+    -Come in with a decent amount of speed
+    -When reaching the wind shadowed area keep your kite
+    high ~1pm and undertake a figure of eight if additonal
+    power is needed without bringing the kite too low in
+    the window or else it will stall
+    -Come in with an upper tack so that if someone is
+    coming out or an obstacle comes up you will still make
+    it to the beach
+    -If you feel like you have insufficient board speed,
+    just body drag in, as trying to get in on the board
+    may create too much resistance and "kill" the kite
+    -Also whenever you feel the kite is stalling, make
+    sure to make some quick and short turning movements to
+    eliminate the Hindenburg effect.
