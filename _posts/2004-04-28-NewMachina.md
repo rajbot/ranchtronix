@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-30 04:19:09'
+date: '2004-04-30 04:19:50'
 layout: post
 title: NewMachina
 ---
@@ -42,7 +42,7 @@ Qty(1)   ???
 
 The following parts are needed.
 
-<big>Fuel System<br>
+<b>Fuel System</b><br>
 Qty(1)   Dual Diaphram Pump 6pgm<br>
 Qty(1)   20 feet 1" dia fuel hose?<br>
 Qty(1)   12 gallon fuel tank rated for Alcohol
@@ -55,15 +55,13 @@ Qty(1)   1" Check vavle stainless with Buna N seals.<br>
 Qty(1)   1" coupler stainless.  (May Have)<br>
 
 <b>Pressure System</b><br>
-
 Qty(1)   80 cuft nitrogen tank.  (Note CO2 might work fine in this app because "carbonization of the fuel" isn't a problem with this design.
 Qty(1)   High flow regulator.  Remains to be seen if the regulator that I have can be used.
 Qty(1)   Pressure relief valve.  150 psig.
 Qty(1)   Pressure switch 100 psig
 Qty(1)   Pressure drain valve.
 
-<big>Ignition System<br>
-
+<b>Ignition System</b><br>
 Qty(1)   Propane Fueled Ring Ignitor.
 Qty(1)   Propane Torch
 Qty(1)   Electric Ignitor.
