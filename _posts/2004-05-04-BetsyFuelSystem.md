@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-05-07 00:47:48'
+date: '2004-05-13 23:19:05'
 layout: post
 title: BetsyFuelSystem
 ---
@@ -30,4 +30,13 @@ pump.  Definitely looks like one can buy replacement parts and stuff.
 05/06/2004:<br>
 
 Disasembled the Yamada pump.  Turns out the the exit manifold is cracked.  The valves and other pump parts look okay.  Haven't pulled the air system appart yet.  Definitely need to replace the cracked manifold.
+
+05/13/2004
+
+Ordered a new manifold and o-rings from:
+
+Flo-Line Technology
+530-887-2240 - Ph.
+530-887-2243 - Fax
+[http://www.flolinepumps.com](http://www.flolinepumps.com)
 
