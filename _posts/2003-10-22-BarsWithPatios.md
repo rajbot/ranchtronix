@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2003-10-22 22:04:02'
+date: '2003-10-22 22:22:21'
 layout: post
 title: BarsWithPatios
 ---
@@ -28,3 +28,11 @@ title: BarsWithPatios
 * Outdoor seating for hundreds of hipsters!
 * BBQ!
 * Citysearch: [http://zeitgeist.citysearch.com/](http://zeitgeist.citysearch.com/)
+
+
+### Lucky 13
+
+* OK patio for the smokers...
+* Lots of European beers
+* They have their own beer called Lucky 13!
+* Review: [Best Jukebox in a Bar](http://www.bestofthebay.com/2002/readerspoll4.html)
