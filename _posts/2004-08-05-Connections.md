@@ -1,7 +1,7 @@
 ---
 author: Raj
 category: AvrButterfly
-date: '2004-08-05 22:48:03'
+date: '2004-08-05 23:46:47'
 layout: post
 title: Connections
 ---
@@ -21,3 +21,17 @@ Connected to the Port B header, ISP header, Dataflash, and Joystick. Note that f
 || PB5 || OC1A/PCINT13 (Output Compare and PWM Output A for Timer/Counter1 or Pin Change Interrupt13) || <b>dunno!!</b> ||
 || PB6 || OC1B/PCINT14 (Output Compare and PWM Output B for Timer/Counter1 or Pin Change Interrupt14) || Joystick up (A) ||
 || PB7 || OC2A/PCINT15 (Output Compare and PWM Output A for Timer/Counter2 or Pin  Change Interrupt15) || Joystick down (B) ||
+
+### PortD pin connections
+
+Connected to the Port D header and the LCD panel.
+
+|| '''Pin''' || '''Alias''' || '''Connected to...''' ||
+|| PD0 || ICP1/SEG22 (Timer/Counter1 Input Capture pin or LCD front plane 22) || ||
+|| PD1 || INT0/SEG21 (External Interrupt0 Input or LCD front plane 21) || ||
+|| PD2 || SEG20 (LCD front plane 20) || ||
+|| PD3 || SEG19 (LCD front plane 19)  || ||
+|| PD4 || SEG18 (LCD front plane 18)  || ||
+|| PD5 || SEG17 (LCD front plane 17)  || ||
+|| PD6 || SEG16 (LCD front plane 16)  || ||
+|| PD7 || SEG15 (LCD front plane 15)  || ||
