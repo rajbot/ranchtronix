@@ -1,11 +1,13 @@
 ---
 author: Dasfoo
-date: '2004-03-19 00:30:00'
+date: '2004-03-27 07:37:24'
 layout: post
 title: AlcoholBooze
 ---
 
 Alcohol Info
+
+Typical Properties: [AlcoholProperties](AlcoholProperties.html)
 
 Alcohol is interesting because it burns with a dim flame and therefor can be used to make colored fire.  Fuels like gasoline and desmell produce a flame rich in soot (carbon dust) which emits black body radiation (broad spectrum) which washes
 out the color.
