@@ -1,6 +1,6 @@
 ---
 author: Dasfoo
-date: '2004-04-25 00:28:28'
+date: '2004-04-25 00:30:20'
 layout: post
 title: FuelPumps
 ---
@@ -33,9 +33,8 @@ Interesting Deets:
 2) Can tolerate crap (1/32 diameter crap is no problem)
 3) High Pressure, will pump up to 100 psig (same as air pressure used to operate the pump)
 4) Good flow rate small pumps will pump 3-6 gpm.
-5) Cheap, small pumps run $190 clams.
-6) Good for Chemical transfer.
-7) Low air consumption, 1-6 scfm.
+5) Good for Chemical transfer.
+6) Low air consumption, 1-6 scfm.
 
 Example.
 
@@ -55,5 +54,7 @@ Explanation of points.
 
 5) Pumps are made of polypropylene with PTFE diaphrams.  This is compatible with methonol, alcohol and gasoline.  And compatible with almost all colorants that I would want to use.
 
-7) Low air consumption.  Units require 1-6 scfm or air.  This is low enough that I may be able to use the nitrogen tank operate the pump.  Power for the centrifical pumps has been a real problem.  The large pump I bough last summer won't run off the inverter I have.
+6) Low air consumption.  Units require 1-6 scfm or air.  This is low enough that I may be able to use the nitrogen tank operate the pump.  Power for the centrifical pumps has been a real problem.  The large pump I bough last summer won't run off the inverter I have.
+
+Possible Problems: I have to check to see if the pressure regulator I have can deliver enough flow to run the pump.
 
