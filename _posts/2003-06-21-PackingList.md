@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-08-24 17:38:25'
+date: '2004-08-24 19:34:57'
 layout: post
 title: PackingList
 ---
@@ -43,6 +43,20 @@ title: PackingList
 * rope
 * gas + propane
 * propane hose/switch
+* extension cords
+* power strips
+
+### Electronics Packing
+
+* soldering iron
+* solder
+* power supply
+* multimeter
+* wire
+* electrical tape
+* copper tape
+* heat shrink
+* sharpie
 
 ### Desert Camping, 4 days
 
