@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2004-10-05 20:53:26'
+date: '2004-10-05 20:58:17'
 layout: post
 title: KiteSurfing
 ---
@@ -223,30 +223,28 @@ problematic current, etc).
 
 10. Set a good example. Promote safety by kiting safely.
 
-## North launch
+## North landing
 
 [http://sports.groups.yahoo.com/group/3rdave/message/46](http://sports.groups.yahoo.com/group/3rdave/message/46)
 
-> It is worse than that. It is dangerous to land anywhere BUT between the
-> poles, as we moved all the old car carcasses to the other sides of the
-> poles, along with many of the rocks. Whereas we buried all the rocks
-between
-> the poles so that they would only be about 6 inches out of the mud, beyond
-> the poles they can come up a foot or so. So a person landing in the north
-> cove 'must' come in directly between the poles, as centered as possible.
->
-> JR set the poles and marked them with green and red tap. He also put the
-> yellow whiffle balls on them to make them easier to see from the bay side
-> (still difficult). When the rider cannot see any color on the poles, it is
-> safe to ride right into the cove. When the rider can see green on the
-poles,
-> it is safe to body drag past the rocks. When the rider can see red, s/he
-has
-> to walk through the rocks. When doing this, and since the rocks may be
-> exposed about 6", it is important to take small, high steps. Tripping on a
-> rock, since they are covered in barnacles, WILL result in injury. Just
-take
-> a look at my legs if you don't believe it.
->
-> The bottom of the north cove is mostly hard-packed something, but up where
-> it becomes dry there is some exposed clay that is slippery.
+(At low tide you can check out these hazards.)
+
+    > It is worse than that. It is dangerous to land anywhere BUT between the
+    > poles, as we moved all the old car carcasses to the other sides of the 
+    > poles, along with many of the rocks. Whereas we buried all the rocks between
+    > the poles so that they would only be about 6 inches out of the mud, beyond
+    > the poles they can come up a foot or so. So a person landing in the north
+    > cove 'must' come in directly between the poles, as centered as possible.
+    >
+    > JR set the poles and marked them with green and red tap. He also put the
+    > yellow whiffle balls on them to make them easier to see from the bay side 
+    > (still difficult). When the rider cannot see any color on the poles, it is
+    > safe to ride right into the cove. When the rider can see green on the poles,
+    > it is safe to body drag past the rocks. When the rider can see red, s/he has
+    > to walk through the rocks. When doing this, and since the rocks may be
+    > exposed about 6", it is important to take small, high steps. Tripping on a
+    > rock, since they are covered in barnacles, WILL result in injury. Just take
+    > a look at my legs if you don't believe it.
+    >
+    > The bottom of the north cove is mostly hard-packed something, but up where
+    > it becomes dry there is some exposed clay that is slippery.
