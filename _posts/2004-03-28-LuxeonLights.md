@@ -1,13 +1,13 @@
 ---
 author: Mang
-date: '2004-06-17 22:06:07'
+date: '2004-06-17 22:15:19'
 layout: post
 title: LuxeonLights
 ---
 
 ![131_3115_small.jpg]({{ site.baseurl }}/images/131_3115_small.jpg)
 
-These guys offer optics for the Luxeon (including some interesting ones for RGB). [http://www.fraen.com/optics.htm](http://www.fraen.com/optics.htm)
+These guys offer (expensive) optics for the Luxeon (including some interesting ones for RGB). [http://www.fraen.com/optics.htm](http://www.fraen.com/optics.htm)
 
 Optics available through Future Electronics ([Suppliers](Suppliers.html)).
 
