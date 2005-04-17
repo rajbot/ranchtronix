@@ -1,11 +1,11 @@
 ---
 author: Mang
-date: '2005-02-01 19:48:26'
+date: '2005-04-17 23:18:36'
 layout: post
 title: Motorcycles
 ---
 
-mang likes his HondaCB1, even though right now it is sad.
+mang likes his HondaCB1.
 
 Regulator / Rectifier linky:
 
