@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-05-09 22:04:30'
+date: '2005-05-09 22:07:27'
 layout: post
 title: MangSurfLog
 ---
@@ -10,6 +10,11 @@ title: MangSurfLog
 Oh baby.  Finally had a decent amount of power.  Sheeting the bar in and out is a great way to control the power while you're up on plane.  With the kite locked in position it's basically the bar and the board that keep you in trim.  Did a little bit of upwind.  Need to be confident enough to go out farther before heading back towards the beach.
 
 Riding without the leash feels great.  Need to practice body dragging upwind in order to retrieve the board.  A nice woman on a kayak retrieved my board when I dropped it fairly far out.  Towards the end of the session the wind was dropping a bit and I wanted more power!  A lot of speed is needed before you can go upwind.
+
+Next steps:
+
+* consistently go upwind
+* start jumping(!!!)
 
 ## 2005-04-30 - Kitesurfing
 
