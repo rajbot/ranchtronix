@@ -1,9 +1,30 @@
 ---
 author: Mang
-date: '2005-02-03 07:21:52'
+date: '2005-05-09 22:04:30'
 layout: post
 title: MangSurfLog
 ---
+
+## 2005-05-07 - Kitesurfing
+
+Oh baby.  Finally had a decent amount of power.  Sheeting the bar in and out is a great way to control the power while you're up on plane.  With the kite locked in position it's basically the bar and the board that keep you in trim.  Did a little bit of upwind.  Need to be confident enough to go out farther before heading back towards the beach.
+
+Riding without the leash feels great.  Need to practice body dragging upwind in order to retrieve the board.  A nice woman on a kayak retrieved my board when I dropped it fairly far out.  Towards the end of the session the wind was dropping a bit and I wanted more power!  A lot of speed is needed before you can go upwind.
+
+## 2005-04-30 - Kitesurfing
+
+Longest, smoothest session yet.  Slight hints of going upwind.
+
+## 2005-04-29 - Surfing
+
+Nice session at Linda Mar.
+
+## Unrecorded sessions summary
+
+It's been good:
+
+* [http://www.ookeek.org/mang/pics/fairfaxbolinas/](http://www.ookeek.org/mang/pics/fairfaxbolinas/)
+* [http://www.ookeek.org/mang/pics/pacifica/](http://www.ookeek.org/mang/pics/pacifica/)
 
 ## 2005-02-02 - Motorcycle
 
