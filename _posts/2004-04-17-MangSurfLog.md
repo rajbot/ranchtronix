@@ -1,9 +1,15 @@
 ---
 author: Mang
-date: '2005-05-09 22:07:27'
+date: '2005-05-09 22:29:27'
 layout: post
 title: MangSurfLog
 ---
+
+## 2005-05-09 - Motorcycle
+
+Bike has been hard to start.  On a cold start, with no previous throttle input, it starts easiest with the choke open and the throttle pushed back against the stop (further closed).  Once it's running and warm, it seems to run fine.  Not sure exactly what this means.  Possibly there is some seal or valve that has gone bad, and the problem is worse when cold than warm.  Possibly the throttle cable has shrunk(?) or there is some other problem with the carbs???  More investigation is necessary.
+
+Also, I really need to replace the left fork seal.  Been slowly leaking for awhile now and the handling is noticeably worse.
 
 ## 2005-05-07 - Kitesurfing
 
