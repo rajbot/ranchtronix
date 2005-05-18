@@ -1,9 +1,23 @@
 ---
 author: Mang
-date: '2005-05-09 22:29:27'
+date: '2005-05-18 19:58:06'
 layout: post
 title: MangSurfLog
 ---
+
+## 2005-05-18 - Motorcycle
+
+Oops, I dropped my bike.  Classic series of factors culminating in failure.  Couldn't find the car.  Already a little aggravated, decided to take the motorcycle and look.  It was drizzling and road surface was slick.  Not paying full attention, came to a stop at the same time as an SUV oncoming from right.  Motioned for SUV to go through, but they were doing a right turn and waved me on.  I went straight, and let my aggro get the better of me and hit the throttle.  About 50 feet up theh street an SUV parked on right started pulling out directly in front of me, about 10-15 feet away.  Hit the brakes with a little too much rear/not enough front.   Bike went down on left side, stopping about 2 feet in front of SUV.  All I got was a minor scrape on my knee (jacket and gloves prevented scrapes to hand and shoulder).  Turns out it was a one-way street (I had been distracted).  The driver was a local and didn't look before pulling out.  Minor scrapes to the bike, bent shifter, and bent metal blocking clutch handle (looks like no frame damage).
+
+Mistakes:
+
+* distraction/aggravation (primary)
+* excessive speed for road condition (wet, narrow)
+* not looking far enough ahead (see distraction)
+* not enough front brake
+* not keeping bike in proper condition (lack of fork oil contributing to poor handling/braking)
+
+I had basically the right reaction once I was in the situation (swerving would have been too hazardous), but I never should have been there.
 
 ## 2005-05-09 - Motorcycle
 
