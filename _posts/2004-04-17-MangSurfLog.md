@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-05-18 19:59:54'
+date: '2005-05-19 00:17:53'
 layout: post
 title: MangSurfLog
 ---
@@ -18,6 +18,8 @@ Mistakes:
 * not keeping bike in proper condition (lack of fork oil contributing to poor handling/braking)
 
 I had basically the right reaction once I was in the situation (swerving would have been too hazardous), but I never should have been there.
+
+UPDATE: So the reason I couldn't find the car is because it was towed!  Today is in the running for worst day ever.
 
 ## 2005-05-09 - Motorcycle
 
