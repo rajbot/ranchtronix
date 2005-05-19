@@ -1,13 +1,13 @@
 ---
 author: Mang
-date: '2005-05-19 00:17:53'
+date: '2005-05-19 00:18:42'
 layout: post
 title: MangSurfLog
 ---
 
 ## 2005-05-18 - Motorcycle
 
-Oops, I dropped my bike.  Classic series of factors culminating in failure.  Couldn't find the car.  Already a little aggravated, decided to take the motorcycle and look.  It was drizzling and road surface was slick.  Not paying full attention, came to a stop at the same time as an SUV oncoming from right.  Motioned for SUV to go through, but they were doing a left turn and waved me on.  I went straight, and let my aggro get the better of me and hit the throttle.  About 50 feet up the street another SUV parked on right started pulling out directly in front of me, about 10-12 feet away.  Hit the brakes with a little too much rear/not enough front.   Bike went down on left side, stopping about 2 feet in front of SUV.  All I got was a minor scrape on my knee (jacket and gloves prevented scrapes to hand and shoulder).  Turns out it was a one-way street (I had been distracted).  The driver was a local and didn't look before pulling out.  Minor scrapes to the bike, bent shifter, and bent metal blocking clutch handle (looks like no frame damage).
+Oops, I dropped my bike.  Classic series of factors culminating in failure.  Couldn't find the car.  Already a little aggravated, decided to take the motorcycle and look.  It was drizzling and road surface was slick.  Not paying full attention, came to a stop at the same time as an SUV oncoming from right.  Motioned for SUV to go through, but they were doing a left turn and waved me on.  I went straight, and let my aggro get the better of me and hit the throttle.  About 50 feet up the street another SUV parked on right started pulling out directly in front of me, about 10-12 feet away.  Hit the brakes with a little too much rear/not enough front.   Bike went down on left side, stopping about 2 feet in front of SUV.  All I got was a minor scrape on my knee (jacket and gloves prevented scrapes to hand and shoulder).  Turns out it was a one-way street (I had been distracted by SUV #1).  The driver was a local and didn't look before pulling out.  Minor scrapes to the bike, bent shifter, and bent metal blocking clutch handle (looks like no frame damage).
 
 Mistakes:
 
