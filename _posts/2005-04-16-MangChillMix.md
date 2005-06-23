@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-04-27 23:59:55'
+date: '2005-06-23 22:20:42'
 layout: post
 title: MangChillMix
 ---
@@ -27,3 +27,6 @@ Bridge to tension:
 
 Tension:
     Murcof - Martes - Unison
+
+Beaty:
+    Theorem vs Stuart Walker - Solstice - thx3
