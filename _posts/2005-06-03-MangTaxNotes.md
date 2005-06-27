@@ -1,9 +1,11 @@
 ---
 author: Mang
-date: '2005-06-03 20:24:44'
+date: '2005-06-27 18:03:29'
 layout: post
 title: MangTaxNotes
 ---
+
+[MangTaxDays](MangTaxDays.html)
 
 Moving from Canada to US:
 
