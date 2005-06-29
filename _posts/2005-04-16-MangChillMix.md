@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-06-23 22:20:42'
+date: '2005-06-29 20:03:26'
 layout: post
 title: MangChillMix
 ---
@@ -30,3 +30,6 @@ Tension:
 
 Beaty:
     Theorem vs Stuart Walker - Solstice - thx3
+
+Uptempo:
+    [http://www.properlychilled.com/music/dj/profile.php?view=5](http://www.properlychilled.com/music/dj/profile.php?view=5) at -24:00
