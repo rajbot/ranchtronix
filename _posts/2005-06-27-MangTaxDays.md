@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-06-27 18:03:59'
+date: '2005-07-06 22:24:36'
 layout: post
 title: MangTaxDays
 ---
@@ -28,3 +28,5 @@ title: MangTaxDays
     2005-01-02 Ottawa -> SF
     2005-03-10 SF -> Vancouver
     2005-03-13 Vancouver -> SF
+    2005-03-14 (Start at Slide)
+    2005-07-29 (Stop at Slide)
