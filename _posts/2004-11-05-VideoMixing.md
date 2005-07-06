@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-03-24 02:23:11'
+date: '2005-07-06 18:39:24'
 layout: post
 title: VideoMixing
 ---
@@ -77,6 +77,11 @@ Data visualization:
 
 * [emmastrange livejournal visualizations](http://www.livejournal.com/users/emmastrange/)
 * [Cyberspace topology (lots of good historical examples)](http://www.cybergeography.org/atlas/topology.html)
+
+Camera housings:
+
+* [Homemade with PVC tube](http://insel.heim.at/malediven/350052/mikedo_e.htm)
+* [Homemade with acrylic](http://www2.mrc-lmb.cam.ac.uk/personal/pdh/housing/index.html#III)
 
 [MangVJLog](MangVJLog.html)
 
