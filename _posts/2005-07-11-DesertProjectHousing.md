@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-07-11 03:37:59'
+date: '2005-07-11 03:38:18'
 layout: post
 title: DesertProjectHousing
 ---
@@ -17,7 +17,7 @@ Desert projector enclosure (courtesy of Sam)
     - cracks in top of box is where air exits
 
 Idea:
-    - create positive pressure clean air environment
+    - creates positive pressure clean air environment
     - keeps cool
     - filter and fan assembly is far from projector
 
