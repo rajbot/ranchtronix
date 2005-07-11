@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-07-06 18:39:24'
+date: '2005-07-11 03:36:51'
 layout: post
 title: VideoMixing
 ---
@@ -82,6 +82,7 @@ Camera housings:
 
 * [Homemade with PVC tube](http://insel.heim.at/malediven/350052/mikedo_e.htm)
 * [Homemade with acrylic](http://www2.mrc-lmb.cam.ac.uk/personal/pdh/housing/index.html#III)
+* [DesertProjectHousing](DesertProjectHousing.html)
 
 [MangVJLog](MangVJLog.html)
 
