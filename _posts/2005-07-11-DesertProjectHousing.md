@@ -1,11 +1,11 @@
 ---
 author: Mang
-date: '2005-07-11 03:38:18'
+date: '2005-07-11 03:39:26'
 layout: post
 title: DesertProjectHousing
 ---
 
-Desert projector enclosure (courtesy of Sam)
+Desert projector enclosure (courtesy of Sam):
 
     - plastic storage bin
     - clear plexiglas
@@ -22,7 +22,7 @@ Idea:
     - filter and fan assembly is far from projector
 
 
-Box with air filter
+Box with air filter:
     - HEPA furnace filter
     - taped trash compactor bag on one side, another bag on other side
     - squirrel cage blower to force air through
