@@ -1,11 +1,11 @@
 ---
 author: Mang
-date: '2005-09-22 16:26:17'
+date: '2005-09-22 16:26:44'
 layout: post
 title: MangResearchWhiteBikes
 ---
 
-Transcription of [http://www.blog.morgaine-lefaye.net/images/netherlands/provo_doc_1.php](http://www.blog.morgaine-lefaye.net/images/netherlands/provo_doc_1.php)
+'''Transcription of [http://www.blog.morgaine-lefaye.net/images/netherlands/provo_doc_1.php'''](http://www.blog.morgaine-lefaye.net/images/netherlands/provo_doc_1.php''')
 
 Provo's Fietsenplan
 
