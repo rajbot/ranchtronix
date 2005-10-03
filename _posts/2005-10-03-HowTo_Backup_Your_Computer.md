@@ -1,13 +1,13 @@
 ---
 author: Raj
-date: '2005-10-03 21:51:57'
+date: '2005-10-03 21:53:39'
 layout: post
 title: HowTo_Backup_Your_Computer
 ---
 
 ## [HowTo](HowTo.html) backup your computer
 
-My usualy advice is "use rsync", but Jesse gives some really good advice. I added a bit here and there.
+My usualy advice is "use rsync", but Jesse gives some really good advice:
 
 As you can imagine, this is one of those topics that geeks take pride in
 having long and serious arguments about.  Oh wait, that is just about
