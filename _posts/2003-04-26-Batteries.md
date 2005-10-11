@@ -1,6 +1,6 @@
 ---
-author: Mang
-date: '2005-01-12 09:00:34'
+author: Raj
+date: '2005-10-11 20:05:56'
 layout: post
 title: Batteries
 ---
@@ -21,3 +21,4 @@ Check out how for the [MX 1300 D cell](http://www.duracell.com/oem/primary/alkal
 * [deep cycle battery faq](http://www.uuhome.de/william.darden/dcfaq.htm)
 * [another battery faq](http://www.wind-sun.com/Batteries/Battery_FAQ.htm)
 * [http://www.batteryuniversity.com](http://www.batteryuniversity.com)
+* [Recharging Alkaline Batteries](http://www.afrotechmods.com/reallycheap/batteries/batts.htm)
