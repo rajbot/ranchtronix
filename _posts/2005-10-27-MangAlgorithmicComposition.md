@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-10-27 16:53:40'
+date: '2005-10-27 16:54:11'
 layout: post
 title: MangAlgorithmicComposition
 ---
@@ -15,7 +15,7 @@ Phases of the project
 * map out the rhythm and melody parts
 * figure out what it is I like about them
 * grab some appropriate samples
-* write an algorithm to make music in this style
+* write an algorithm to make music in this style (probably a nested set of algorithms, driving each other from high to low)
 * * generate the individual drum sections (short patterns of very fast notes) (drum-hit algorithm)
 * * generate entire bars (drum sequence algorithm)
 * * generate an entire piece (3-4 minutes) (structure algorithm)
