@@ -1,11 +1,11 @@
 ---
 author: Mang
-date: '2005-11-08 03:24:15'
+date: '2005-11-08 03:24:51'
 layout: post
 title: MangResearchKernelShaikhCornford
 ---
 
-Clippings from paper hosted by the Open Source Research Community at MIT.
+Clippings from paper on CVS/BK hosted by the Open Source Research Community at MIT.
 
 "Version Management Tools: CVS to BK in the Linux Kernel"
 [http://opensource.mit.edu/papers/shaikhcornford.pdf](http://opensource.mit.edu/papers/shaikhcornford.pdf)
