@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-10-13 05:11:23'
+date: '2005-11-08 03:22:25'
 layout: post
 title: MangResearchKernel
 ---
@@ -24,3 +24,5 @@ Linus: "The long-range plan, and the real payoff, comes if main developers start
 [http://www.kerneltraffic.org/kernel-traffic/kt20020415_162.html#5](http://www.kerneltraffic.org/kernel-traffic/kt20020415_162.html#5)
 
 Larry [McVoy:](McVoy:.html) "Linus created his tree on 2002-04-03 17:03:45-08:00."
+
+[MangResearchKernelShaikhCornford](MangResearchKernelShaikhCornford.html)
