@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2004-09-28 20:06:14'
+date: '2005-11-10 19:47:47'
 layout: post
 title: FieldRecording
 ---
@@ -49,3 +49,7 @@ Check out the iRiver iHP-100 10GB [here](http://www.outwardsound.com/products.ph
 
 * [http://www.quietamerican.org/](http://www.quietamerican.org/)
 * [one minute vacations](http://www.quietamerican.org/vacation.html)
+
+----
+
+* [iPod remore control interface](http://ipodlinux.org/IPod_to_T%26A_remotecontrol_adapter)
