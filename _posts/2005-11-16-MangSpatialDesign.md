@@ -1,9 +1,11 @@
 ---
 author: Mang
-date: '2005-11-16 08:01:31'
+date: '2005-11-16 08:02:47'
 layout: post
 title: MangSpatialDesign
 ---
+
+[Spatial Design blog](http://itp.nyu.edu/spatialdesign/blog)
 
 What are the keywords to describe your project?
 
