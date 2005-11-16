@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-11-16 02:01:11'
+date: '2005-11-16 02:02:15'
 layout: post
 title: MangSpatialDesign
 ---
@@ -43,3 +43,9 @@ Theme:
 * showing hidden connections
 * virtual identities (masks)
 * changing social interactions
+
+Challenges:
+
+* must be easy for visitors to get into the experience
+* clear view to tags
+* clear lighting of tags
