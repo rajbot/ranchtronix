@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-11-16 02:02:15'
+date: '2005-11-16 06:16:06'
 layout: post
 title: MangSpatialDesign
 ---
@@ -20,12 +20,23 @@ What parts of the general scope are specifically covered by your project?
 
 How to introduce your project?
 
+"Name tags" will be distributed at the entrance to the show.  The name tags will consist of a 5x5" square of foamcore with an AR tag on the front and string so it can be worn around the neck.  A small sign will invite visitors to wear the name tag and replace it when they leave the show.
+
 Your intents for the project?
+
+To create a space which is a mixture of real and virtual, and which encourages interaction between visitors in the mixed-reality space.  The goal is for visitors who are in the same physical space to interact with each other through the virtual projected space, thus blurring the line between real and virtual.
 
 The starting point for someone experiencing the project?
 
-The audience or users for your project? What does your project provide that other similar projects do not provide or provide differently ? Please do some research on this point
+The starting point will be the kiosk with the name tags at the show entrance.  The kiosk will not give away the purpose of the tags -- this will be revealed when the visitors enter the room containing the video projection which reacts to the AR tags.
 
+The audience or users for your project?
+
+All show visitors.
+
+What does your project provide that other similar projects do not provide or provide differently?
+
+It allows multiple users to interact in an augmented reality environment without specialized hardware or training.
 
 What are the resources available to you today for this project?
 
