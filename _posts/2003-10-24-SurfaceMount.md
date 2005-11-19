@@ -1,6 +1,6 @@
 ---
-author: Mang
-date: '2003-10-24 18:55:47'
+author: Raj
+date: '2005-11-19 20:41:21'
 layout: post
 title: SurfaceMount
 ---
@@ -24,3 +24,4 @@ Linky linky:
 * [$20 hot air gun](http://www.usbmicro.com/odn/documents/46.html) - desolder iron from RS + aquarium air bubbler
 * [Stuff from the PIClist](http://www.piclist.com/techref/smds.htm) - lots of good info
 * [Hand soldering SOIC](http://www.blackboxcamera.com/STV5730A/SmartSoldering.htm) - you can use blue tack to hold 'em down
+* [ [http://www.orbelisk.com/blinky/blinky.html](http://www.orbelisk.com/blinky/blinky.html) Mike Estee's SMT page!]
