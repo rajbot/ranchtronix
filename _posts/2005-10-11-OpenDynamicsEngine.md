@@ -1,11 +1,11 @@
 ---
 author: Mang
-date: '2005-10-11 05:50:55'
+date: '2005-11-26 04:44:34'
 layout: post
 title: OpenDynamicsEngine
 ---
 
-Does rigid body simulation.  Used in a bunch of games.
+Does rigid body simulation.  Used in a bunch of games.  Python version is PyODE.
 
 I had to do this with Visual Studio 8 to compile/link:
 
