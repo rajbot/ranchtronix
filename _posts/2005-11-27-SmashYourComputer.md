@@ -1,10 +1,9 @@
 ---
 author: Mang
-date: '2005-11-27 21:14:43'
+date: '2005-11-27 21:15:35'
 layout: post
 title: SmashYourComputer
 ---
-
 
 Background/context
 
@@ -52,4 +51,4 @@ References
 * Survival Research Laboratories
 * recurring theme, e.g. in Office Space
 * burning Next cube [http://photo.simson.net/hacks/cubefire.html](http://photo.simson.net/hacks/cubefire.html)
-* Perry Hoberman - Cathartic User Interface [http://www.perryhoberman.com/](http://www.perryhoberman.com/)
+* Perry Hoberman - Cathartic User Interface (1995) [http://www.perryhoberman.com/pages/cui/text.html](http://www.perryhoberman.com/pages/cui/text.html)
