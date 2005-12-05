@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-12-05 05:29:02'
+date: '2005-12-05 05:46:20'
 layout: post
 title: MangResearchMicrosoft
 ---
@@ -79,6 +79,15 @@ At a recent gathering of venture capitalists Ballmer went so far as to suggest M
 (Mmmm, FUD. - mang)
 
 <pre>
+Ballmer: We'll outsmart open source
+By Peter Judge, ZDNet (UK)
+Published on ZDNet News: September 24, 2002
+</pre>
+[http://news.zdnet.com/2100-3513_22-959112.html](http://news.zdnet.com/2100-3513_22-959112.html)
+
+Asked by one lateral-thinking MVP whether Microsoft planned to offer applications software on Linux, Ballmer said no. "We do not anticipate offering software on Linux. Nobody pays for software on Linux." Even [StarOffice,](StarOffice,.html) sold by Sun, was originally a free product, he said. And IBM, arguably the No. 1 player in the Linux market, promotes Linux to big users, but does not actually sell Linux: "It's weird! IBM says 'Hey British Aerospace! Buy Linux.... From SuSE."
+
+<pre>
 That Steve Ballmer Linux memo in full
 Soundproof room required, but hear the man out
 By INQUIRER staff: Thursday 28 October 2004
@@ -117,6 +126,17 @@ A Microsoft representative demonstrated Virtual Server running instances of Red 
 
 <h1>Allchin</h1>
 <pre>
+OK, Win 2000 Still Needs Polish
+by Bob Trott, [InfoWorld](InfoWorld.html) Electric
+May 6, 1999
+</pre>
+[http://web.archive.org/web/19991118164345/http://www1.pcworld.com/pcwtoday/article/0,1510,10840,00.html](http://web.archive.org/web/19991118164345/http://www1.pcworld.com/pcwtoday/article/0,1510,10840,00.html)
+
+"Linux is UNIX. I don't consider it to be very innovative."
+
+(I guess he doesn't realize that GNU's Not... - mang)
+
+<pre>
 Microsoft Executive Says Linux Threatens Innovation (Update1)
 	
 2/14/01 4:57 PM
@@ -127,12 +147,11 @@ Source:Bloomberg News
 'Open source is an intellectual-property destroyer,'' Allchin said. ''I can't imagine something that could be worse than this for the software business and the intellectual-property business.''
 
 <pre>
-OK, Win 2000 Still Needs Polish
-by Bob Trott, [InfoWorld](InfoWorld.html) Electric
-May 6, 1999
+Microsoft exec calls open source a threat to innovation
+Last modified: February 15, 2001
 </pre>
-[http://web.archive.org/web/19991118164345/http://www1.pcworld.com/pcwtoday/article/0,1510,10840,00.html](http://web.archive.org/web/19991118164345/http://www1.pcworld.com/pcwtoday/article/0,1510,10840,00.html)
+[http://news.com.com/2100-1001-252681.html](http://news.com.com/2100-1001-252681.html)
 
-"Linux is UNIX. I don't consider it to be very innovative."
+Allchin said he's concerned that the open-source business model could stifle initiative in the computer industry.
 
-(He is of course conflating Linux with GNU, and of course GNU's Not... - mang)
+''I'm an American, I believe in the American Way,'' he said. ''I worry if the government encourages open source, and I don't think we've done enough education of policymakers to understand the threat.'' 
