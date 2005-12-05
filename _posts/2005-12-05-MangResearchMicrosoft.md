@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-12-05 05:46:20'
+date: '2005-12-05 05:48:10'
 layout: post
 title: MangResearchMicrosoft
 ---
@@ -23,6 +23,7 @@ The one issue we have now, the unique competitor we have is Linux. We haven't fi
 
 In the old days we used to just say we had more features, more capabilities, more ease of use and a lower price. In the case of this special new competitor we have, Linux, we're actually having to learn how to say we may have a higher price on this one but look at the additional value. Look at how the value actually leads to lower total cost of ownership despite the fact that our price may be higher. Look at the difference in ease of use. Look at the difference in terms of how comprehensive and integrated our offer is.
 
+<hr>
 <pre>
 Newsmaker:  Ballmer: No sleep lost over Linux
 By Michael Kanellos and Stephen Shankland
@@ -42,6 +43,8 @@ Linux itself is a clone of an operating system that is 20-plus years old. That's
 
 [...more good stuff in the article...]
 
+
+<hr>
 <pre>
 Steve Ballmer's Linux Memo (primary document)
 
@@ -53,6 +56,7 @@ IBM's endorsement of Linux has added credibility and an illusion of support and 
 
 (There is also no 'center of monopoly' - mang)
 
+<hr>
 <pre>
 Linux not accountable for security, Ballmer says
 By Jim Connolly, [SearchWin2000.com](SearchWin2000.com.html) Executive Editor
@@ -66,6 +70,7 @@ Noting that Microsoft has professional developers working with a common methodol
 
 "There's no reason to believe it would be of higher quality. I'm not necessarily claiming it should be of worse quality, but why should code submitted randomly by some hacker in China and distributed by some open source project, why is that, by definition, better?"
 
+<hr>
 <pre>
 Microsoft sings a new tune on Linux
 Once dismissed, open source now seen as formidable opponent
@@ -78,6 +83,8 @@ At a recent gathering of venture capitalists Ballmer went so far as to suggest M
 
 (Mmmm, FUD. - mang)
 
+
+<hr>
 <pre>
 Ballmer: We'll outsmart open source
 By Peter Judge, ZDNet (UK)
@@ -96,6 +103,8 @@ By INQUIRER staff: Thursday 28 October 2004
 
 [I]t's pretty clear that the facts show that Windows provides a lower total cost of ownership than Linux; the number of security vulnerabilities is lower on Windows, and Windows responsiveness on security is better than Linux; and Microsoft provides uncapped IP indemnification of their products, while no such comprehensive offering is available for Linux or open source.
 
+
+<hr>
 <pre>
 Ballmer attacks Linux on patent front
 Reuters November 18, 2004
@@ -108,6 +117,7 @@ Reuters November 18, 2004
 
 ([Author of study cited rebuffs Ballmer](http://www.eweek.com/article2/0,1759,1729908,00.asp) - mang)
 
+<hr>
 <pre>
 Ballmer: We'll help you run Linux, if we must
 Microsoft to offer more support for non-Windows systems
@@ -124,6 +134,7 @@ A Microsoft representative demonstrated Virtual Server running instances of Red 
 
 
 
+<hr>
 <h1>Allchin</h1>
 <pre>
 OK, Win 2000 Still Needs Polish
@@ -136,6 +147,7 @@ May 6, 1999
 
 (I guess he doesn't realize that GNU's Not... - mang)
 
+<hr>
 <pre>
 Microsoft Executive Says Linux Threatens Innovation (Update1)
 	
@@ -146,6 +158,7 @@ Source:Bloomberg News
 
 'Open source is an intellectual-property destroyer,'' Allchin said. ''I can't imagine something that could be worse than this for the software business and the intellectual-property business.''
 
+<hr>
 <pre>
 Microsoft exec calls open source a threat to innovation
 Last modified: February 15, 2001
