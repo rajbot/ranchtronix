@@ -1,9 +1,11 @@
 ---
 author: Mang
-date: '2005-12-05 04:52:56'
+date: '2005-12-05 05:27:54'
 layout: post
 title: MangResearchMicrosoft
 ---
+
+<h1>Ballmer</h1>
 
 <pre>
 Steve Ballmer Speech Transcript - Fusion 2002
@@ -64,6 +66,18 @@ Noting that Microsoft has professional developers working with a common methodol
 "There's no reason to believe it would be of higher quality. I'm not necessarily claiming it should be of worse quality, but why should code submitted randomly by some hacker in China and distributed by some open source project, why is that, by definition, better?"
 
 <pre>
+(Mmmm, FUD. - mang)
+
+Microsoft sings a new tune on Linux
+Once dismissed, open source now seen as formidable opponent
+By Victoria Murphy
+Updated: 9:22 p.m. ET Aug. 6, 2004
+</pre>
+[http://www.msnbc.msn.com/id/5614334/](http://www.msnbc.msn.com/id/5614334/)
+
+At a recent gathering of venture capitalists Ballmer went so far as to suggest Microsoft might own intellectual property in Linux and assured the audience that Microsoft would pursue any violation of its own patents. Before he spoke, a fire alarm went off. "It was eerily symbolic," says a venture capitalist in attendance. "We all scattered." Microsoft denies this, and says it will not litigate.
+
+<pre>
 (Memo from Ballmer to customers - mang)
 
 That Steve Ballmer Linux memo in full
@@ -75,6 +89,18 @@ By INQUIRER staff: Thursday 28 October 2004
 [http://www.theinquirer.net/?article=19334](http://www.theinquirer.net/?article=19334)
 
 [I]t's pretty clear that the facts show that Windows provides a lower total cost of ownership than Linux; the number of security vulnerabilities is lower on Windows, and Windows responsiveness on security is better than Linux; and Microsoft provides uncapped IP indemnification of their products, while no such comprehensive offering is available for Linux or open source.
+
+<pre>
+Ballmer attacks Linux on patent front
+Reuters November 18, 2004
+</pre>
+[http://news.zdnet.com/2100-3513_22-5457879.html](http://news.zdnet.com/2100-3513_22-5457879.html)
+
+"There was a report out this summer by an open-source group that highlighted that Linux violates over 228 patents"
+
+"Someday, for all countries that are entering (the World Trade Organization), somebody will come and look for money to pay for the patent rights for that intellectual property," Ballmer said. "So the licensing costs are less clear than people think today."
+
+([Author of study cited rebuffs Ballmer](http://www.eweek.com/article2/0,1759,1729908,00.asp) - mang)
 
 <pre>
 This is kind of useless, but humourous nonetheless - mang
@@ -95,3 +121,26 @@ A Microsoft representative demonstrated Virtual Server running instances of Red 
 
 "Much as that hurts my eyes, I know that's an important capability for our Virtual Server customers," Ballmer said, speaking at the Microsoft Management Summit 2005 in Las Vegas.
 
+
+
+<h1>Allchin</h1>
+<pre>
+Microsoft Executive Says Linux Threatens Innovation (Update1)
+	
+2/14/01 4:57 PM
+Source:Bloomberg News
+</pre>
+[http://web.archive.org/web/20021013182553/news.cnet.com/investor/news/newsitem/0-9900-1028-4825719-RHAT.html](http://web.archive.org/web/20021013182553/news.cnet.com/investor/news/newsitem/0-9900-1028-4825719-RHAT.html)
+
+'Open source is an intellectual-property destroyer,'' Allchin said. ''I can't imagine something that could be worse than this for the software business and the intellectual-property business.''
+
+<pre>
+OK, Win 2000 Still Needs Polish
+by Bob Trott, [InfoWorld](InfoWorld.html) Electric
+May 6, 1999
+</pre>
+[http://web.archive.org/web/19991118164345/http://www1.pcworld.com/pcwtoday/article/0,1510,10840,00.html](http://web.archive.org/web/19991118164345/http://www1.pcworld.com/pcwtoday/article/0,1510,10840,00.html)
+
+"Linux is UNIX. I don't consider it to be very innovative."
+
+(He is of course conflating Linux with GNU, and of course GNU's Not... - mang)
