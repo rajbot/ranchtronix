@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-12-05 22:58:43'
+date: '2005-12-05 22:59:18'
 layout: post
 title: SmashYourComputer
 ---
@@ -233,7 +233,7 @@ main:
     SEROUT2 tx, n9600, ["x", HEX2 xTiltMax.HighByte, HEX2 xTiltMax.LowByte]
     SEROUT2 tx, n9600, [HEX2 xTiltMin.HighByte, HEX2 xTiltMin.LowByte]
     SEROUT2 tx, n9600, ["y", HEX2 yTiltMax.HighByte, HEX2 yTiltMax.LowByte]
-    SEROUT2 tx, n9600, [,HEX2 yTiltMin.HighByte, HEX2 yTiltMin.LowByte, 10,13]      
+    SEROUT2 tx, n9600, [HEX2 yTiltMin.HighByte, HEX2 yTiltMin.LowByte, 10,13]      
     PAUSE 10
     goto initialize
 
