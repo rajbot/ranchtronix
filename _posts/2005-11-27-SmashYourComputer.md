@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-12-05 22:59:18'
+date: '2005-12-05 22:59:39'
 layout: post
 title: SmashYourComputer
 ---
@@ -85,7 +85,7 @@ main:
 GOTO main
 </pre>
 
-More code.  Works!
+More code.  Works! Programmed onto chip labelled "16".
 
 <pre>
 DEFINE OSC 8
