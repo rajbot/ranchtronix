@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-12-05 05:27:54'
+date: '2005-12-05 05:29:02'
 layout: post
 title: MangResearchMicrosoft
 ---
@@ -31,7 +31,8 @@ Published: April 25, 2003
 </pre>
 [http://news.com.com/Ballmer+No+sleep+lost+over+Linux/2008-1082_3-998297.html](http://news.com.com/Ballmer+No+sleep+lost+over+Linux/2008-1082_3-998297.html)
 
-    Q: Microsoft has beaten companies touting free software before. But as one of your former executives pointed out, Linux is a completely different kind of free. There is no single company promoting it. There are people voluntarily coding for it. Do these aspects change how you compete against them.
+Q: Microsoft has beaten companies touting free software before. But as one of your former executives pointed out, Linux is a completely different kind of free. There is no single company promoting it. There are people voluntarily coding for it. Do these aspects change how you compete against them.
+
 A: We have competed with things that had no price attached with them before. There is a clear set of guideposts for adding value to customers to differentiate you from the guy who has no price or a lower price. It is a different model in the sense that there is no commercial company behind it, but I think that winds up being an advantage for us, rather than a disadvantage.
 
 In what respect?
@@ -66,8 +67,6 @@ Noting that Microsoft has professional developers working with a common methodol
 "There's no reason to believe it would be of higher quality. I'm not necessarily claiming it should be of worse quality, but why should code submitted randomly by some hacker in China and distributed by some open source project, why is that, by definition, better?"
 
 <pre>
-(Mmmm, FUD. - mang)
-
 Microsoft sings a new tune on Linux
 Once dismissed, open source now seen as formidable opponent
 By Victoria Murphy
@@ -77,13 +76,11 @@ Updated: 9:22 p.m. ET Aug. 6, 2004
 
 At a recent gathering of venture capitalists Ballmer went so far as to suggest Microsoft might own intellectual property in Linux and assured the audience that Microsoft would pursue any violation of its own patents. Before he spoke, a fire alarm went off. "It was eerily symbolic," says a venture capitalist in attendance. "We all scattered." Microsoft denies this, and says it will not litigate.
 
+(Mmmm, FUD. - mang)
+
 <pre>
-(Memo from Ballmer to customers - mang)
-
 That Steve Ballmer Linux memo in full
-
 Soundproof room required, but hear the man out
-
 By INQUIRER staff: Thursday 28 October 2004
 </pre>
 [http://www.theinquirer.net/?article=19334](http://www.theinquirer.net/?article=19334)
@@ -103,13 +100,8 @@ Reuters November 18, 2004
 ([Author of study cited rebuffs Ballmer](http://www.eweek.com/article2/0,1759,1729908,00.asp) - mang)
 
 <pre>
-This is kind of useless, but humourous nonetheless - mang
-
 Ballmer: We'll help you run Linux, if we must
-
 Microsoft to offer more support for non-Windows systems
-Add Comment  Printer Friendly  Email Story
-
 By Ina Fried
 Published: Thursday 21 April 2005
 </pre>
