@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-12-02 22:47:41'
+date: '2005-12-05 22:34:44'
 layout: post
 title: SmashYourComputer
 ---
@@ -81,6 +81,83 @@ main:
     SEROUT2 tx, n9600, ["-", DEC yTilt.HighByte, ",", DEC yTilt.LowByte, 10,13]
 	'SEROUT2 tx, n9600, [xTilt.HighByte, xTilt.LowByte, yTilt.HighByte, yTilt.LowByte]
 	PAUSE 100
+
+GOTO main
+</pre>
+
+More code.  Works!
+
+<pre>
+DEFINE OSC 8
+
+xTilt VAR WORD
+yTilt VAR WORD
+xTiltMax var word
+yTiltMax var WORD
+xTiltMin var word
+yTiltMin var word
+XPin VAR portc.2
+YPin VAR portc.3
+tx VAR portc.6
+rx VAR portc.7
+n9600 CON 16468
+inbyte VAR BYTE
+PAUSE 500
+
+LEDPin var portb.7  
+
+'system test---LED blinks five times to verify code is running
+i var byte
+    for i = 0 to 4
+        high LEDpin
+        pause 200
+        low LEDPin
+        pause 200
+        next
+
+serout2 portc.6, 16468, ["Damn, this works.",10,13]
+
+' Initialize to current value
+initialize:
+    pulsin xpin, 1, xTilt
+    pulsin ypin, 1, ytilt
+
+    xtiltMax = XTILT
+    YTILTMAX = YTILT
+    xTiltMin = xTiltMax
+    yTiltMin = yTiltMax
+
+main:
+    PULSIN XPin, 1, xTilt
+    PULSIN YPin, 1, yTilt
+ 
+    if xTilt > xTiltMax then
+        xtiltMax = xtilt
+    else
+        if xTilt < xTiltMin THEn
+            xTiltMin = xTilt
+     endif
+    endif
+    
+    if ytilt > ytiltmax then
+     ytiltmax = ytilt
+    else
+        if yTilt < yTiltMin THEN
+         yTiltMin = yTilt
+        endif
+    endif
+ 
+    'look for some serial, and if it doesn't arrive, keep sampling
+    SERIN2 rx, n9600, 2, main, [inbyte]
+    'serout2 portc.6, 16468, ["Got this thing - ",dec inbyte, 10,13] 
+
+    SEROUT2 tx, n9600, ["x",hex2 xTiltMax.HighByte, hex2 xTiltMax.LowByte]
+    SEROUT2 tx, n9600, [",", HEx2 xTiltMin.HighByte, HEX2 xTiltMin.LowByte, 10,13]
+    SEROUT2 tx, n9600, ["y",Hex2 yTiltMax.HighByte, hex2 yTiltMax.LowByte]
+    SEROUT2 tx, n9600, [",", HEx2 yTiltMin.HighByte, HEX2 yTiltMin.LowByte, 10,13]      
+    'SEROUT2 tx, n9600, [xTilt.HighByte, xTilt.LowByte, yTilt.HighByte, yTilt.LowByte ]
+    PAUSE 100
+    goto initialize
 
 GOTO main
 </pre>
