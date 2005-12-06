@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2005-10-11 20:05:56'
+date: '2005-12-06 18:44:36'
 layout: post
 title: Batteries
 ---
@@ -22,3 +22,4 @@ Check out how for the [MX 1300 D cell](http://www.duracell.com/oem/primary/alkal
 * [another battery faq](http://www.wind-sun.com/Batteries/Battery_FAQ.htm)
 * [http://www.batteryuniversity.com](http://www.batteryuniversity.com)
 * [Recharging Alkaline Batteries](http://www.afrotechmods.com/reallycheap/batteries/batts.htm)
+* [Make a 9V battery using a [SuperCapacitor](http://www.bairesrobotics.com.ar/elektor/10-2003%20SuperCap%20Battery.pdf).](SuperCapacitor](http://www.bairesrobotics.com.ar/elektor/10-2003%20SuperCap%20Battery.pdf)..html)
