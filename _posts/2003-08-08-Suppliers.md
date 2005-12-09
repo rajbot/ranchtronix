@@ -1,6 +1,6 @@
 ---
-author: Mang
-date: '2005-05-20 00:06:41'
+author: Raj
+date: '2005-12-09 00:35:19'
 layout: post
 title: Suppliers
 ---
@@ -8,6 +8,7 @@ title: Suppliers
 # < Surplus / Hobbyist >
 
 These places are usually cheaper if they have what you want, and often have weird things.
+[Another surplus list.](http://jasonschlauch.backpackit.com/pub/39671)
 
 ## All Electronics
 <b>Order Turnaround Time:</b> 1 day<br>
@@ -142,3 +143,22 @@ Redwood City, CA 94063<br>
 
 ## eMachineShop
 [http://www.emachineshop.com/](http://www.emachineshop.com/)
+
+# Random
+
+Info from Jeff H on getting carpet bits:
+<pre>
+J & M Carpets
+1076 40th St  emeryville, ca
+
+The big truck outside is full of carpet and padding remnants.  They fill it
+all week, and every Saturday they drive to the dump.  Sign on the door
+says:  "Don't Knock, Just Take What You Need".   Very cool.
+</pre>
+
+Hill adds:
+<pre>
+you can get carpets reminants at Floorcraft on Bayshore and Cortland in SF.
+There is an area on Cortland where they put all their reminants before sending
+them to the dump.  I have gotten some great stuff there.
+</pre>
