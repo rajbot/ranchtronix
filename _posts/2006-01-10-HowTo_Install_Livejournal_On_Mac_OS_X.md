@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2006-01-10 08:00:45'
+date: '2006-01-10 08:19:19'
 layout: post
 title: HowTo_Install_Livejournal_On_Mac_OS_X
 ---
@@ -22,6 +22,12 @@ Instructions here: [http://www.livejournal.com/doc/server/lj.install.index.html]
 * sudo perl -MCPAN -e "install 'Image::Size'"
 * sudo perl -MCPAN -e "install 'MIME::Lite'"
 
+* Install libgd
+* * Download from [http://www.boutell.com/gd](http://www.boutell.com/gd)
+* * ./configure --mandir=/usr/local/share/man --without-fontconfig --without-freetype
+* * make; sudo make install
+
+* (need to install libjpeg)
 
 Test script to see what modules are already installed:
 
