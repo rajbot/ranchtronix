@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2006-01-10 07:56:10'
+date: '2006-01-10 07:57:54'
 layout: post
 title: HowTo_Install_Livejournal_On_Mac_OS_X
 ---
@@ -18,6 +18,8 @@ Instructions here: [http://www.livejournal.com/doc/server/lj.install.index.html]
 * * sudo ./bin/mysqld_safe
 
 * Install DBD::mysql: sudo perl -MCPAN -e "install 'DBD::mysql'"
+
+* sudo perl -MCPAN -e "install 'Image::Size'"
 
 Test script to see what modules are already installed:
 
