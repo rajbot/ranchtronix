@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2006-01-10 07:43:46'
+date: '2006-01-10 07:56:10'
 layout: post
 title: HowTo_Install_Livejournal_On_Mac_OS_X
 ---
@@ -10,7 +10,14 @@ Installing the Jan 2006 livejournal server on OS X Tiger 10.4.3.
 Instructions here: [http://www.livejournal.com/doc/server/lj.install.index.html](http://www.livejournal.com/doc/server/lj.install.index.html)
 
 ### 6.2 Installing Perl Modules
-First, install mysql 5.0 using binary installer: [http://dev.mysql.com/downloads/mysql/5.0.html](http://dev.mysql.com/downloads/mysql/5.0.html)
+
+* First, install mysql 5.0 using binary installer: [http://dev.mysql.com/downloads/mysql/5.0.html](http://dev.mysql.com/downloads/mysql/5.0.html)
+
+* Start the mysql server: 
+* * cd /usr/local/mysql
+* * sudo ./bin/mysqld_safe
+
+* Install DBD::mysql: sudo perl -MCPAN -e "install 'DBD::mysql'"
 
 Test script to see what modules are already installed:
 
