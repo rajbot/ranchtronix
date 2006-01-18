@@ -1,6 +1,6 @@
 ---
-author: Dasfoo
-date: '2004-10-12 06:47:24'
+author: DaRaNCH
+date: '2006-01-18 19:52:00'
 layout: post
 title: ColoredFire
 ---
@@ -60,6 +60,7 @@ Here's a <b>great</b> government resource for toxicity summaries - ['ATSDR'](htt
 * * Great 'Nordic Expert Group' document on [health risks of lithium compounds](http://www.bostoncoop.net/~mike/ah2002_16.pdf).
 * Copper chloride - green/turquoise
 * * [Copper toxicity summary](http://rais.ornl.gov/tox/profiles/copper.shtml)
+* * [Readable copper toxicity summary.](http://www.dartmouth.edu/~toxmetal/TXQAcu.shtml)
 * * I don't put copper compounds in my mouth.
 * Copper acetate - deep green
 * * This works (with denatured alcohol) on poi/chains!  
