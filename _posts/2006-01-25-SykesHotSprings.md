@@ -1,6 +1,6 @@
 ---
 author: DaRaNCH
-date: '2006-01-25 20:37:43'
+date: '2006-01-25 20:39:23'
 layout: post
 title: SykesHotSprings
 ---
@@ -69,7 +69,7 @@ on past the bald sport.  Water from the river at '''Barlow Flat''' , or probably
 
 ## The Springs (12 miles in)
 
-The way to the springs is not obvious from the trail at Sykes.  The
+The way to the springs is not obvious from the trail at '''Sykes'''.  The
 main trail crosses the Big Sur river, and continues on on the other
 side. Stay on the South side, and head *downriver*, asking directions
 at the campsites you pass - about 150 yards.  (You'll pass a camp
@@ -99,14 +99,14 @@ Two more spots on the topo suggest themselves as analogues to '''Good Feng Shui'
 
 Slightly WNW of '''Sykes''' Camp, the topo shows the trail going around a
 mountain ridge with a little rise of its' own, uphill from the trail.
-Though this is somewhat close to Sykes - maybe you'd prefer to shoot
+Though this is somewhat close to '''Sykes''' - maybe you'd prefer to shoot
 for '''The Beach''' - it looks like a good place to check out, might be a
 good spot for a nap.  Is there a view?  The saddle just South could be
 flat, as well.
 
 [http://tinyurl.com/yu9kx](http://tinyurl.com/yu9kx)
 
-Further west is another similar rise, towards the river from the trail.  Just far enough from Sykes that it may be a good oshititsdark or letsgetagoodstart stop.
+Further west is another similar rise, towards the river from the trail.  Just far enough from '''Sykes''' that it may be a good oshititsdark or letsgetagoodstart stop.
 
 [http://tinyurl.com/2fhdd](http://tinyurl.com/2fhdd)
 
