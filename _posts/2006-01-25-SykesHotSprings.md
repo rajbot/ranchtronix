@@ -1,6 +1,6 @@
 ---
 author: DaRaNCH
-date: '2006-01-25 20:14:28'
+date: '2006-01-25 20:15:51'
 layout: post
 title: SykesHotSprings
 ---
@@ -152,5 +152,9 @@ flat, as well.
 
 [http://tinyurl.com/yu9kx](http://tinyurl.com/yu9kx)
 
-Further west is another similar rise, towards the river from the
-trail.  Just far enough from Sykes that it may be a good oshititsdark
+Further west is another similar rise, towards the river from the trail.  Just far enough from Sykes that it may be a good oshititsdark or letsgetagoodstart stop.
+
+[http://tinyurl.com/2fhdd](http://tinyurl.com/2fhdd)
+
+Enjoy -
+Mike
