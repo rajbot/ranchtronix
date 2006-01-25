@@ -1,6 +1,6 @@
 ---
 author: DaRaNCH
-date: '2006-01-25 20:36:56'
+date: '2006-01-25 20:37:43'
 layout: post
 title: SykesHotSprings
 ---
@@ -40,7 +40,7 @@ The springs are on the way to '''The Beach''', directions below.
 
 ## 'The Feng Shui doesn't Smell of Cold Poo' - Near Terrace (6 miles in):
 
-The trail goes around a bend and over a small hilltop/saddle flat spot before plunging into the dank dark pit of '''Terrace''' camp.  From the flat  spot a ridge extends towards the river away from the mountain, going slightly upwards before heading down to the river.  Turn towards the  river, and bushwhack, and *keep bushwhacking* until the ridge obviously begins to fall away.  You'll find a good sheltered-but-open spot with a great view to the East, (including the better '''Bald Spot''',) a fire ring and conveniently-placed boulder serving as a table.  No trail there: very likely to be unoccupied.
+The trail goes around a bend and over a small hilltop/saddle flat spot before plunging into the dank dark pit of '''Terrace''' camp.  From the flat  spot a ridge extends towards the river away from the mountain, going slightly upwards before heading down to the river.  Turn towards the  river, and bushwhack, and ''keep bushwhacking'' until the ridge obviously begins to fall away.  You'll find a good sheltered-but-open spot with a great view to the East, (including the better '''Bald Spot''',) a fire ring and conveniently-placed boulder serving as a table.  No trail there: very likely to be unoccupied.
 
 topo map: [http://tinyurl.com/22p4r](http://tinyurl.com/22p4r)
 
