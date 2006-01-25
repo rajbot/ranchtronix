@@ -1,6 +1,6 @@
 ---
 author: DaRaNCH
-date: '2006-01-25 20:34:10'
+date: '2006-01-25 20:36:56'
 layout: post
 title: SykesHotSprings
 ---
@@ -32,15 +32,15 @@ The trail is tough for it's length.  Sykes is sometimes reported as the ideal hi
 
 # Seekrit spots and Spring Directions:
 
-We found several great alternatives to the designated campsites.  I'd recommend them to anyone thinking of going - *especially* over the first obvious campsite, Terrace, which has terrible feng shui.  Some are visible on the topo.
+We found several great alternatives to the designated campsites.  I'd recommend them to anyone thinking of going - *especially* over the first obvious campsite, '''Terrace''', which has terrible feng shui.  Some are visible on the topo.
 
-The springs are on the way to The Beach, directions below.
+The springs are on the way to '''The Beach''', directions below.
 
 
 
 ## 'The Feng Shui doesn't Smell of Cold Poo' - Near Terrace (6 miles in):
 
-The trail goes around a bend and over a small hilltop/saddle flat spot before plunging into the dank dark pit of Terrace camp.  From the flat  spot a ridge extends towards the river away from the mountain, going slightly upwards before heading down to the river.  Turn towards the  river, and bushwhack, and *keep bushwhacking* until the ridge obviously begins to fall away.  You'll find a good open spot with a great view to the East, (including the better 'Bald Spot',) a fire ring and conveniently-placed boulder serving as a table.  No trail there: very likely to be unoccupied.
+The trail goes around a bend and over a small hilltop/saddle flat spot before plunging into the dank dark pit of '''Terrace''' camp.  From the flat  spot a ridge extends towards the river away from the mountain, going slightly upwards before heading down to the river.  Turn towards the  river, and bushwhack, and *keep bushwhacking* until the ridge obviously begins to fall away.  You'll find a good sheltered-but-open spot with a great view to the East, (including the better '''Bald Spot''',) a fire ring and conveniently-placed boulder serving as a table.  No trail there: very likely to be unoccupied.
 
 topo map: [http://tinyurl.com/22p4r](http://tinyurl.com/22p4r)
 
@@ -52,7 +52,7 @@ the topo.)
 ## The 'Bald Spot' - near Barlow Flat (9 miles in)
 
 The trail goes around a bend and over a ridge through a broad saddle,
-a hundred yards or so before the trail down to Barlow Flat camp.  At
+a hundred yards or so before the trail down to '''Barlow Flat''' camp.  At
 this flat spot, a narrow trail heads steeply up to the left.  Climb up
 (120' vertical!) to the top of this hill, a large grassy flat spot
 with panoramic views of EVERYTHING + sunset.  Unfortunately, it was
@@ -61,7 +61,7 @@ already occupied by two nice women from Santa Cruz :(
 It's *well worth* a stop, whether or not you camp there.
 
 Another spot, shaded and smaller, with fire ring, is 50 yards further
-on past the bald sport.  Water from the river at Barlow Flat camp, or probably cleaner from Logwood Creek, a little ways back on the main trail.
+on past the bald sport.  Water from the river at '''Barlow Flat''' , or probably cleaner from Logwood Creek, a little ways back on the main trail.
 
 [http://tinyurl.com/2j5p9](http://tinyurl.com/2j5p9)
 
@@ -97,10 +97,10 @@ climbed from the water for cliff diving.  (Cannonballs only, please.)
 
 Two more spots on the topo suggest themselves as analogues to '''Good Feng Shui''' and the '''Bald Spot''':
 
-Slightly WNW of Sykes Camp, the topo shows the trail going around a
+Slightly WNW of '''Sykes''' Camp, the topo shows the trail going around a
 mountain ridge with a little rise of its' own, uphill from the trail.
 Though this is somewhat close to Sykes - maybe you'd prefer to shoot
-for The Beach - it looks like a good place to check out, might be a
+for '''The Beach''' - it looks like a good place to check out, might be a
 good spot for a nap.  Is there a view?  The saddle just South could be
 flat, as well.
 
