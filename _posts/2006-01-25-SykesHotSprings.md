@@ -1,6 +1,6 @@
 ---
 author: DaRaNCH
-date: '2006-01-25 20:33:08'
+date: '2006-01-25 20:34:10'
 layout: post
 title: SykesHotSprings
 ---
@@ -95,7 +95,7 @@ climbed from the water for cliff diving.  (Cannonballs only, please.)
 
 ## More Possibilities
 
-Two more spots on the topo suggest themselves as analogues to *Good Feng Shui* and the *Bald Spot*:
+Two more spots on the topo suggest themselves as analogues to '''Good Feng Shui''' and the '''Bald Spot''':
 
 Slightly WNW of Sykes Camp, the topo shows the trail going around a
 mountain ridge with a little rise of its' own, uphill from the trail.
