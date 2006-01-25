@@ -1,12 +1,11 @@
 ---
 author: DaRaNCH
-date: '2006-01-25 20:24:49'
+date: '2006-01-25 20:25:39'
 layout: post
 title: SykesHotSprings
 ---
 
-
-# Trip Report
+# Trip Report - Sykes Hot Springs
 
 I'm just back and well worn from a trip to Sykes Hot Springs with the indefatigable Sara Gallagher.  It was a great trip!
 
