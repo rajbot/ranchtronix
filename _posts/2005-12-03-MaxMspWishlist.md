@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2005-12-15 19:33:50'
+date: '2006-01-26 22:44:06'
 layout: post
 title: MaxMspWishlist
 ---
@@ -18,3 +18,4 @@ If any of these are actually possible, please let me know!
 * * rescaling of pixel image (not just text) would be nice
 * make resize handle target area larger
 * escape key to dismiss inspector dialog
+* Shift-Ctrl-S for Save-As
