@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-02-19 06:43:47'
+date: '2006-02-19 06:54:55'
 layout: post
 title: MaxMspWishlist
 ---
@@ -23,3 +23,4 @@ If any of these are actually possible, please let me know!
 * not crashing so much
 * more align options (not just top and left), including "smart align" shortcut
 * * e.g. align options like in CorelDRAW
+* small default movie in Jitter help patches
