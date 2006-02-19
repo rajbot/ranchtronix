@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-01-26 22:44:06'
+date: '2006-02-19 06:43:47'
 layout: post
 title: MaxMspWishlist
 ---
@@ -19,3 +19,7 @@ If any of these are actually possible, please let me know!
 * make resize handle target area larger
 * escape key to dismiss inspector dialog
 * Shift-Ctrl-S for Save-As
+* keyboard shortcut (or in help menu, or somewhere) for doing "getattributes" dumped to Max window
+* not crashing so much
+* more align options (not just top and left), including "smart align" shortcut
+* * e.g. align options like in CorelDRAW
