@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2005-02-22 04:02:05'
+date: '2006-03-16 01:12:30'
 layout: post
 title: OtherPeoplesProjects
 ---
@@ -64,6 +64,7 @@ Artists:
 Collectives and stuff:
 
 * [Time's Up](http://www.timesup.org/index2.html)
+* [http://www.tikirobot.net/wp](http://www.tikirobot.net/wp)
 
 Workflow:
 
