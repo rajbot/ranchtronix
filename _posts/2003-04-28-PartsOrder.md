@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-02-16 05:31:06'
+date: '2006-04-18 03:26:36'
 layout: post
 title: PartsOrder
 ---
@@ -121,6 +121,11 @@ goldmine-elec.com stuff
 	G15664 		Unique Green Neon Lamp (Pkg of 2) 	$1.00 	  	$5.00
 	G14781 		KP4M4-029 12VDC Stepper Motor 	$2.95 	  	$5.90
 </pre>
+
+Digikey:
+Aavid Thermalloy Slide-on heatsink HS179-ND
+3A H-Bridge LMD18200T
+
 
 Interesting parts (not ordering yet):
 
