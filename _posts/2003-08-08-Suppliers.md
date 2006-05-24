@@ -1,6 +1,6 @@
 ---
 author: Raj
-date: '2005-12-09 00:35:19'
+date: '2006-05-24 18:47:34'
 layout: post
 title: Suppliers
 ---
@@ -104,6 +104,12 @@ Redwood City, CA 94063<br>
 ## Surplus Center
 <b>Comments:</b>: Sell mechanical surplus stuff, motors, hydrualics, wheel, etc<br>
 [http://www.surpluscenter.com](http://www.surpluscenter.com)
+
+
+## Bay Area Iron Works
+1440 Egbert Ave
+San Francisco, CA 94124
+(415) 822-7561
 
 ## Enco
 <b>Comments</b> All about machine tools, parts and ascessories.  Cheaper than mcmaster carr.<br>
