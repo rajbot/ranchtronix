@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-08-22 22:45:22'
+date: '2006-08-22 22:45:45'
 layout: post
 title: MangApplications
 ---
@@ -23,6 +23,7 @@ title: MangApplications
 ## Festivals
 
 * ISEA
+* Governor General's New Media Awards
 
 # Maybe/look into
 
