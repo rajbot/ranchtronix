@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-08-22 22:43:19'
+date: '2006-08-22 22:44:05'
 layout: post
 title: MangApplications
 ---
@@ -11,7 +11,7 @@ title: MangApplications
 * Canada Council for the Arts
 * Eyebeam
 * ISEA
-* Augmented reality conference
+* Augmented reality - ISMAR - IEEE VR
 
 # Maybe/look into
 
