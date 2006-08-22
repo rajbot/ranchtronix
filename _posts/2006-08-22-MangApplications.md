@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-08-22 22:42:45'
+date: '2006-08-22 22:43:19'
 layout: post
 title: MangApplications
 ---
@@ -10,6 +10,8 @@ title: MangApplications
 * SIGGRAPH
 * Canada Council for the Arts
 * Eyebeam
+* ISEA
+* Augmented reality conference
 
 # Maybe/look into
 
