@@ -1,17 +1,28 @@
 ---
 author: Mang
-date: '2006-08-22 22:44:05'
+date: '2006-08-22 22:45:22'
 layout: post
 title: MangApplications
 ---
 
 # Things to apply to/for
 
-* SIGGRAPH
+## Grants
+
 * Canada Council for the Arts
+
+## Residencies
+
 * Eyebeam
-* ISEA
+
+## Conferences
+
+* SIGGRAPH
 * Augmented reality - ISMAR - IEEE VR
+
+## Festivals
+
+* ISEA
 
 # Maybe/look into
 
