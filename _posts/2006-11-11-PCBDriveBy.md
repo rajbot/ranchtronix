@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-11-11 21:32:28'
+date: '2006-11-11 21:45:48'
 layout: post
 title: PCBDriveBy
 ---
@@ -31,3 +31,21 @@ title: PCBDriveBy
 * * good sizes for pads and holes
 * * manipulating grid
 * * ground plane (fills)
+
+## Fabricating Your Board
+
+* homebrew techniques
+* Gerber file format
+* using the [SparkFun](SparkFun.html) CAM script
+* * slight modifications by Nick
+* panelizing
+* Design Rule Check (DRC)
+* * using freedfm.com
+* * using Eagle
+* some online fabricators
+* * BatchPCB
+* ** [http://www.batchpcb.com](http://www.batchpcb.com) (SparkFun front end to Gold Phoenix, $10 + $2.50/in, no minimum)
+* * Gold Phoenix
+* ** [http://www.goldphoenixpcb.biz/](http://www.goldphoenixpcb.biz/) ($120, 155sq in, multiple jobs on one panel)
+* * Custom PCB
+* ** [http://www.custompcb.com/](http://www.custompcb.com/)
