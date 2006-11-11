@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-11-11 21:56:32'
+date: '2006-11-11 21:56:45'
 layout: post
 title: PCBDriveBy
 ---
@@ -54,4 +54,4 @@ title: PCBDriveBy
 ## Surface Mount Soldering
 
 * you can do it
-* watch Nick solder!!
+* watch Nick solder!
