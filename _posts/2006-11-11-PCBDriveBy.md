@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-11-11 21:45:48'
+date: '2006-11-11 21:46:57'
 layout: post
 title: PCBDriveBy
 ---
@@ -49,3 +49,8 @@ title: PCBDriveBy
 * ** [http://www.goldphoenixpcb.biz/](http://www.goldphoenixpcb.biz/) ($120, 155sq in, multiple jobs on one panel)
 * * Custom PCB
 * ** [http://www.custompcb.com/](http://www.custompcb.com/)
+
+
+## Surface Mount Soldering
+
+* watch Nick solder!!
