@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-11-11 21:31:42'
+date: '2006-11-11 21:32:28'
 layout: post
 title: PCBDriveBy
 ---
@@ -23,12 +23,11 @@ title: PCBDriveBy
 ## Board Layout
 
 * transferring from schematic to board
-* change defaults for pad diameter and drill size
-* * diameter to auto (pad size)
 * setting board size
 * placing components
 * drawing wires (circuit traces)
 * layers (top, bottom, soldermask, silkscreen)
 * layout tips
+* * good sizes for pads and holes
 * * manipulating grid
 * * ground plane (fills)
