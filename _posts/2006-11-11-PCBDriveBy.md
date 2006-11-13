@@ -1,17 +1,23 @@
 ---
 author: Mang
-date: '2006-11-11 21:56:45'
+date: '2006-11-13 06:40:01'
 layout: post
 title: PCBDriveBy
 ---
 
 # PCB Drive By
 
+* intro to circuit boards
 * schematic capture
 * board layout
 * fabricating a board using homebrew techniques you can use on the floor
 * how to send a board out to be professionally fabricated
 * quick introduction to using surface mount parts
+
+## Intro to Circuit Boards
+
+* differences between breadboard, veroboard, wirewrap and printed circuits
+* advantages/disadvantages of PCBs
 
 ## Schematic Capture
 
