@@ -1,6 +1,6 @@
 ---
 author: Mang
-date: '2006-11-17 18:59:45'
+date: '2006-11-17 19:00:08'
 layout: post
 title: Ranchtronix
 ---
@@ -34,7 +34,7 @@ title: Ranchtronix
 
 <big>Obtainium:</big> [Crap We Don't Need](Crap_We_Don't_Need.html)
 
-<big>Software:</big> [OpenDynamicsEngine](OpenDynamicsEngine.html) - Ruby
+<big>Software:</big> [OpenDynamicsEngine](OpenDynamicsEngine.html) - [Ruby](Ruby.html)
 
 ----
 
