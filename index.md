@@ -2,23 +2,19 @@
 author: Mang
 date: '2006-11-17 19:00:08'
 layout: post
-title: Ranchtronix
 ---
 
-### [Calendar](Calendar.html)
+<a href="AmbienceAmbulance.html">![ambthumb.jpg]({{ site.baseurl }}/images/ambthumb.jpg)</a>
+<a href="BetSy.html">![betsythumb.jpg]({{ site.baseurl }}/images/betsythumb.jpg)</a>
+<a href="Ducky.html">![duckthumb.jpg]({{ site.baseurl }}/images/duckthumb.jpg)</a>
+<a href="ColoredFire.html">![firethumb.jpg]({{ site.baseurl }}/images/firethumb.jpg)</a>
+<a href="MiniDisco.html">![discothumb.jpg]({{ site.baseurl }}/images/discothumb.jpg)</a>
+<a href="Neon.html">![neonthumb.jpg]({{ site.baseurl }}/images/neonthumb.jpg)</a>
+<a href="StarWheel.html">![starthumb.jpg]({{ site.baseurl }}/images/starthumb.jpg)</a>
+<a href="TikiCrawler3000.html">![tikithumb2.jpg]({{ site.baseurl }}/images/tikithumb2.jpg)</a>
+<a href="YouAreHere.html">![youthumb.jpg]({{ site.baseurl }}/images/youthumb.jpg)</a>
 
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?AmbienceAmbulance">http://hyperreal.org/~rkumar/rtx/uploads/ambthumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?BetSy">http://hyperreal.org/~rkumar/rtx/uploads/betsythumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?Ducky">http://hyperreal.org/~rkumar/rtx/uploads/duckthumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?ColoredFire">http://hyperreal.org/~rkumar/rtx/uploads/firethumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?MiniDisco">http://www.hyperreal.org/~rkumar/rtx/uploads/discothumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?Neon">http://www.hyperreal.org/~rkumar/rtx/uploads/neonthumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?StarWheel">http://hyperreal.org/~rkumar/rtx/uploads/starthumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?TikiCrawler3000">http://hyperreal.org/~rkumar/rtx/uploads/tikithumb2.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?YouAreHere">http://hyperreal.org/~rkumar/rtx/uploads/youthumb.jpg</a>
-<a href="http://www.hyperreal.org/~rkumar/rtx/wiki.cgi?action=random">http://hyperreal.org/~rkumar/rtx/uploads/rtx-thumb.png</a>
-
-<big>Parts:</big>  
+<big>Parts:</big>
 [AGC](AGC.html) - [Bamboo](Bamboo.html) - [Batteries](Batteries.html) - [Beer](Beer.html) - [Connectors](Connectors.html) - [DecouplingCapacitors](DecouplingCapacitors.html) - [ELWire](ELWire.html) - [FiberOptic](FiberOptic.html) - [HomeAutomation](HomeAutomation.html) - [LEDs](LEDs.html) - [LittleRubberNinjas](LittleRubberNinjas.html) - [LogicAnalyzers](LogicAnalyzers.html) - [MicroControllers](MicroControllers.html) - [MidiControllers](MidiControllers.html) - [MoSFeTz](MoSFeTz.html) - [PartsOrder](PartsOrder.html) - [PCBs](PCBs.html) - [PinOuts](PinOuts.html) - [RadioFr3quency](RadioFr3quency.html) - [RapidPrototyping](RapidPrototyping.html) - [Resistors](Resistors.html) - [RotaryEncoders](RotaryEncoders.html) - [Safety](Safety.html) - [SolderingIrons](SolderingIrons.html) - [StepperMotors](StepperMotors.html) - [Brushless DC Motors](Brushless_DC_Motors.html) - [Suppliers](Suppliers.html) -  [SurfaceMount](SurfaceMount.html) - [WeldingSupplies](WeldingSupplies.html)
 
 
@@ -35,23 +31,3 @@ title: Ranchtronix
 <big>Obtainium:</big> [Crap We Don't Need](Crap_We_Don't_Need.html)
 
 <big>Software:</big> [OpenDynamicsEngine](OpenDynamicsEngine.html) - [Ruby](Ruby.html)
-
-----
-
-### Log in so you can edit pages
-
-* To create an account, go to the <a href="wiki.cgi?action=editprefs">preferences page</a>.<br>
-* Remember your User ID number and the password you type in.<br>
-* Next time, you can <a href="wiki.cgi?action=login">login here</a>.
-* If you forget your User ID number or your password, just go to the <a href="wiki.pl?action=editprefs">preferences page</a> and create a new account with the same name.
-* Remember to type in the Administrator password so you can edit pages!
-----
-
-### <a href="http://www.usemod.com/cgi-bin/wiki.pl?WhatIsaWiki">What the fuck is a wiki???</a>
-
-* How to format text: [Basic formating](http://www.usemod.com/cgi-bin/wiki.pl?TextFormattingRules) and [Wiki shortcuts](http://www.usemod.com/cgi-bin/wiki.pl?TextFormattingRules/WikiTextFormatting)
-* Create a new page by [SmashingWordsTogether,](SmashingWordsTogether,.html) or use a <a href="http://www.usemod.com/cgi-bin/wiki.pl?action=browse&id=Free_Links">Free Link</a>
-* Play around on the [TestPage](TestPage.html)
-* <a href="wiki.pl?action=index">Index</a> of all ranchtronix wiki pages.
-* Notes about the Ranchtronix [WikiEngine](WikiEngine.html)
-----
