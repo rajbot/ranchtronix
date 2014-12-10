@@ -13,6 +13,8 @@ layout: default
 <a href="StarWheel.html">![starthumb.jpg]({{ site.baseurl }}/images/starthumb.jpg)</a>
 <a href="TikiCrawler3000.html">![tikithumb2.jpg]({{ site.baseurl }}/images/tikithumb2.jpg)</a>
 <a href="YouAreHere.html">![youthumb.jpg]({{ site.baseurl }}/images/youthumb.jpg)</a>
+<a href="HotTub.html">![snowtub_thumb.jpg]({{ site.baseurl }}/images/snowtub_thumb.jpg)</a>
+
 
 <big>Parts:</big>
 [AGC](AGC.html) - [Bamboo](Bamboo.html) - [Batteries](Batteries.html) - [Beer](Beer.html) - [Connectors](Connectors.html) - [DecouplingCapacitors](DecouplingCapacitors.html) - [ELWire](ELWire.html) - [FiberOptic](FiberOptic.html) - [HomeAutomation](HomeAutomation.html) - [LEDs](LEDs.html) - [LittleRubberNinjas](LittleRubberNinjas.html) - [LogicAnalyzers](LogicAnalyzers.html) - [MicroControllers](MicroControllers.html) - [MidiControllers](MidiControllers.html) - [MoSFeTz](MoSFeTz.html) - [PartsOrder](PartsOrder.html) - [PCBs](PCBs.html) - [PinOuts](PinOuts.html) - [RadioFr3quency](RadioFr3quency.html) - [RapidPrototyping](RapidPrototyping.html) - [Resistors](Resistors.html) - [RotaryEncoders](RotaryEncoders.html) - [Safety](Safety.html) - [SolderingIrons](SolderingIrons.html) - [StepperMotors](StepperMotors.html) - [Brushless DC Motors](Brushless_DC_Motors.html) - [Suppliers](Suppliers.html) -  [SurfaceMount](SurfaceMount.html) - [WeldingSupplies](WeldingSupplies.html)
