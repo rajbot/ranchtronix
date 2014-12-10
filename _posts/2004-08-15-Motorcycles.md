@@ -5,7 +5,7 @@ layout: post
 title: Motorcycles
 ---
 
-mang likes his HondaCB1.
+mang likes his [HondaCB1](HondaCB1.html).
 
 Regulator / Rectifier linky:
 
