@@ -1,7 +1,7 @@
 ---
 author: Mang
 date: '2006-11-17 19:00:08'
-layout: post
+layout: default
 ---
 
 <a href="AmbienceAmbulance.html">![ambthumb.jpg]({{ site.baseurl }}/images/ambthumb.jpg)</a>
