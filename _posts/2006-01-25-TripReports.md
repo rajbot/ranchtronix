@@ -7,4 +7,4 @@ title: TripReports
 
 A compendium of travel notes.
 
-[SykesHotSprings.](SykesHotSprings..html)
+[SykesHotSprings.](SykesHotSprings.html)
