@@ -8,7 +8,10 @@ github_repository_url: https://github.com/rajbot/ranchtronix
 
 # Build settings
 highlighter: pygments
-markdown: kramdown
+markdown: redcarpet
 
 #the "none" style is an alias for /:categories/:title.html
 permalink: none
+
+redcarpet:
+  extensions: ['autolink', 'no_intra_emphasis', 'tables']
