@@ -11,7 +11,7 @@ first draft of a curriculum:
 engineering for fuckos curriculum
 ---------------------------------
 
-    Beam Theroy [ [BeamTheroy](_BeamTheroy.html)](BeamTheroy](_BeamTheroy.html).html)
+[Beam Theory](BeamTheroy.html)
 
 strength of structures
     tensile / compressive loads
