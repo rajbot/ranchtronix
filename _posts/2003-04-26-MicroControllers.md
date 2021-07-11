@@ -5,7 +5,7 @@ layout: post
 title: MicroControllers
 ---
 
-'''[/AVR](/AVR.html)'''
+## [AVR](/microcontrollers/AVR.html)
 
 8-bit RISC microcontrollers.  You get cpu, RAM, flash, eeprom, and IO on a single chip.  Down to 8 pins!  Can write in assembly, C (supported by GCC), or Basic (BASCOM-AVR).
 
@@ -15,7 +15,7 @@ title: MicroControllers
 * [USB microphone project](http://www.alanmacek.com/usb/project.html)
 * [IgorPlug-USB](http://www.cesko.host.sk/IgorPlugUSB/IgorPlug-USB%20(AVR)_eng.htm) - a USB implementation for the AVR - [homepage](http://www.cesko.host.sk/IgorPlugUSB/IgorPlug-USB%20(AVR)_eng.htm) [avrfreaks](http://www.avrfreaks.net/Tools/showtools.php?ToolID=459)
 
-'''[/PIC](/PIC.html)'''
+## PIC
 
 * Example code in C (including PID and heater control) [here](http://www.microchipc.com/sourcecode/)
 * A phase shifted PWM algorithm [here](http://www.dattalo.com/technical/theory/pwm.html) with PIC asm code [here](http://www.dattalo.com/technical/software/pic/pwm8.asm)
