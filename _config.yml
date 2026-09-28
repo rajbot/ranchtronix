@@ -3,7 +3,7 @@ title: ranchtronix
 description: > # this means to ignore newlines until "baseurl:"
   RaNchTr0n1x wiki
 #baseurl: "/ranchtronix" # the subpath of your site, e.g. /blog/
-url: "http://ranchtronix.org" # the base hostname & protocol for your site
+url: "https://ranchtronix.org" # the base hostname & protocol for your site
 github_repository_url: https://github.com/rajbot/ranchtronix
 
 # Build settings
